@@ -14,8 +14,8 @@
            "desc":"Best tips and strategy how to play Board Kings game.", 
            "uri":"com.mobapphome.mahandroidupdater.sample",  
            "img":"img/boardkings_icon.png", 
-           "release_date":"05/11/2016",
-           "update_date":"22/11/2016"
+           "release_date":"15/04/2017",
+           "update_date":"17/04/2017"
          }
          ,
          {
@@ -23,8 +23,8 @@
            "desc":"Best tips and strategy how to play Crash of Cars game.", 
            "uri":"com.mobapphome.mahencryptorlib",  
            "img":"img/cars_icon.png", 
-           "release_date":"05/11/2016",
-           "update_date":"05/11/2016"
+           "release_date":"15/04/2017",
+           "update_date":"17/04/2017"
          }  
          ,
         {
@@ -56,7 +56,7 @@
            "desc":"Best tips and strategy how to play Justice League game", 
            "uri":"com.mobapphome.millionaire.tr",  
            "img":"img/justiceleague_icon.png", 
-           "release_date":"05/12/2014"
+           "release_date":"05/04/2017"
          }
          ,
          {
@@ -64,7 +64,7 @@
           "desc":"Best tips how to play Power Rangers Legacy War.", 
           "uri":"com.mobapphome.milyoncu",  
           "img":"img/bitcity_icon.png", 
-          "release_date":"10/10/2014"
+          "release_date":"15/03/2017"
          }       
     ]
 }
