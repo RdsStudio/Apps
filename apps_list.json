@@ -4,7 +4,7 @@
            "name":"Guide of Bit City", 
            "desc":"Best tips and strategy how to play Bit City game.", 
            "uri":"com.mobapphome.mahads.sample",  
-           "img":"imgs/mah_ads_sample_icon.png", 
+           "img":"imgs/bitcity_icon.png", 
            "release_date":"05/11/2016",
            "update_date":"22/11/2016"
          }
@@ -13,7 +13,7 @@
            "name":"Tips of Board Kings", 
            "desc":"Best tips and strategy how to play Board Kings game.", 
            "uri":"com.mobapphome.mahandroidupdater.sample",  
-           "img":"imgs/mah_android_updater_sample_icon.png", 
+           "img":"imgs/boardkings_icon.png", 
            "release_date":"05/11/2016",
            "update_date":"22/11/2016"
          }
@@ -22,7 +22,7 @@
            "name":"Crash of Cars Guide", 
            "desc":"Best tips and strategy how to play Crash of Cars game.", 
            "uri":"com.mobapphome.mahencryptorlib",  
-           "img":"imgs/mah_encryptor_lib_sample_icon.png", 
+           "img":"imgs/cars_icon.png", 
            "release_date":"05/11/2016",
            "update_date":"05/11/2016"
          }  
@@ -31,7 +31,7 @@
            "name":"FHx New Server Coc", 
            "desc":"Best tips and strategy how to play Board Kings game.", 
            "uri":"com.mobapphome.millionaire.ru",  
-           "img":"imgs/millionaire_ru.png", 
+           "img":"imgs/fhxnew_icon.png", 
            "release_date":"05/12/2014"
          }
          ,
@@ -39,7 +39,7 @@
            "name":"Gordon Ramsay Dash Ultimade Guide", 
            "desc":"Best tips and strategy how to play Gordon Ramsay Dash game.", 
            "uri":"com.mobapphome.millionaire.en",  
-           "img":"imgs/millionaire_en.png", 
+           "img":"imgs/gordonramsay_icon.png", 
            "release_date":"05/12/2014"
          }
          ,
@@ -47,7 +47,7 @@
            "name":"Tips Ab Blast", 
            "desc":"Tips & strategy how to play Ab Blast game", 
            "uri":"com.mobapphome.millionaire.ge",  
-           "img":"imgs/millionaire_de.png", 
+           "img":"imgs/abblast_icon.png", 
            "release_date":"03/03/2017"
          }
          ,
@@ -55,7 +55,7 @@
            "name":"Justice League Ultimade Guide", 
            "desc":"Best tips and strategy how to play Justice League game", 
            "uri":"com.mobapphome.millionaire.tr",  
-           "img":"imgs/millionaire_tr.png", 
+           "img":"imgs/justiceleague_icon.png", 
            "release_date":"05/12/2014"
          }
          ,
@@ -63,7 +63,7 @@
           "name":"Power Rangers Legacy War", 
           "desc":"Best tips how to play Power Rangers Legacy War.", 
           "uri":"com.mobapphome.milyoncu",  
-          "img":"imgs/millionaire_az.png", 
+          "img":"imgs/bitcity_icon.png", 
           "release_date":"10/10/2014"
          }       
     ]
