@@ -1,0 +1,43 @@
+{
+  "menu_content":[{
+  "name": "Save Your Gems",
+  "description": "Part 1 of 8 of our Clash of Clans Tips series.",
+  "url": "file:///android_asset/jsw/halaman001.html",
+  "photo": "icon"
+}, {
+  "name": "Use Cheap Units",
+  "description": "Part 2 of 8 of our Clash of Clans Tips series.",
+  "url": "file:///android_asset/jsw/halaman002.html",
+  "photo": "icon"
+}, {
+  "name": "Only Use Spells When Necessary",
+  "description": "Part 3 of 8 of our Clash of Clans Tips series.",
+  "url": "file:///android_asset/jsw/halaman003.html",
+  "photo": "icon"
+}, {
+  "name": "Slowly Upgrade Your Town Hall",
+  "description": "Part 4 of 8 of our Clash of Clans Tips series.",
+  "url": "file:///android_asset/jsw/halaman004.html",
+  "photo": "icon"
+}, {
+  "name": "Start Matchmaking Early",
+  "description": "Part 5 of 8 of our Clash of Clans Tips series.",
+  "url": "file:///android_asset/jsw/halaman005.html",
+  "photo": "icon"
+}, {
+  "name": "Use the “Next” Feature Frequently",
+  "description": "Part 6 of 8 of our Clash of Clans Tips series.",
+  "url": "file:///android_asset/jsw/halaman006.html",
+  "photo": "icon"
+}, {
+  "name": "Put the Clan Castle in the Center of Your Base",
+  "description": "Part 7 of 8 of our FHX Server Tips series.",
+  "url": "file:///android_asset/jsw/halaman007.html",
+  "photo": "icon"
+}, {
+  "name": "Focus on Dark Elixir",
+  "description": "Part 8 of 8 of our FHX Server Tips series.",
+  "url": "file:///android_asset/jsw/halaman008.html",
+  "photo": "icon"
+}]
+}
