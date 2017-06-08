@@ -1,0 +1,59 @@
+{
+	"menu_content": [{
+		"name": "Basic Information",
+		"url": "file:///android_asset/thbase/halaman00.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "8 Best Town Hall TH6 Farming Bases Anti Giants 2016-2017",
+		"url": "file:///android_asset/thbase/halaman01.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "18+ Exceptional Town Hall 7 War, Farming and Trophy Base Designs 2017",
+		"url": "file:///android_asset/thbase/halaman02.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "10 Best TH8 War Base Anti 3 Star/Everything With BombTower",
+		"url": "file:///android_asset/thbase/halaman03.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "9+ Best TH9 War Bases Anti 2 star With Bomb Tower 2016-2017",
+		"url": "file:///android_asset/thbase/halaman04.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "10+ Best TH10 Hybrid Bases With 2 Bomb Tower 2017",
+		"url": "file:///android_asset/thbase/halaman05.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Save Your Gems",
+		"url": "file:///android_asset/thbase/halaman06.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Use Cheap Units",
+		"url": "file:///android_asset/thbase/halaman07.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Only Use Spells When Necessary",
+		"url": "file:///android_asset/thbase/halaman08.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Slowly Upgrade Your Town Hall",
+		"url": "file:///android_asset/thbase/halaman09.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Start Matchmaking Early",
+		"url": "file:///android_asset/thbase/halaman10.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Use the “Next” Feature Frequently",
+		"url": "file:///android_asset/thbase/halaman11.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Put the Clan Castle in the Center of Your Base",
+		"url": "file:///android_asset/thbase/halaman12.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Focus on Dark Elixir",
+		"url": "file:///android_asset/thbase/halaman13.html",
+		"photo": "ic_launcher"
+	}]
+}
