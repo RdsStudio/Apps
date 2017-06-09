@@ -1,0 +1,19 @@
+{
+	"menu_content": [{
+		"name": "COC New Update BUILDER BASE, Night Mode, Gem Mine, Clock Tower +14 Things",
+		"url": "file:///android_asset/bbs/halaman01.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "10+ Best Builder Hall 3 / 2.5 Base Designs With 2 Canons Updated",
+		"url": "file:///android_asset/bbs/halaman02.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "10+ Best Builder Hall 4 Base Designs, Defense and Trophy Layouts",
+		"url": "file:///android_asset/bbs/halaman03.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "14+ Best Builder Hall BH5 Bases, Trophy and Defense Layouts",
+		"url": "file:///android_asset/bbs/halaman04.html",
+		"photo": "ic_launcher"
+	}]
+}
