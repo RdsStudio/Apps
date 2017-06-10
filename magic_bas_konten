@@ -1,31 +1,31 @@
 {
 	"menu_content": [{
 		"name": "Anti LaLoon Base Designs and Tactics 2017",
-		"url": "file:///android_asset/jsw/halaman01.html",
+		"url": "file:///android_asset/bas/halaman01.html",
 		"photo": "ic_launcher"
 	}, {
-		"name": "3 Star Attacking Guide for LavaLoon/LaLoon 2017 | Attackia | Clash of Clans Strategy",
-		"url": "file:///android_asset/jsw/halaman02.html",
+		"name": "3 Star Attacking Guide for LavaLoon/LaLoon 2017",
+		"url": "file:///android_asset/bas/halaman02.html",
 		"photo": "ic_launcher"
 	}, {
 		"name": "Best Clash of Clans Strategy 2017",
-		"url": "file:///android_asset/jsw/halaman03.html",
+		"url": "file:///android_asset/bas/halaman03.html",
 		"photo": "ic_launcher"
 	}, {
-		"name": "Best Clash of Clans Th9 Farming Base | Attackia | Clash of Clans Strategy",
-		"url": "file:///android_asset/jsw/halaman04.html",
+		"name": "Best Clash of Clans Th9 Farming Base",
+		"url": "file:///android_asset/bas/halaman04.html",
 		"photo": "ic_launcher"
 	}, {
 		"name": "New TH9 War Base &amp; Farming Base Layouts 2017",
-		"url": "file:///android_asset/jsw/halaman05.html",
+		"url": "file:///android_asset/bas/halaman05.html",
 		"photo": "ic_launcher"
 	}, {
-		"name": "TH10 War Base &amp; Farming Base Layouts 2017 [Updated]",
-		"url": "file:///android_asset/jsw/halaman06.html",
+		"name": "TH10 War Base &amp; Farming Base Layouts 2017 Update",
+		"url": "file:///android_asset/bas/halaman06.html",
 		"photo": "ic_launcher"
 	}, {
 		"name": "TH11 War Base &amp; Farming Base Layouts 2017",
-		"url": "file:///android_asset/jsw/halaman07.html",
+		"url": "file:///android_asset/bas/halaman07.html",
 		"photo": "ic_launcher"
 	}]
 }
