@@ -1,5 +1,21 @@
 {
 	"menu_content": [{
+		"name": "Clash of Clans Mod V9",
+		"url": "file:///android_asset/thbase/halfhx000.html",
+		"photo": "ic_launcher"
+	},{
+		"name": "Clash of Magic Server",
+		"url": "file:///android_asset/thbase/halfhx001.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Clash of Lights Server",
+		"url": "file:///android_asset/thbase/halfhx002.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Clash of Eagle Server",
+		"url": "file:///android_asset/thbase/halfhx003.html",
+		"photo": "ic_launcher"
+	}, {
 		"name": "COC New Update BUILDER BASE, Night Mode, Gem Mine, Clock Tower +14 Things",
 		"url": "file:///android_asset/bbs/halaman01.html",
 		"photo": "ic_launcher"
