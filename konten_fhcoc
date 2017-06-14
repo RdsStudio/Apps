@@ -1,0 +1,39 @@
+{
+	"menu_content": [{
+		"name": "Basic Information",
+		"url": "file:///android_asset/fhcoc/halaman00.html",
+		"photo": "ic_launcher"
+	},{
+		"name": "Save Your Gems",
+		"url": "file:///android_asset/fhcoc/halaman06.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Use Cheap Units",
+		"url": "file:///android_asset/fhcoc/halaman07.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Only Use Spells When Necessary",
+		"url": "file:///android_asset/fhcoc/halaman08.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Slowly Upgrade Your Town Hall",
+		"url": "file:///android_asset/fhcoc/halaman09.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Start Matchmaking Early",
+		"url": "file:///android_asset/fhcoc/halaman10.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Use the “Next” Feature Frequently",
+		"url": "file:///android_asset/fhcoc/halaman11.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Put the Clan Castle in the Center of Your Base",
+		"url": "file:///android_asset/fhcoc/halaman12.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Focus on Dark Elixir",
+		"url": "file:///android_asset/fhcoc/halaman13.html",
+		"photo": "ic_launcher"
+	}]
+}
