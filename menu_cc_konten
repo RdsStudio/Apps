@@ -1,5 +1,9 @@
 {
 	"menu_content": [{
+		"name": "Basic Information",
+		"url": "file:///android_asset/fhcoc/halaman00.html",
+		"photo": "ic_launcher"
+	},{
 		"name": "Save Your Gems",
 		"url": "file:///android_asset/thbase/halaman06.html",
 		"photo": "ic_launcher"
