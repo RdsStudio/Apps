@@ -4,35 +4,43 @@
 		"url": "file:///android_asset/fhcoc/halaman00.html",
 		"photo": "ic_launcher"
 	},{
-		"name": "Save Your Gems",
+		"name": "How does FHx server work?",
+		"url": "file:///android_asset/fhcoc/halaman14.html",
+		"photo": "ic_launcher"
+	},{
+		"name": "Steps to install FHx server",
+		"url": "file:///android_asset/fhcoc/halaman15.html",
+		"photo": "ic_launcher"
+	},{
+		"name": "Be patient, save your gems",
 		"url": "file:///android_asset/fhcoc/halaman06.html",
 		"photo": "ic_launcher"
 	}, {
-		"name": "Use Cheap Units",
+		"name": "Offense is the best defense",
 		"url": "file:///android_asset/fhcoc/halaman07.html",
 		"photo": "ic_launcher"
 	}, {
-		"name": "Only Use Spells When Necessary",
+		"name": "Shields up!",
 		"url": "file:///android_asset/fhcoc/halaman08.html",
 		"photo": "ic_launcher"
 	}, {
-		"name": "Slowly Upgrade Your Town Hall",
+		"name": "Learn the lay of the land",
 		"url": "file:///android_asset/fhcoc/halaman09.html",
 		"photo": "ic_launcher"
 	}, {
-		"name": "Start Matchmaking Early",
+		"name": "Pick your targets",
 		"url": "file:///android_asset/fhcoc/halaman10.html",
 		"photo": "ic_launcher"
 	}, {
-		"name": "Use the “Next” Feature Frequently",
+		"name": "Get raiding buddies",
 		"url": "file:///android_asset/fhcoc/halaman11.html",
 		"photo": "ic_launcher"
 	}, {
-		"name": "Put the Clan Castle in the Center of Your Base",
+		"name": "Punch your weight in Clan Wars",
 		"url": "file:///android_asset/fhcoc/halaman12.html",
 		"photo": "ic_launcher"
 	}, {
-		"name": "Focus on Dark Elixir",
+		"name": "Tailor your armies in Clan Wars",
 		"url": "file:///android_asset/fhcoc/halaman13.html",
 		"photo": "ic_launcher"
 	}]
