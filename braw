@@ -1,0 +1,103 @@
+{
+	"menu_content": [{
+		"name": "Brawl Stars: Tips, tricks, and cheats!",
+		"url": "file:///android_asset/brawl/halaman01.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Smash & Grab",
+		"url": "file:///android_asset/brawl/halaman02.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Dont take on tank brawlers alone",
+		"url": "file:///android_asset/brawl/halaman03.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "When your team has 10 or more crystal, run away!",
+		"url": "file:///android_asset/brawl/halaman04.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Protect the character with the most crystals",
+		"url": "file:///android_asset/brawl/halaman05.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Go after the enemy with the most crystals",
+		"url": "file:///android_asset/brawl/halaman06.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Attack Poco",
+		"url": "file:///android_asset/brawl/halaman07.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Run away and heal",
+		"url": "file:///android_asset/brawl/halaman08.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Heist",
+		"url": "file:///android_asset/brawl/halaman09.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Use your special ability on the safe",
+		"url": "file:///android_asset/brawl/halaman10.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Blow up the TNT crates",
+		"url": "file:///android_asset/brawl/halaman11.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Try using long-range brawlers",
+		"url": "file:///android_asset/brawl/halaman12.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Break open charge crates",
+		"url": "file:///android_asset/brawl/halaman13.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Seek out weaker characters",
+		"url": "file:///android_asset/brawl/halaman14.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Let the others fight it out",
+		"url": "file:///android_asset/brawl/halaman15.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Bounty",
+		"url": "file:///android_asset/brawl/halaman16.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Tank brawlers excel in Bounty",
+		"url": "file:///android_asset/brawl/halaman17.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Lots of tips from Smash &amp; Grab will work in Bounty",
+		"url": "file:///android_asset/brawl/halaman18.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "How to unlock Brawlers, Brawl Box and Coins on Brawl Stars: Beginner's Guide",
+		"url": "file:///android_asset/brawl/halaman19.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "How to unlock characters on Brawl Stars",
+		"url": "file:///android_asset/brawl/halaman20.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "How to Upgrade Brawl&rsquo;s Level",
+		"url": "file:///android_asset/brawl/halaman21.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "What are Brawl Boxes?",
+		"url": "file:///android_asset/brawl/halaman22.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "What can I find in Brawl Boxes?",
+		"url": "file:///android_asset/brawl/halaman23.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Trophies, Gangs, Leaderboards and Game Modes",
+		"url": "file:///android_asset/brawl/halaman24.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Trophies, Gangs, Ranking and Game Modes",
+		"url": "file:///android_asset/brawl/halaman25.html",
+		"photo": "ic_launcher"
+	}]
+}
