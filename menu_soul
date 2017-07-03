@@ -1,21 +1,5 @@
 {
 	"menu_content": [{
-		"name": "Clash of Clans Mod V9",
-		"url": "file:///android_asset/soul/halfhx000.html",
-		"photo": "ic_launcher"
-	},{
-		"name": "Clash of Magic Server",
-		"url": "file:///android_asset/soul/halfhx001.html",
-		"photo": "ic_launcher"
-	}, {
-		"name": "Clash of Lights Server",
-		"url": "file:///android_asset/soul/halfhx002.html",
-		"photo": "ic_launcher"
-	}, {
-		"name": "Clash of Eagle Server",
-		"url": "file:///android_asset/soul/halfhx003.html",
-		"photo": "ic_launcher"
-	}, {
 		"name": "Basic Information",
 		"url": "file:///android_asset/soul/halaman00.html",
 		"photo": "ic_launcher"
