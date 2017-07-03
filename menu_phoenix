@@ -1,23 +1,23 @@
 {
 	"menu_content": [{
 		"name": "Basic Information",
-		"url": "file:///android_asset/magic/halaman00.html",
+		"url": "file:///android_asset/clash/halaman00.html",
 		"photo": "ic_launcher"
 	}, {
 		"name": "Information 1",
-		"url": "file:///android_asset/magic/halaman14.html",
+		"url": "file:///android_asset/clash/halaman14.html",
 		"photo": "ic_launcher"
 	}, {
 		"name": "Information 2",
-		"url": "file:///android_asset/magic/halaman15.html",
+		"url": "file:///android_asset/clash/halaman15.html",
 		"photo": "ic_launcher"
 	},{
 		"name": "How does FHx server work?",
-		"url": "file:///android_asset/magic/halaman16.html",
+		"url": "file:///android_asset/clash/halaman16.html",
 		"photo": "ic_launcher"
 	},{
 		"name": "Save Your Gems",
-		"url": "file:///android_asset/thbase/halaman06.html",
+		"url": "file:///android_asset/clash/halaman06.html",
 		"photo": "ic_launcher"
 	}]
 }
