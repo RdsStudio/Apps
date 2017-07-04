@@ -15,5 +15,61 @@
 		"name": "How does FHx server work?",
 		"url": "file:///android_asset/magic/halaman16.html",
 		"photo": "ic_launcher"
+	},{
+		"name": "Clash of Clans Mod Server",
+		"url": "file:///android_asset/magic/halfhx000.html",
+		"photo": "ic_launcher"
+	},{
+		"name": "Clash of Magic Server",
+		"url": "file:///android_asset/magic/halfhx001.html",
+		"photo": "ic_launcher"
+	},{
+		"name": "Clash of Lights Server",
+		"url": "file:///android_asset/magic/halfhx002.html",
+		"photo": "ic_launcher"
+	},{
+		"name": "Clash of Eagle Server",
+		"url": "file:///android_asset/magic/halfhx003.html",
+		"photo": "ic_launcher"
+	},{
+		"name": "Clash of Soul DarkSoul Coc US 1",
+		"url": "file:///android_asset/magic/halfhx004.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Clash of Soul DarkSoul Coc US 2",
+		"url": "file:///android_asset/magic/halfhx005.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Clash of Soul DarkSoul Coc US 3",
+		"url": "file:///android_asset/magic/halfhx006.html",
+		"photo": "ic_launcher"
+	},{
+		"name": "Clash of Soul DarkSoul Coc Asia 1",
+		"url": "file:///android_asset/magic/halfhx007.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Clash of Soul DarkSoul Coc Asia 2",
+		"url": "file:///android_asset/magic/halfhx008.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Clash of Soul DarkSoul Coc Asia 3",
+		"url": "file:///android_asset/magic/halfhx009.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Clash of Phoenix S1",
+		"url": "file:///android_asset/magic/halfhx010.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "PlenixClash S1",
+		"url": "file:///android_asset/magic/halfhx011.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Clash of Heroes S1",
+		"url": "file:///android_asset/magic/halfhx012.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "CoC Builder Server",
+		"url": "file:///android_asset/magic/halfhx013.html",
+		"photo": "ic_launcher"
 	}]
 }
