@@ -1,0 +1,19 @@
+{
+	"menu_content": [{
+		"name": "Basic Information",
+		"url": "file:///android_asset/clash/halaman00.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Information 1",
+		"url": "file:///android_asset/clash/halaman14.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Information 2",
+		"url": "file:///android_asset/clash/halaman15.html",
+		"photo": "ic_launcher"
+	},{
+		"name": "Save Your Gems",
+		"url": "file:///android_asset/clash/halaman06.html",
+		"photo": "ic_launcher"
+	}]
+}
