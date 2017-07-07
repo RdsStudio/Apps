@@ -1,0 +1,47 @@
+{
+	"menu_content": [{
+		"name": "Basic Information",
+		"url": "file:///android_asset/heroes/halaman00.html",
+		"photo": "ic_launcher"
+	},{
+		"name": "Information 1",
+		"url": "file:///android_asset/heroes/halaman14.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Information 2",
+		"url": "file:///android_asset/heroes/halaman15.html",
+		"photo": "ic_launcher"
+	},{
+		"name": "Save Your Gems",
+		"url": "file:///android_asset/heroes/halaman06.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Use Cheap Units",
+		"url": "file:///android_asset/heroes/halaman07.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Only Use Spells When Necessary",
+		"url": "file:///android_asset/heroes/halaman08.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Slowly Upgrade Your Town Hall",
+		"url": "file:///android_asset/heroes/halaman09.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Start Matchmaking Early",
+		"url": "file:///android_asset/heroes/halaman10.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Use the “Next” Feature Frequently",
+		"url": "file:///android_asset/heroes/halaman11.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Put the Clan Castle in the Center of Your Base",
+		"url": "file:///android_asset/heroes/halaman12.html",
+		"photo": "ic_launcher"
+	}, {
+		"name": "Focus on Dark Elixir",
+		"url": "file:///android_asset/heroes/halaman13.html",
+		"photo": "ic_launcher"
+	}]
+}
