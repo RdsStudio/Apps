@@ -1,5 +1,8 @@
 {
-	"button": [{
-		"dlButton": "false"
-	}]
+	"response": {
+		"result": "success",
+		"data": [{
+			"dlbutton": "true"
+		}]
+	}
 }
