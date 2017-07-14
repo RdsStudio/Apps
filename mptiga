@@ -1,8 +1,1 @@
-{
-	"response": {
-		"result": "success",
-		"data": [{
-			"dlbutton": "true"
-		}]
-	}
-}
+{"button":[{"dlbutton":"false"}]}
