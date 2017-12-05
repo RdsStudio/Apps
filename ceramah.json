@@ -2,493 +2,493 @@
   "ALL_IN_ONE_VIDEO": [
     {
       "id": "1",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 1",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20001365_1316435581802801_7847392389277679616_n.mp4"
     },
     {
       "id": "2",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 2",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20021231_806256306210251_1205132583050936320_n.mp4"
     },
     {
       "id": "3",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 3",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20021589_706904486186187_2621794835165609984_n.mp4"
     },
     {
       "id": "4",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 4",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20074990_1726881350658546_2178070824534147072_n.mp4"
     },
     {
       "id": "5",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 5",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20075157_1343718952349242_6005381710315782144_n.mp4"
     },
     {
       "id": "6",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 6",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20075616_1756304001334030_6374352029908729856_n.mp4"
     },
     {
       "id": "7",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 7",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20082511_112984089340814_4856690327588700160_n.mp4"
     },
     {
       "id": "8",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 8",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20082846_131798787411532_5635342970363314176_n.mp4"
     },
     {
       "id": "9",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 9",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20130526_147207635833604_4433436122500038656_n.mp4"
     },
     {
       "id": "10",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 10",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20138376_115918635705982_1711848933392646144_n.mp4"
     },
     {
       "id": "11",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 11",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20189227_140950279819736_1946078780221030400_n.mp4"
     },
     {
       "id": "12",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 12",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20214778_272784386540226_691844967106084864_n.mp4"
     },
     {
       "id": "13",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 13",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20215317_845345188950442_4527381909260468224_n.mp4"
     },
     {
       "id": "14",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 14",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20215494_140907339824719_3794358006901112832_n.mp4"
     },
     {
       "id": "15",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 15",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20224580_664423330423248_1463416707753181184_n.mp4"
     },
     {
       "id": "16",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 16",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20248760_109350619722323_5948818786323791872_n.mp4"
     },
     {
       "id": "17",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 17",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20249658_103981953614557_6466405497028214784_n.mp4"
     },
     {
       "id": "18",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 18",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20270779_262946904190607_7376284740908744704_n.mp4"
     },
     {
       "id": "19",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 19",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20373870_124452764837923_7671515260917907456_n.mp4"
     },
     {
       "id": "20",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 20",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20404105_126732687937691_9035559409127784448_n.mp4"
     },
     {
       "id": "21",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 21",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20404616_126098211334881_910423630985297920_n.mp4"
     },
     {
       "id": "22",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 22",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20404847_1646139752076278_2425746053597757440_n.mp4"
     },
     {
       "id": "23",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 23",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20452937_1448510948547508_720208308358610944_n.mp4"
     },
     {
       "id": "24",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 24",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20486464_726016864273252_4837713259404460032_n.mp4"
     },
     {
       "id": "25",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 25",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20486682_826570177517853_5659486605031768064_n.mp4"
     },
     {
       "id": "26",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 26",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20509128_1933599803579894_1990787306713251840_n.mp4"
     },
     {
       "id": "27",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 27",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20509317_144496012798310_6796879857243389952_n.mp4"
     },
     {
       "id": "28",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 28",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20549075_2021325494548145_3731481068667142144_n.mp4"
     },
     {
       "id": "29",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 29",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20611435_1935204050024921_8112317242089144320_n.mp4"
     },
     {
       "id": "30",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 30",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20612418_1041062045996560_6401955380993196032_n.mp4"
     },
     {
       "id": "31",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 31",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20618402_1980109268896603_6321357527955013632_n.mp4"
     },
     {
       "id": "32",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 32",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20619511_591560417900312_4237836435597557760_n.mp4"
     },
     {
       "id": "33",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 33",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20619909_1868244576836986_8994223862187032576_n.mp4"
     },
     {
       "id": "34",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 34",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20639401_1961080154176729_7911741315883204608_n.mp4"
     },
     {
       "id": "35",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 35",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20639624_130943040756630_3557815427558014976_n.mp4"
     },
     {
       "id": "36",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 36",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20646259_1921549541390505_6415215852001427456_n.mp4"
     },
     {
       "id": "37",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 37",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20708844_294908120977705_6909412626078367744_n.mp4"
     },
     {
       "id": "38",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 38",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20709852_313618365768650_6992410919158415360_n.mp4"
     },
     {
       "id": "39",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 39",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20772404_338031133301599_6753531881901260800_n.mp4"
     },
     {
       "id": "40",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 40",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20772476_497520707266153_214792740402102272_n.mp4"
     },
     {
       "id": "41",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 41",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20772655_116364269019207_1643688188952182784_n.mp4"
     },
     {
       "id": "42",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 42",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20796774_1482829111796072_3374305437938614272_n.mp4"
     },
     {
       "id": "43",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 43",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20817143_1442627819149145_5882452831406915584_n.mp4"
     },
     {
       "id": "44",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 44",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/20996657_1804190572931172_139226119428636672_n.mp4"
     },
     {
       "id": "45",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 45",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21017338_111921039493822_1127964227038871552_n.mp4"
     },
     {
       "id": "46",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 46",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21018642_145668539354907_8287881129894084608_n.mp4"
     },
     {
       "id": "47",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 47",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21037286_857609201058553_5324663255421943808_n.mp4"
     },
     {
       "id": "48",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 48",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21038523_1923165558005383_8135774571048468480_n.mp4"
     },
     {
       "id": "49",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 49",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21038901_335565033538340_7998099196806692864_n.mp4"
     },
     {
       "id": "50",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 50",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21079928_169326706947069_7356829329331847168_n.mp4"
     },
     {
       "id": "51",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 51",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21081149_496300154048419_626320254548574208_n.mp4"
     },
     {
       "id": "52",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 52",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21102080_127082337916847_7392115771318468608_n.mp4"
     },
     {
       "id": "53",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 53",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21127584_112727722747795_3822694405823791104_n.mp4"
     },
     {
       "id": "54",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 54",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21127929_120687495251342_6278739576794120192_n.mp4"
     },
     {
       "id": "55",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 55",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21134295_265552453937235_1286918952324169728_n.mp4"
     },
     {
       "id": "56",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 56",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21168280_225523547982403_6539045145034096640_n.mp4"
     },
     {
       "id": "57",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 57",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21251781_3701583136784934_438270810914816000_n.mp4"
     },
     {
       "id": "58",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 58",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21252434_1970973716472213_5337991359280185344_n.mp4"
     },
     {
       "id": "59",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 59",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21274176_127317911227901_9222672390977224704_n.mp4"
     },
     {
       "id": "60",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 60",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21274337_1801316616560157_3402665029684690944_n.mp4"
     },
     {
       "id": "61",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 61",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21439125_1326284067480779_394202462182965248_n.mp4"
     },
     {
       "id": "62",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 62",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21459519_1545653162158086_7263532151352590336_n.mp4"
     },
     {
       "id": "63",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 63",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21537170_869015286582693_1666727123672367104_n.mp4"
     },
     {
       "id": "64",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 64",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21579939_1809958609033638_5268841432331845632_n.mp4"
     },
     {
       "id": "65",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 65",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21581976_1189070714530478_553997549359333376_n.mp4"
     },
     {
       "id": "66",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 66",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21684959_115818035774422_39869275170668544_n.mp4"
     },
     {
       "id": "67",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 67",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21732729_834955666664314_5810887152858300416_n.mp4"
     },
     {
       "id": "68",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 68",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21732793_494486270916952_8190528325966364672_n.mp4"
     },
     {
       "id": "69",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 69",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21813627_736588946542903_6880144442590756864_n.mp4"
     },
     {
       "id": "70",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 70",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21906118_1519200834827043_289885179806220288_n.mp4"
     },
     {
       "id": "71",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 71",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21906481_721308681407452_5258810656471121920_n.mp4"
     },
     {
       "id": "72",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 72",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/21930292_105021570217811_6614274924607438848_n.mp4"
     },
     {
       "id": "73",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 73",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/22013566_482771632083863_4904018784131481600_n.mp4"
     },
     {
       "id": "74",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 74",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/22048954_1718667735107776_2334036909711425536_n.mp4"
     },
     {
       "id": "75",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 75",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/22080012_180786929162883_5457253195111727104_n.mp4"
     },
     {
       "id": "76",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 76",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/22113274_309768226156212_5052869276730392576_n.mp4"
     },
     {
       "id": "77",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 77",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/22139384_119426442058165_3377887968944455680_n.mp4"
     },
     {
       "id": "78",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 78",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/22139612_1711497825826666_6049659662041612288_n.mp4"
     },
     {
       "id": "79",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 79",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/22183039_841487122681475_2229946633536143360_n.mp4"
     },
     {
       "id": "80",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 80",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/22244426_366139110473406_5039211508362379264_n.mp4"
     },
     {
       "id": "81",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 81",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/22244568_1947528085569034_4766901158637731840_n.mp4"
     },
     {
       "id": "82",
-      "video_type": "local",
+      "video_type": "server",
       "video_title": "Video 82",
       "video_url": "https://archive.org/download/unitedislma/Video_UnitedIslam/22251850_390649758020546_5222202777601572864_n.mp4"
     }
