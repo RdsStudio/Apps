@@ -1,502 +1,502 @@
 [
-{
-quote: "I\'ve been in plenty of situations where someone I\'m dating had more time for a console than me.",
-author: "Josie Maran",
-cat: "dating"
-},
-{
-quote: "I wake up every morning at nine and grab for the morning paper. Then I look at the obituary page. If my name is not on it, I get up.",
-author: "Benjamin Franklin",
-cat: "morning"
-},
-{
-quote: "I always do an all-night horror marathon on Saturdays where we start at seven and go until five in the morning.",
-author: "Quentin Tarantino",
-cat: "morning"
-},
-{
-quote: "My workout regimen at the moment is nonexistent. I wake up in the morning and brush my teeth. My toothbrush and deodorant are my only dumbbells. That\'s about it.",
-author: "Josh Bowman",
-cat: "morning"
-},
-{
-quote: "I have a fantastic wife, and not only in terms of external beauty. Her priority and mine is our children. That is our choice.",
-author: "Luis Figo",
-cat: "beauty"
-},
-{
-quote: "Growing up, if I hadn\'t had sports, I don\'t know where I\'d be. God only knows what street corners I\'d have been standing on and God only knows what I\'d have been doing, but instead I played hockey and went to school and stayed out of trouble.",
-author: "Bobby Orr",
-cat: "god"
-},
-{
-quote: "As you make your bed, so you must lie in it.",
-author: "Daniel J. Boorstin",
-cat: "politics"
-},
-{
-quote: "Music never dies. Do we really need another Madonna tour? Does she have to compete with women performers 25 years her junior?",
-author: "Camille Paglia",
-cat: "music"
-},
-{
-quote: "I got a lovely check today from being a writer that I earned by sitting at home. That\'s rewarding.",
-author: "Harvey Fierstein",
-cat: "home"
-},
-{
-quote: "I\'m a disorganized mess. My purse is gross: I once found a shoulder pad, string cheese, and a Christmas ornament in it!",
-author: "Hoda Kotb",
-cat: "christmas"
-},
-{
-quote: "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
-author: "Mother Teresa",
-cat: "love"
-},
-{
-quote: "It is remarkable how closely the history of the apple tree is connected with that of man.",
-author: "Henry David Thoreau",
-cat: "history"
-},
-{
-quote: "Come Christmas Eve, we usually go to my mom and dad\'s. Everybody brings one gift and then we play that game when we all steal it from each other. Some are really cool, others are useful and some are a bit out there.",
-author: "Amy Grant",
-cat: "cool"
-},
-{
-quote: "Facts are to the mind what food is to the body.",
-author: "Edmund Burke",
-cat: "food"
-},
-{
-quote: "I think I\'m going to have to live vicariously through my daughter\'s rebellion because I certainly never did go through adolescence.",
-author: "Brooke Shields",
-cat: "parenting"
-},
-{
-quote: "I have to say that in this particular cow that we\'re dealing with, those parts of the cow were removed, and so we don\'t think there\'s any risk or very negligible risk to human health with this particular incident.",
-author: "Ann Veneman",
-cat: "health"
-},
-{
-quote: "I look for people who\'re passionate, dedicated to the text, and in whom I trust completely.",
-author: "Greta Scacchi",
-cat: "trust"
-},
-{
-quote: "All I watch is the Food Network. I took a cheesemaking class a few weeks ago, and I told my family and friends to only get me kitchen stuff on my birthday. I\'m into every kind of cookbook and anything by Anthony Bourdain. I\'d love to own a restaurant if I could find the right chef.",
-author: "Jesse McCartney",
-cat: "birthday"
-},
-{
-quote: "And they didn\'t have to get into a lot of legal speak or talk ER terms, they were real people. I think that\'s why so many actresses were attracted to it. And it was just about problems that you could identify with so much, right off the bat.",
-author: "James Denton",
-cat: "legal"
-},
-{
-quote: "Times were changing. Clothes were changing. Morals were changing. We went from romantic loves songs like I used to do to rock \'n roll. Now that has changed to rap. So, there\'s always a new generation with new music.",
-author: "Bobby Vinton",
-cat: "music"
-},
-{
-quote: "Politics is the science of urgencies.",
-author: "Theodore Parker",
-cat: "politics"
-},
-{
-quote: "There is a computer disease that anybody who works with computers knows about. It\'s a very serious disease and it interferes completely with the work. The trouble with computers is that you \'play\' with them!",
-author: "Richard P. Feynman",
-cat: "computers"
-},
-{
-quote: "There is no better way of exercising the imagination than the study of law. No poet ever interpreted nature as freely as a lawyer interprets the truth.",
-author: "Jean Giraudoux",
-cat: "imagination"
-},
-{
-quote: "Freedom goes hand-in-hand with mutual respect.",
-author: "Kay Rala Xanana Gusmao",
-cat: "respect"
-},
-{
-quote: "We learned in World War II that no single nation holds a monopoly on wisdom, morality or right to power, but that we must fight for the weak and promote democracy.",
-author: "Joe Baca",
-cat: "wisdom"
-},
-{
-quote: "So, I\'m always around video games but I\'ve always been interested in them from a visual perspective, with the graphic design and that whole thing. I don\'t know if that comes from my love of photography or what but that\'s always what\'s held my interest about them.",
-author: "Sophia Bush",
-cat: "design"
-},
-{
-quote: "I think my mom threatened to put me up for adoption a few times.",
-author: "Ivanka Trump",
-cat: "mom"
-},
-{
-quote: "Art seduces, but does not exploit.",
-author: "Mason Cooley",
-cat: "art"
-},
-{
-quote: "And yet, in a culture like ours, which is given to material comforts, and addicted to forms of entertainment that offer immediate gratification, it is surprising that so much poetry is written.",
-author: "Mark Strand",
-cat: "poetry"
-},
-{
-quote: "Ultimately, it\'s possible that social media platforms will be designed as templates that the users themselves customize in terms of the best way to express their community and experience of life, and brands will have to simply follow suit.",
-author: "Simon Mainwaring",
-cat: "experience"
-},
-{
-quote: "When you are happy you can forgive a great deal.",
-author: "Princess Diana",
-cat: "great"
-},
-{
-quote: "Urs Fischer specializes in making jaws drop. Cutting giant holes in gallery walls, digging a crater in Gavin Brown\'s gallery floor in 2007, creating amazing hyperrealist wallpaper for a group show at Tony Shafrazi: It all percolates with uncanny destructiveness, operatic uncontrollability, and barbaric sculptural power.",
-author: "Jerry Saltz",
-cat: "amazing"
-},
-{
-quote: "We were aware of the fact that death walks hand in hand with struggle.",
-author: "Stokely Carmichael",
-cat: "death"
-},
-{
-quote: "What\'s important is promising something to the people, not actually keeping those promises. The people have always lived on hope alone.",
-author: "Hermann Broch",
-cat: "alone"
-},
-{
-quote: "Every year during their High Holy Days, the Jewish community reminds us all of our need for repentance and forgiveness.",
-author: "Billy Graham",
-cat: "forgiveness"
-},
-{
-quote: "There will be no politics, no ifs and buts if we see something and feel that work needs to be done, we will get people here we can rely on and ensure it is done in the same thorough way as our other projects.",
-author: "Ian Botham",
-cat: "politics"
-},
-{
-quote: "My strength is my enthusiasm.",
-author: "Placido Domingo",
-cat: "strength"
-},
-{
-quote: "We need to understand that we are not each others\' enemies in this country. And it is only the political class that derives its power by creating friction. It is only the media that derives its importance by creating friction... that uses every little thing to create this chasm between people. This is not who we are.",
-author: "Benjamin Carson",
-cat: "power"
-},
-{
-quote: "Domestic travel and tourism-related spending has reached $1 trillion a year.",
-author: "Mark Foley",
-cat: "travel"
-},
-{
-quote: "Absolutely, there is a connection between food and love. I always say, when there\'s love in my heart or I\'m feeling particularly good, the food comes out that much better. And so I think Valentine\'s Day is a special day.",
-author: "Todd English",
-cat: "food"
-},
-{
-quote: "I believe that if we really want human brotherhood to spread and increase until it makes life safe and sane, we must also be certain that there is no one true faith or path by which it may spread.",
-author: "Adlai E. Stevenson",
-cat: "faith"
-},
-{
-quote: "During the long process of history, by relying on our own diligence, courage and wisdom, Chinese people have opened up a good and beautiful home where all ethnic groups live in harmony and fostered an excellent culture that never fades.",
-author: "Xi Jinping",
-cat: "courage"
-},
-{
-quote: "Destruction, hence, like creation, is one of Nature\'s mandates.",
-author: "Marquis de Sade",
-cat: "nature"
-},
-{
-quote: "If you wish to appear agreeable in society, you must consent to be taught many things which you know already.",
-author: "Johann Kaspar Lavater",
-cat: "society"
-},
-{
-quote: "The freedom to be an individual is the essence of America.",
-author: "Marilyn vos Savant",
-cat: "freedom"
-},
-{
-quote: "Yeah, I mean the material, directors, the other cast, and if you think you can do something with the character then you do it and go from there. I am looking forward to doing some smaller movies.",
-author: "Orlando Bloom",
-cat: "movies"
-},
-{
-quote: "Conquest is not in our principles. It is inconsistent with our government.",
-author: "Thomas Jefferson",
-cat: "government"
-},
-{
-quote: "If bringing up the next generation is important, why aren\'t they the best qualified, the best paid? Why aren\'t we as concerned about their career progression as we are about those who work in the education or health services?",
-author: "Estelle Morris",
-cat: "education"
-},
-{
-quote: "I\'m glad about what\'s happening to the music business. This last crop of people we had in the 90s, who are going away now, they didn\'t like music. They didn\'t trust musicians. They wanted something else from it.",
-author: "James Taylor",
-cat: "business"
-},
-{
-quote: "There are no absolute rules of conduct, either in peace or war. Everything depends on circumstances.",
-author: "Leon Trotsky",
-cat: "peace"
-},
-{
-quote: "I think it\'s a very firm part of human nature that if you surround yourself with like-minded people, you\'ll end up thinking more extreme versions of what you thought before.",
-author: "Cass Sunstein",
-cat: "nature"
-},
-{
-quote: "Today was good. Today was fun. Tomorrow is another one.",
-author: "Dr. Seuss",
-cat: "good"
-},
-{
-quote: "I owe my success to having listened respectfully to the very best advice, and then going away and doing the exact opposite.",
-author: "Gilbert K. Chesterton",
-cat: "best"
-},
-{
-quote: "Photography, alone of the arts, seems perfected to serve the desire humans have for a moment - this very moment - to stay.",
-author: "Sam Abell",
-cat: "alone"
-},
-{
-quote: "What I like about sceptics is that in good science you need critics that make you think: \'Crumbs, have I made a mistake here?\' If you don\'t have that continuously, you really are up the creek. The good sceptics have done a good service, but some of the mad ones I think have not done anyone any favours.",
-author: "James Lovelock",
-cat: "science"
-},
-{
-quote: "There is nothing evil save that which perverts the mind and shackles the conscience.",
-author: "Saint Ambrose",
-cat: "religion"
-},
-{
-quote: "People are so used to having their lives filmed, they\'re not even conscious of having cameras around. I still have that sort of suspicion when a camera comes out. I view it as a thing to fear.",
-author: "Sade Adu",
-cat: "fear"
-},
-{
-quote: "I wasn\'t looking to get into TV. My family was in the movie business, so I was never interested in that world.",
-author: "Giada De Laurentiis",
-cat: "business"
-},
-{
-quote: "Love is an energy which exists of itself. It is its own value.",
-author: "Thornton Wilder",
-cat: "love"
-},
-{
-quote: "President Bush in his inaugural address talked about bringing freedom to countries that don\'t have it. He didn\'t specify how.",
-author: "Barbara Boxer",
-cat: "freedom"
-},
-{
-quote: "America is just the country that how all the written guarantees in the world for freedom are no protection against tyranny and oppression of the worst kind. There the politician has come to be looked upon as the very scum of society.",
-author: "Peter Kropotkin",
-cat: "freedom"
-},
-{
-quote: "Few people even scratch the surface, much less exhaust the contemplation of their own experience.",
-author: "Randolph Bourne",
-cat: "experience"
-},
-{
-quote: "A lot of country music is sad.",
-author: "Willie Nelson",
-cat: "music"
-},
-{
-quote: "Whosoever is delighted in solitude is either a wild beast or a god.",
-author: "Francis Bacon",
-cat: "god"
-},
-{
-quote: "This land, which we have watered with our tears and our blood, is now our mother country, and we are well satisfied to stay where wisdom abounds and gospel is free.",
-author: "Richard V. Allen",
-cat: "wisdom"
-},
-{
-quote: "Let there be no mistake. A gay man alone could never begin to replicate the inner workings of the female mind.",
-author: "Michael Patrick King",
-cat: "alone"
-},
-{
-quote: "I did go to Wellesley, a women\'s college. And I am of a kind of strange generation which is transitional in terms of women who wanted to go out and get jobs.",
-author: "Madeleine Albright",
-cat: "women"
-},
-{
-quote: "My future\'s about trying to be a better man.",
-author: "Terrence Howard",
-cat: "future"
-},
-{
-quote: "I think the most important thing in life is self-love, because if you don\'t have self-love, and respect for everything about your own body, your own soul, your own capsule, then how can you have an authentic relationship with anyone else?",
-author: "Shailene Woodley",
-cat: "relationship"
-},
-{
-quote: "Unlimited power corrupts the possessor.",
-author: "William Pitt",
-cat: "power"
-},
-{
-quote: "We all recognize that in recent decades, many important achievements have helped create a cleaner, healthier environment, yet our national needs in environmental health are not being fully met.",
-author: "Samuel Wilson",
-cat: "environmental"
-},
-{
-quote: "Life is best when you are in love.",
-author: "Michael Moriarty",
-cat: "best"
-},
-{
-quote: "Education is the best friend. An educated person is respected everywhere. Education beats the beauty and the youth.",
-author: "Chanakya",
-cat: "beauty"
-},
-{
-quote: "You know, I don\'t think any mother aims to be a single mom. I didn\'t wish for that, but it happened.",
-author: "Charlize Theron",
-cat: "mom"
-},
-{
-quote: "I am dumb when it comes to learning dance steps.",
-author: "Mia Kirshner",
-cat: "learning"
-},
-{
-quote: "For more than three thousand years men have quarreled concerning the formulas of their faith.",
-author: "Felix Adler",
-cat: "faith"
-},
-{
-quote: "I never got into sports at all until I was in my early 20s, after my music career got going.",
-author: "Neal Schon",
-cat: "sports"
-},
-{
-quote: "There\'s just me and my wife and a dog and we feed him Healthy Choice also.",
-author: "Mike Ditka",
-cat: "pet"
-},
-{
-quote: "The secret to film is that it\'s an illusion.",
-author: "George Lucas",
-cat: "movies"
-},
-{
-quote: "The folly of mistaking a paradox for a discovery, a metaphor for a proof, a torrent of verbiage for a spring of capital truths, and oneself for an oracle, is inborn in us.",
-author: "Paul Valery",
-cat: "science"
-},
-{
-quote: "Well, all comedy starts with anger. You get angry, and its never for a good reason, right? You know its not a good reason. And then you try and work it from there.",
-author: "Jerry Seinfeld",
-cat: "anger"
-},
-{
-quote: "Schools are not intended to moralize a wicked world, but to impart knowledge and develop intelligence, with only two social aims in mind: prepare to take on one\'s share in the world\'s work, and perhaps in addition, lend a hand in improving society, after schooling is done.",
-author: "Jacques Barzun",
-cat: "intelligence"
-},
-{
-quote: "My family got all over me because they said Bush is only for the rich people. Then I reminded them, \'Hey, I\'m rich\'.",
-author: "Charles Barkley",
-cat: "family"
-},
-{
-quote: "I don\'t think you can come into your wisdom until you have made mistakes on your own skin and felt them in reality of your own life.",
-author: "Elizabeth Gilbert",
-cat: "wisdom"
-},
-{
-quote: "My faith always has been and always will be important to me.",
-author: "Aretha Franklin",
-cat: "faith"
-},
-{
-quote: "As I\'ve said many times, the single most oppressed class in America right now is the teenager.",
-author: "Joe Bob Briggs",
-cat: "teen"
-},
-{
-quote: "I\'m single, footloose and fancy free, I have no responsibilities, no anchors. Work, friendship and self-improvement, that\'s me.",
-author: "Joel Edgerton",
-cat: "alone"
-},
-{
-quote: "I didn\'t become leader to transform the Liberal Democrats into an enlarged form of the Electoral Reform Society. It\'s not the be all and end all for us. There are other very, very key ambitions in politics, not least social mobility and life chances, that I care about as passionately if not more.",
-author: "Nick Clegg",
-cat: "politics"
-},
-{
-quote: "I\'ve always believed in God. I also think that\'s the sort of thing that either comes as part of the equipment, the capacity to believe, or at some point in your life, when you\'re in a position where you actually need help from a power greater than yourself, you simply make an agreement.",
-author: "Stephen King",
-cat: "god"
-},
-{
-quote: "The best situation is being a single parent. The best part about is that you get time off, too, because the kids are with their mom, so it\'s the best of both worlds. There\'s a lot to be said for it.",
-author: "Larry David",
-cat: "mom"
-},
-{
-quote: "On movies, you have a lot of stylists that get things too pretty. Everything gets steamed and ironed. It\'s just not the way we really behave.",
-author: "Tim Heidecker",
-cat: "movies"
-},
-{
-quote: "This post of President is a Constitutional post. It is the duty of everyone, all citizens to see that they respect the post... the institution of President.",
-author: "Pratibha Patil",
-cat: "respect"
-},
-{
-quote: "I fully support a national health care program for the U.S.",
-author: "Andrew Weil",
-cat: "health"
-},
-{
-quote: "When your country is in a costly war, with our soldiers sacrificing abroad and our nation facing a debt crisis at home, being asked to pay your fair share isn\'t class warfare - it\'s patriotism.",
-author: "Cory Booker",
-cat: "patriotism"
-},
-{
-quote: "I mean, the whole idea of movies was it was special to go to see - you went to a movie theater to see something that was magical and amazing, in a very special location.",
-author: "Bob Balaban",
-cat: "amazing"
-},
-{
-quote: "I got into shape because I took kick-boxing lessons every day to prepare for a fight scene with Taylor Lautner. I really wanted to lie down and eat Chinese food, but I kick-boxed every morning and ran. If someone was filming you with your kit off, you\'d do the same thing.",
-author: "Jason Isaacs",
-cat: "food"
-},
-{
-quote: "Do not allow to slip away from you freedoms the people who came before you won with such hard knocks.",
-author: "David Herbert Lawrence",
-cat: "freedom"
-},
-{
-quote: "Anyone who has passed though the regular gradations of a classical education, and is not made a fool by it, may consider himself as having had a very narrow escape.",
-author: "William Hazlitt",
-cat: "education"
-},
-{
-quote: "Communication is a skill that you can learn. It\'s like riding a bicycle or typing. If you\'re willing to work at it, you can rapidly improve the quality of evry part of your life.",
-author: "Brian Tracy",
-cat: "communication"
-},
-{
-quote: "I can\'t talk about foreign policy like anyone who\'s spent their life reading and learning foreign policy. But as a citizen in a democracy, it\'s very important that I participate in that.",
-author: "Ron Silver",
-cat: "learning"
-}
+	{
+	"quote": "I've been in plenty of situations where someone I'm dating had more time for a console than me.",
+	"author": "Josie Maran",
+	"cat": "dating"
+	},
+	{
+	"quote": "I wake up every morning at nine and grab for the morning paper. Then I look at the obituary page. If my name is not on it, I get up.",
+	"author": "Benjamin Franklin",
+	"cat": "morning"
+	},
+	{
+	"quote": "I always do an all-night horror marathon on Saturdays where we start at seven and go until five in the morning.",
+	"author": "Quentin Tarantino",
+	"cat": "morning"
+	},
+	{
+	"quote": "My workout regimen at the moment is nonexistent. I wake up in the morning and brush my teeth. My toothbrush and deodorant are my only dumbbells. That's about it.",
+	"author": "Josh Bowman",
+	"cat": "morning"
+	},
+	{
+	"quote": "I have a fantastic wife, and not only in terms of external beauty. Her priority and mine is our children. That is our choice.",
+	"author": "Luis Figo",
+	"cat": "beauty"
+	},
+	{
+	"quote": "Growing up, if I hadn't had sports, I don't know where I'd be. God only knows what street corners I'd have been standing on and God only knows what I'd have been doing, but instead I played hockey and went to school and stayed out of trouble.",
+	"author": "Bobby Orr",
+	"cat": "god"
+	},
+	{
+	"quote": "As you make your bed, so you must lie in it.",
+	"author": "Daniel J. Boorstin",
+	"cat": "politics"
+	},
+	{
+	"quote": "Music never dies. Do we really need another Madonna tour? Does she have to compete with women performers 25 years her junior?",
+	"author": "Camille Paglia",
+	"cat": "music"
+	},
+	{
+	"quote": "I got a lovely check today from being a writer that I earned by sitting at home. That's rewarding.",
+	"author": "Harvey Fierstein",
+	"cat": "home"
+	},
+	{
+	"quote": "I'm a disorganized mess. My purse is gross: I once found a shoulder pad, string cheese, and a Christmas ornament in it!",
+	"author": "Hoda Kotb",
+	"cat": "christmas"
+	},
+	{
+	"quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+	"author": "Mother Teresa",
+	"cat": "love"
+	},
+	{
+	"quote": "It is remarkable how closely the history of the apple tree is connected with that of man.",
+	"author": "Henry David Thoreau",
+	"cat": "history"
+	},
+	{
+	"quote": "Come Christmas Eve, we usually go to my mom and dad's. Everybody brings one gift and then we play that game when we all steal it from each other. Some are really cool, others are useful and some are a bit out there.",
+	"author": "Amy Grant",
+	"cat": "cool"
+	},
+	{
+	"quote": "Facts are to the mind what food is to the body.",
+	"author": "Edmund Burke",
+	"cat": "food"
+	},
+	{
+	"quote": "I think I'm going to have to live vicariously through my daughter's rebellion because I certainly never did go through adolescence.",
+	"author": "Brooke Shields",
+	"cat": "parenting"
+	},
+	{
+	"quote": "I have to say that in this particular cow that we're dealing with, those parts of the cow were removed, and so we don't think there's any risk or very negligible risk to human health with this particular incident.",
+	"author": "Ann Veneman",
+	"cat": "health"
+	},
+	{
+	"quote": "I look for people who're passionate, dedicated to the text, and in whom I trust completely.",
+	"author": "Greta Scacchi",
+	"cat": "trust"
+	},
+	{
+	"quote": "All I watch is the Food Network. I took a cheesemaking class a few weeks ago, and I told my family and friends to only get me kitchen stuff on my birthday. I'm into every kind of cookbook and anything by Anthony Bourdain. I'd love to own a restaurant if I could find the right chef.",
+	"author": "Jesse McCartney",
+	"cat": "birthday"
+	},
+	{
+	"quote": "And they didn't have to get into a lot of legal speak or talk ER terms, they were real people. I think that's why so many actresses were attracted to it. And it was just about problems that you could identify with so much, right off the bat.",
+	"author": "James Denton",
+	"cat": "legal"
+	},
+	{
+	"quote": "Times were changing. Clothes were changing. Morals were changing. We went from romantic loves songs like I used to do to rock 'n roll. Now that has changed to rap. So, there's always a new generation with new music.",
+	"author": "Bobby Vinton",
+	"cat": "music"
+	},
+	{
+	"quote": "Politics is the science of urgencies.",
+	"author": "Theodore Parker",
+	"cat": "politics"
+	},
+	{
+	"quote": "There is a computer disease that anybody who works with computers knows about. It's a very serious disease and it interferes completely with the work. The trouble with computers is that you 'play' with them!",
+	"author": "Richard P. Feynman",
+	"cat": "computers"
+	},
+	{
+	"quote": "There is no better way of exercising the imagination than the study of law. No poet ever interpreted nature as freely as a lawyer interprets the truth.",
+	"author": "Jean Giraudoux",
+	"cat": "imagination"
+	},
+	{
+	"quote": "Freedom goes hand-in-hand with mutual respect.",
+	"author": "Kay Rala Xanana Gusmao",
+	"cat": "respect"
+	},
+	{
+	"quote": "We learned in World War II that no single nation holds a monopoly on wisdom, morality or right to power, but that we must fight for the weak and promote democracy.",
+	"author": "Joe Baca",
+	"cat": "wisdom"
+	},
+	{
+	"quote": "So, I'm always around video games but I've always been interested in them from a visual perspective, with the graphic design and that whole thing. I don't know if that comes from my love of photography or what but that's always what's held my interest about them.",
+	"author": "Sophia Bush",
+	"cat": "design"
+	},
+	{
+	"quote": "I think my mom threatened to put me up for adoption a few times.",
+	"author": "Ivanka Trump",
+	"cat": "mom"
+	},
+	{
+	"quote": "Art seduces, but does not exploit.",
+	"author": "Mason Cooley",
+	"cat": "art"
+	},
+	{
+	"quote": "And yet, in a culture like ours, which is given to material comforts, and addicted to forms of entertainment that offer immediate gratification, it is surprising that so much poetry is written.",
+	"author": "Mark Strand",
+	"cat": "poetry"
+	},
+	{
+	"quote": "Ultimately, it's possible that social media platforms will be designed as templates that the users themselves customize in terms of the best way to express their community and experience of life, and brands will have to simply follow suit.",
+	"author": "Simon Mainwaring",
+	"cat": "experience"
+	},
+	{
+	"quote": "When you are happy you can forgive a great deal.",
+	"author": "Princess Diana",
+	"cat": "great"
+	},
+	{
+	"quote": "Urs Fischer specializes in making jaws drop. Cutting giant holes in gallery walls, digging a crater in Gavin Brown's gallery floor in 2007, creating amazing hyperrealist wallpaper for a group show at Tony Shafrazi: It all percolates with uncanny destructiveness, operatic uncontrollability, and barbaric sculptural power.",
+	"author": "Jerry Saltz",
+	"cat": "amazing"
+	},
+	{
+	"quote": "We were aware of the fact that death walks hand in hand with struggle.",
+	"author": "Stokely Carmichael",
+	"cat": "death"
+	},
+	{
+	"quote": "What's important is promising something to the people, not actually keeping those promises. The people have always lived on hope alone.",
+	"author": "Hermann Broch",
+	"cat": "alone"
+	},
+	{
+	"quote": "Every year during their High Holy Days, the Jewish community reminds us all of our need for repentance and forgiveness.",
+	"author": "Billy Graham",
+	"cat": "forgiveness"
+	},
+	{
+	"quote": "There will be no politics, no ifs and buts if we see something and feel that work needs to be done, we will get people here we can rely on and ensure it is done in the same thorough way as our other projects.",
+	"author": "Ian Botham",
+	"cat": "politics"
+	},
+	{
+	"quote": "My strength is my enthusiasm.",
+	"author": "Placido Domingo",
+	"cat": "strength"
+	},
+	{
+	"quote": "We need to understand that we are not each others' enemies in this country. And it is only the political class that derives its power by creating friction. It is only the media that derives its importance by creating friction... that uses every little thing to create this chasm between people. This is not who we are.",
+	"author": "Benjamin Carson",
+	"cat": "power"
+	},
+	{
+	"quote": "Domestic travel and tourism-related spending has reached $1 trillion a year.",
+	"author": "Mark Foley",
+	"cat": "travel"
+	},
+	{
+	"quote": "Absolutely, there is a connection between food and love. I always say, when there's love in my heart or I'm feeling particularly good, the food comes out that much better. And so I think Valentine's Day is a special day.",
+	"author": "Todd English",
+	"cat": "food"
+	},
+	{
+	"quote": "I believe that if we really want human brotherhood to spread and increase until it makes life safe and sane, we must also be certain that there is no one true faith or path by which it may spread.",
+	"author": "Adlai E. Stevenson",
+	"cat": "faith"
+	},
+	{
+	"quote": "During the long process of history, by relying on our own diligence, courage and wisdom, Chinese people have opened up a good and beautiful home where all ethnic groups live in harmony and fostered an excellent culture that never fades.",
+	"author": "Xi Jinping",
+	"cat": "courage"
+	},
+	{
+	"quote": "Destruction, hence, like creation, is one of Nature's mandates.",
+	"author": "Marquis de Sade",
+	"cat": "nature"
+	},
+	{
+	"quote": "If you wish to appear agreeable in society, you must consent to be taught many things which you know already.",
+	"author": "Johann Kaspar Lavater",
+	"cat": "society"
+	},
+	{
+	"quote": "The freedom to be an individual is the essence of America.",
+	"author": "Marilyn vos Savant",
+	"cat": "freedom"
+	},
+	{
+	"quote": "Yeah, I mean the material, directors, the other cast, and if you think you can do something with the character then you do it and go from there. I am looking forward to doing some smaller movies.",
+	"author": "Orlando Bloom",
+	"cat": "movies"
+	},
+	{
+	"quote": "Conquest is not in our principles. It is inconsistent with our government.",
+	"author": "Thomas Jefferson",
+	"cat": "government"
+	},
+	{
+	"quote": "If bringing up the next generation is important, why aren't they the best qualified, the best paid? Why aren't we as concerned about their career progression as we are about those who work in the education or health services?",
+	"author": "Estelle Morris",
+	"cat": "education"
+	},
+	{
+	"quote": "I'm glad about what's happening to the music business. This last crop of people we had in the 90s, who are going away now, they didn't like music. They didn't trust musicians. They wanted something else from it.",
+	"author": "James Taylor",
+	"cat": "business"
+	},
+	{
+	"quote": "There are no absolute rules of conduct, either in peace or war. Everything depends on circumstances.",
+	"author": "Leon Trotsky",
+	"cat": "peace"
+	},
+	{
+	"quote": "I think it's a very firm part of human nature that if you surround yourself with like-minded people, you'll end up thinking more extreme versions of what you thought before.",
+	"author": "Cass Sunstein",
+	"cat": "nature"
+	},
+	{
+	"quote": "Today was good. Today was fun. Tomorrow is another one.",
+	"author": "Dr. Seuss",
+	"cat": "good"
+	},
+	{
+	"quote": "I owe my success to having listened respectfully to the very best advice, and then going away and doing the exact opposite.",
+	"author": "Gilbert K. Chesterton",
+	"cat": "best"
+	},
+	{
+	"quote": "Photography, alone of the arts, seems perfected to serve the desire humans have for a moment - this very moment - to stay.",
+	"author": "Sam Abell",
+	"cat": "alone"
+	},
+	{
+	"quote": "What I like about sceptics is that in good science you need critics that make you think: 'Crumbs, have I made a mistake here?' If you don't have that continuously, you really are up the creek. The good sceptics have done a good service, but some of the mad ones I think have not done anyone any favours.",
+	"author": "James Lovelock",
+	"cat": "science"
+	},
+	{
+	"quote": "There is nothing evil save that which perverts the mind and shackles the conscience.",
+	"author": "Saint Ambrose",
+	"cat": "religion"
+	},
+	{
+	"quote": "People are so used to having their lives filmed, they're not even conscious of having cameras around. I still have that sort of suspicion when a camera comes out. I view it as a thing to fear.",
+	"author": "Sade Adu",
+	"cat": "fear"
+	},
+	{
+	"quote": "I wasn't looking to get into TV. My family was in the movie business, so I was never interested in that world.",
+	"author": "Giada De Laurentiis",
+	"cat": "business"
+	},
+	{
+	"quote": "Love is an energy which exists of itself. It is its own value.",
+	"author": "Thornton Wilder",
+	"cat": "love"
+	},
+	{
+	"quote": "President Bush in his inaugural address talked about bringing freedom to countries that don't have it. He didn't specify how.",
+	"author": "Barbara Boxer",
+	"cat": "freedom"
+	},
+	{
+	"quote": "America is just the country that how all the written guarantees in the world for freedom are no protection against tyranny and oppression of the worst kind. There the politician has come to be looked upon as the very scum of society.",
+	"author": "Peter Kropotkin",
+	"cat": "freedom"
+	},
+	{
+	"quote": "Few people even scratch the surface, much less exhaust the contemplation of their own experience.",
+	"author": "Randolph Bourne",
+	"cat": "experience"
+	},
+	{
+	"quote": "A lot of country music is sad.",
+	"author": "Willie Nelson",
+	"cat": "music"
+	},
+	{
+	"quote": "Whosoever is delighted in solitude is either a wild beast or a god.",
+	"author": "Francis Bacon",
+	"cat": "god"
+	},
+	{
+	"quote": "This land, which we have watered with our tears and our blood, is now our mother country, and we are well satisfied to stay where wisdom abounds and gospel is free.",
+	"author": "Richard V. Allen",
+	"cat": "wisdom"
+	},
+	{
+	"quote": "Let there be no mistake. A gay man alone could never begin to replicate the inner workings of the female mind.",
+	"author": "Michael Patrick King",
+	"cat": "alone"
+	},
+	{
+	"quote": "I did go to Wellesley, a women's college. And I am of a kind of strange generation which is transitional in terms of women who wanted to go out and get jobs.",
+	"author": "Madeleine Albright",
+	"cat": "women"
+	},
+	{
+	"quote": "My future's about trying to be a better man.",
+	"author": "Terrence Howard",
+	"cat": "future"
+	},
+	{
+	"quote": "I think the most important thing in life is self-love, because if you don't have self-love, and respect for everything about your own body, your own soul, your own capsule, then how can you have an authentic relationship with anyone else?",
+	"author": "Shailene Woodley",
+	"cat": "relationship"
+	},
+	{
+	"quote": "Unlimited power corrupts the possessor.",
+	"author": "William Pitt",
+	"cat": "power"
+	},
+	{
+	"quote": "We all recognize that in recent decades, many important achievements have helped create a cleaner, healthier environment, yet our national needs in environmental health are not being fully met.",
+	"author": "Samuel Wilson",
+	"cat": "environmental"
+	},
+	{
+	"quote": "Life is best when you are in love.",
+	"author": "Michael Moriarty",
+	"cat": "best"
+	},
+	{
+	"quote": "Education is the best friend. An educated person is respected everywhere. Education beats the beauty and the youth.",
+	"author": "Chanakya",
+	"cat": "beauty"
+	},
+	{
+	"quote": "You know, I don't think any mother aims to be a single mom. I didn't wish for that, but it happened.",
+	"author": "Charlize Theron",
+	"cat": "mom"
+	},
+	{
+	"quote": "I am dumb when it comes to learning dance steps.",
+	"author": "Mia Kirshner",
+	"cat": "learning"
+	},
+	{
+	"quote": "For more than three thousand years men have quarreled concerning the formulas of their faith.",
+	"author": "Felix Adler",
+	"cat": "faith"
+	},
+	{
+	"quote": "I never got into sports at all until I was in my early 20s, after my music career got going.",
+	"author": "Neal Schon",
+	"cat": "sports"
+	},
+	{
+	"quote": "There's just me and my wife and a dog and we feed him Healthy Choice also.",
+	"author": "Mike Ditka",
+	"cat": "pet"
+	},
+	{
+	"quote": "The secret to film is that it's an illusion.",
+	"author": "George Lucas",
+	"cat": "movies"
+	},
+	{
+	"quote": "The folly of mistaking a paradox for a discovery, a metaphor for a proof, a torrent of verbiage for a spring of capital truths, and oneself for an oracle, is inborn in us.",
+	"author": "Paul Valery",
+	"cat": "science"
+	},
+	{
+	"quote": "Well, all comedy starts with anger. You get angry, and its never for a good reason, right? You know its not a good reason. And then you try and work it from there.",
+	"author": "Jerry Seinfeld",
+	"cat": "anger"
+	},
+	{
+	"quote": "Schools are not intended to moralize a wicked world, but to impart knowledge and develop intelligence, with only two social aims in mind: prepare to take on one's share in the world's work, and perhaps in addition, lend a hand in improving society, after schooling is done.",
+	"author": "Jacques Barzun",
+	"cat": "intelligence"
+	},
+	{
+	"quote": "My family got all over me because they said Bush is only for the rich people. Then I reminded them, 'Hey, I'm rich'.",
+	"author": "Charles Barkley",
+	"cat": "family"
+	},
+	{
+	"quote": "I don't think you can come into your wisdom until you have made mistakes on your own skin and felt them in reality of your own life.",
+	"author": "Elizabeth Gilbert",
+	"cat": "wisdom"
+	},
+	{
+	"quote": "My faith always has been and always will be important to me.",
+	"author": "Aretha Franklin",
+	"cat": "faith"
+	},
+	{
+	"quote": "As I've said many times, the single most oppressed class in America right now is the teenager.",
+	"author": "Joe Bob Briggs",
+	"cat": "teen"
+	},
+	{
+	"quote": "I'm single, footloose and fancy free, I have no responsibilities, no anchors. Work, friendship and self-improvement, that's me.",
+	"author": "Joel Edgerton",
+	"cat": "alone"
+	},
+	{
+	"quote": "I didn't become leader to transform the Liberal Democrats into an enlarged form of the Electoral Reform Society. It's not the be all and end all for us. There are other very, very key ambitions in politics, not least social mobility and life chances, that I care about as passionately if not more.",
+	"author": "Nick Clegg",
+	"cat": "politics"
+	},
+	{
+	"quote": "I've always believed in God. I also think that's the sort of thing that either comes as part of the equipment, the capacity to believe, or at some point in your life, when you're in a position where you actually need help from a power greater than yourself, you simply make an agreement.",
+	"author": "Stephen King",
+	"cat": "god"
+	},
+	{
+	"quote": "The best situation is being a single parent. The best part about is that you get time off, too, because the kids are with their mom, so it's the best of both worlds. There's a lot to be said for it.",
+	"author": "Larry David",
+	"cat": "mom"
+	},
+	{
+	"quote": "On movies, you have a lot of stylists that get things too pretty. Everything gets steamed and ironed. It's just not the way we really behave.",
+	"author": "Tim Heidecker",
+	"cat": "movies"
+	},
+	{
+	"quote": "This post of President is a Constitutional post. It is the duty of everyone, all citizens to see that they respect the post... the institution of President.",
+	"author": "Pratibha Patil",
+	"cat": "respect"
+	},
+	{
+	"quote": "I fully support a national health care program for the U.S.",
+	"author": "Andrew Weil",
+	"cat": "health"
+	},
+	{
+	"quote": "When your country is in a costly war, with our soldiers sacrificing abroad and our nation facing a debt crisis at home, being asked to pay your fair share isn't class warfare - it's patriotism.",
+	"author": "Cory Booker",
+	"cat": "patriotism"
+	},
+	{
+	"quote": "I mean, the whole idea of movies was it was special to go to see - you went to a movie theater to see something that was magical and amazing, in a very special location.",
+	"author": "Bob Balaban",
+	"cat": "amazing"
+	},
+	{
+	"quote": "I got into shape because I took kick-boxing lessons every day to prepare for a fight scene with Taylor Lautner. I really wanted to lie down and eat Chinese food, but I kick-boxed every morning and ran. If someone was filming you with your kit off, you'd do the same thing.",
+	"author": "Jason Isaacs",
+	"cat": "food"
+	},
+	{
+	"quote": "Do not allow to slip away from you freedoms the people who came before you won with such hard knocks.",
+	"author": "David Herbert Lawrence",
+	"cat": "freedom"
+	},
+	{
+	"quote": "Anyone who has passed though the regular gradations of a classical education, and is not made a fool by it, may consider himself as having had a very narrow escape.",
+	"author": "William Hazlitt",
+	"cat": "education"
+	},
+	{
+	"quote": "Communication is a skill that you can learn. It's like riding a bicycle or typing. If you're willing to work at it, you can rapidly improve the quality of evry part of your life.",
+	"author": "Brian Tracy",
+	"cat": "communication"
+	},
+	{
+	"quote": "I can't talk about foreign policy like anyone who's spent their life reading and learning foreign policy. But as a citizen in a democracy, it's very important that I participate in that.",
+	"author": "Ron Silver",
+	"cat": "learning"
+	}
 ]
