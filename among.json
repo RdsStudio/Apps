@@ -1,0 +1,129 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "APPLOVIN-M",
+    "main_ads_banner": "ca-app-pub-3940256099942544/63009781xx",
+    "main_ads_intertitial": "ca-app-pub-3940256099942544/103xxx",
+    "main_ads_intertitial_applovin": "48c675f823bx8e",
+    "main_native_for_admob_applovin": "ca-app-pub-3940256099942544/224769xxx",
+    "backup_native_for_admob_applovin": "9ca3a008571a0575",
+    "backup_ads_banner": "db4d5e8718b97d78",
+    "backup_ads_intertitial": "48c675f823b5988e",
+    "interval_intertitial": 1,
+    "initialize_sdk": "",
+    "initialize_sdk_backup_ads": "",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "matikan_iklan": "0",
+    "link_redirect": "https://"
+
+
+  }],
+
+  
+  "files": [
+    {
+      "author": "Creator : JediGamerPlayz",
+      "description": "Have you ever played Among Us before? If you have, then this addon is for you. It adds Crewmate and Impostor Totems into the game! So, don't be sus. Have a look at the Totems and find out what they do!",
+      "img": "https://my.mcpedl.com/storage/addons/7141/images/among-us-totems-addon_4.png",
+      "js": "https://www.dropbox.com/s/8m70o0oykjtxoih/Among_Us_Totems_V1.0.1.mcaddon?dl=1",
+      "title": "Among Us Totems V1.0.1: UPDATE",
+      "version": "Support 1.16"
+    },
+    {
+      "author": "Creator : JediGamerPlayz",
+      "description": "Have you ever played Among Us before? If you have, then this addon is for you. It adds Crewmate and Impostor Totems into the game! So, don't be sus. Have a look at the Totems and find out what they do!",
+      "img": "https://my.mcpedl.com/storage/addons/7141/images/among-us-totems-addon_4.png",
+      "js": "https://dl.mcpedl.com/addons/7141/Among-Us-Totems-V1.mcaddon",
+      "title": "Among Us Totems V1.0: The Airship & Submerged",
+      "version": "Support 1.16"
+    },
+    {
+      "author": "Creator : Unknown",
+      "description": "The incredibly popular game Among Us has an uncomplicated storyline, but at the same time, it has gained huge popularity among users. In the course of the plot, a certain number of players should find a bloodthirsty traitor.",
+      "img": "https://mcpe-planet.com/wp-content/uploads/2022/03/photo_2022-03-21_10-50-55-200x200-c-default.jpg",
+      "js": "https://mcpe-planet.com/wp-content/uploads/2022/03/Among-Us-Armor.mcpack",
+      "title": "Among Us Texture Pack",
+      "version": "Support 1.17-1.19"
+    },
+    {
+      "author": "Creator : Mad Monkey",
+      "description": "Among Us, the popular game that everyone is playing, do you want to embody the characters of Among Us in Minecraft? What are you waiting for?  Download this skinpack and be the impostor or a crewmate.",
+      "img": "http://mcforge.club/amon/among-us-skinpack_2.png",
+      "js": "https://www.dropbox.com/s/fotg0c2e0vg01qo/Among-Us-Skinpack.mcpack?dl=1",
+      "title": "Among Us Skinpack",
+      "version": "Support 1.16"
+    },
+    {
+      "author": "Creator : ESG TEAM  ItzGamerBonez  ItzSkelebonez  Tiny Bonez  Bjorn  ItsKingEric",
+      "description": "Among us has become really popular lately. So we decided to create a map and addon from it. Thats right its 2 in a price of 1! So Download it now to add it to your minecraft game and have a first person experience. To revert back simply use /function remove. For play this map please install addons, resources and behavior that creator are ESG TEAM  ItzGamerBonez  ItzSkelebonez  Tiny Bonez  Bjorn  ItsKingEric.\\n Because the creator not allow to put direct link to download this mod you can go to this link: https://mcpedl.com/among-us-map-addon/",
+      "img": "http://mcforge.club/amon/among-us-map-addon_2.png",
+      "js": "https://www.dropbox.com/s/plky4adkhfnx017/AmongUsMap.mcworld?dl=1",
+      "title": "Among Us Map",
+      "version": "Support 1.16"
+    },
+    {
+      "author": "Creator : ESG TEAM  ItzGamerBonez  ItzSkelebonez  Tiny Bonez  Bjorn  ItsKingEric",
+      "description": "It adds all 12 available colored player characters from the game that you could transform into you can get it from the creative inventory. Because the creator not allow to put direct link to download this mod you can go to this link: https://mcpedl.com/among-us-map-addon/",
+      "img": "http://mcforge.club/amon/addons.jpg",
+      "js": "https://www.dropbox.com/s/pvsuzxm6bsxroo7/Among%20us%20%5BR%5D.mcpack?dl=1",
+      "title": "Among Us Resources",
+      "version": "Support 1.16"
+    },
+    {
+      "author": "Creator : Rizzz",
+      "description": "This map is equipped with many large modern buildings, some are made of redstone, and some are made ordinary.",
+      "img": "https://relaxing.media/addons/Special-Modern-House/picture2.png",
+      "js": "https://relaxing.media/addons/Special-Modern-House/Special-Modern-House.mcworld",
+      "title": "Super Modern House 2 (World) Add-on",
+      "version": "Support 1.16"
+    },
+    {
+      "author": "Creator : ESG TEAM  ItzGamerBonez  ItzSkelebonez  Tiny Bonez  Bjorn  ItsKingEric",
+      "description": "It adds all 12 available colored player characters from the game that you could transform into you can get it from the creative inventory. Because the creator not allow to put direct link to download this mod you can go to this link: https://mcpedl.com/among-us-map-addon/",
+      "img": "http://mcforge.club/amon/among-us-map-addon_8.png",
+      "js": "https://www.dropbox.com/s/uygqife1wl4rajd/Among-Us-%5BB%5Dv2.mcpack?dl=1",
+      "title": "Among Us Behavior",
+      "version": "Support 1.16"
+    },
+    {
+      "author": "Creator : ESG TEAM  ItzGamerBonez  ItzSkelebonez  Tiny Bonez  Bjorn  ItsKingEric",
+      "description": "This the addon file for Amoung Us It adds all 12 available colored player characters from the game that you could transform into you can get it from the creative inventory. ",
+      "img": "http://mcforge.club/among-us-map-addon_10.png",
+      "js": "https://www.dropbox.com/s/6cm8tn2yxchk21k/Among%20Us%20Addonv2.mcaddon?dl=1",
+      "title": "Among Us Addon",
+      "version": "Support 1.16"
+    },
+    {
+      "author": "Creator : Toramtyces",
+      "description": "The great game that has jumped to fame over the last few days, now comes to Minecraft Bedrock Edition! This map has all the features needed for the Impostor to fool his fellow players. \n\n Among Us TR has all the features of the original game. There is an impostor among the crew.  The work of the crew is to fix different problems of a spaceship to save itself from death, the solutions are simple and fast. They would have no problem if it weren’t for an impostor, whose job is to sabotage the bring of others and finish them off. \n\n How do you win? \n\n The game is very simple and is based on the game Among Us. The crewmembers win if they find out who the impostor is and throw him off the ship, or if they finish all their activities. The impostor wins if the crewmembers do not manage to fix their sabotage in time or if they finish with the crewmembers. \n\n Start\n\n  A minimum of 4 players is recommended to start the game, if not, some things will not work properly or the game experience may not be the desired one. Before starting a game each player must choose a color to identify themselves when reporting a body or for voting. Once everyone has chosen their color you can start the game by clicking on the button on the wooden block.",
+      "img": "http://mcforge.club/amon/among-us-tr_3.png",
+      "js": "https://www.dropbox.com/s/ys7b22vlwaw6qht/Among%20Us%20TR.mcworld?dl=1",
+      "title": "Among Us TR",
+      "version": "Support 1.16"
+    },
+    {
+      "author": "Creator : Anuibus",
+      "description": "This is part 1 of An Among us map me and my friend built together for fun.  We spent a long time on it and we are not done, meaning there are no tasks or sabotaging yet.  Note you do get the diamond when pressing start just don’t throw it down or you’ll be stuck in the incomplete sabotaging room.",
+      "img": "http://mcforge.club/amon/among-us-map-part-1_3.png",
+      "js": "https://www.dropbox.com/s/sudt8ult1sjwabo/Among-Us_1601087007.mcworld?dl=1",
+      "title": "Among Us Part 1",
+      "version": "Support 1.16"
+    },
+    {
+      "author": "Creator : justintdml",
+      "description": "Enjoying the grate game among us. Love destroying your friendships as well as others but also love the blocky world of Minecraft. Well here is the world of among us in Minecraft for all you amazing gamers to play.",
+      "img": "http://mcforge.club/amon/among-us-craft_2.png",
+      "js": "https://www.dropbox.com/s/jop00a58i4i06q9/among%20us%20update1.mcworld?dl=1",
+      "title": "Among Us Craft",
+      "version": "Support 1.16"
+    }
+  ]
+}
+
+
+
