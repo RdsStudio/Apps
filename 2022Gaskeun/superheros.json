@@ -1,0 +1,138 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "APPLOVIN-M",
+		"main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+		"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712x",
+		"main_native_for_admob_applovin": "ca-app-pub-3940256099942544/2247696110x",
+		"backup_ads_banner": "6c4a887d6aed766e",
+		"backup_ads_intertitial": "fc5437769b1e9211",
+		"backup_native_for_admob_applovin": "a31f11b7481e5476",
+		"interval_intertitial": 1,
+		"initialize_sdk": "107355779",
+		"initialize_sdk_backup_ads": "",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"matikan_iklan": "0",
+		"link_redirect": "https://"
+
+
+	}],
+	"files": [{
+    "title": "Deadpool Mod",
+    "img": "https://mcpe-planet.com/wp-content/uploads/2022/03/photo_2022-03-31_12-25-53-2-640x360-c-default.jpg",
+    "description": "become an incredible antihero and get his unique abilities!\n\nOne of the most memorable comic book heroes now enters the world of Minecraft PE. Thanks to Deadpool Mod, every player can feel himself in the role of this funny antihero.",
+    "modurl": "https://mcpedl.org/uploads_files/01-04-2022/deadpool.mcaddon",
+    "modurl_2": "https://mcpedl.org/uploads_files/01-04-2022/marvel-3d-armor.mcaddon",
+    "author": "Brandon Taylor",
+    "version": "1.16 - 1.19"
+  },
+    {
+      "title": "Doctor Strange Mod",
+      "img": "https://mcpedl.org/wp-content/uploads/2022/03/magic-dr-strange-mod-minecraft-pe-350x250-c-default.jpg",
+      "description": "Download Doctor Strange Mod for Minecraft PE: control time, teleport to various measures, save the world together with your allies.",
+      "modurl": "https://mcpedl.org/uploads_files/04-04-2022/doctor-strange.mcpack",
+      "modurl_2": "",
+      "author": "Brandon Taylor",
+      "version": "1.16 - 1.19"
+    },
+    {
+      "title": "Thor Mod",
+      "img": "https://mcpedl.org/wp-content/uploads/2022/03/endgame-thor-mod-minecraft-pe-350x250-c-default.jpg",
+      "description": "Download Thor Mod for Minecraft PE: get to know the world of Scandinavian heroes and find out the secret of the Marvel universe main character.",
+      "modurl": "https://mcpedl.org/uploads_files/01-04-2022/thor.mcaddon",
+      "modurl_2": "",
+      "author": "Brandon Taylor",
+      "version": "1.17 - 1.19"
+    },
+    {
+      "title": "Thanos Mod",
+      "img": "https://mcpedl.org/wp-content/uploads/2022/03/marvel-thanos-mod-minecraft-pe-350x250-c-default.jpg",
+      "description": "Download Thanos Mod for Minecraft PE: get the most powerful artifact of the Marvel cinematic universe at your disposal and protect the universe from destruction.",
+      "modurl": "https://mcpedl.org/uploads_files/04-04-2022/avengers-endgame.mcaddon",
+      "modurl_2": "https://mcpedl.org/uploads_files/04-04-2022/infinity-gauntlet.mcaddon",
+      "author": "Brandon Taylor",
+      "version": "1.17 - 1.19"
+    },
+    {
+      "title": "Captain America Mod",
+      "img": "https://mcpedl.org/wp-content/uploads/2022/05/marvel-captain-america-mod-minecraft-pe-350x250-c-default.jpg",
+      "description": "Download Captain America Mod for Minecraft PE: turn into a real Marvel comics hero, use superpowers to protect the universe, and defend yourself with the latest shield model.",
+      "modurl": "https://mcpedl.org/uploads_files/31-03-2022/captain-america.mcaddon",
+      "modurl_2": "https://mcpedl.org/uploads_files/31-03-2022/captain-america-shield-b.mcpack",
+      "author": "Brandon Taylor",
+      "version": "1.17 - 1.19"
+    }, {
+      "title": "Superman Mod",
+      "img": "https://mcpedl.org/wp-content/uploads/2022/05/cape-superman-mod-minecraft-pe-350x250-c-default.jpg",
+      "description": "Download Superman Mod for Minecraft PE: enjoy flying in the skies for an unlimited amount of time.",
+      "modurl": "https://mcpedl.org/uploads_files/31-03-2022/infinity-flight-superman.mcaddon",
+      "modurl_2": "https://mcpedl.org/uploads_files/31-03-2022/superman-laser-eyes.mcaddon",
+      "author": "Brandon Taylor",
+      "version": "1.17 - 1.19"
+    },
+
+    {
+      "title": "Flash Mod",
+      "img": "https://mcpedl.org/wp-content/uploads/2022/05/justice-league-flash-mod-minecraft-pe-350x250-c-default.jpg",
+      "description": "Download Flash Mod for Minecraft PE:  turn into a unique superhero produced by DC studio, feel his incredible speed, which can slow down even time.",
+      "modurl": "https://mcpedl.org/uploads_files/31-03-2022/flash-b.mcpack",
+      "modurl_2": "https://mcpedl.org/uploads_files/31-03-2022/flash-r.mcpack",
+      "author": "Brandon Taylor",
+      "version": "1.17 - 1.19"
+    },
+    {
+      "title": "Lady Bug Mod",
+      "img": "https://mcpedl.org/wp-content/uploads/2022/07/picture-mcpedl-00981-350x250-c-default.jpg",
+      "description": "Download  Lady Bug Mod for Minecraft PE: transform into characters of the famous animated series, and get their superpowers and weapons.",
+      "modurl": "https://mcpedl.org/uploads_files/05-05-2022/miraculous-lady-bug-be.mcpack",
+      "modurl_2": "https://mcpedl.org/uploads_files/05-05-2022/miraculous-lady-bug-re.mcpack",
+      "author": "Brandon Taylor",
+      "version": "1.17 - 1.19"
+    },
+    {
+      "title": "Iron Man",
+      "img": "https://mcpedl.org/wp-content/uploads/2022/05/infinity-war-iron-man-mod-minecraft-pe-350x250-c-default.jpg",
+      "description": "Download Iron Man Mod for Minecraft PE: get first-class weapons, a lot of money, but do not forget about the responsibility for the whole universe.",
+      "modurl": "https://mcpedl.org/uploads_files/31-03-2022/iron-man-b.mcpack",
+      "modurl_2": "https://mcpedl.org/uploads_files/31-03-2022/iron-man-r.mcpack",
+      "author": "Brandon Taylor",
+      "version": "1.17 - 1.19"
+    },
+    {
+      "title": "Ant Man",
+      "img": "https://mcpedl.org/wp-content/uploads/2021/01/fotomod1-7-350x250-c-default.jpg",
+      "description": "Download the Ant Man Mod for Minecraft PE: become so small that no living creature can possibly find and kill you.",
+      "modurl": "https://mcpedl.org/uploads_files/02-01-2021/sonic.mcaddon",
+      "modurl_2": "",
+      "author": "Brandon Taylor",
+      "version": "1.17 - 1.19"
+    },
+    {
+      "title": "Superhero Mod",
+      "img": "https://mcpedl.org/wp-content/uploads/2020/07/fotosuperhero-350x250-c-default.jpg",
+      "description": "Download the superhero mod for Minecraft PE: become invincible and save an entire village.",
+      "modurl": "https://mcpedl.org/uploads_files/15-07-2020/pocket-power.zip",
+      "modurl_2": "",
+      "author": "Brandon Taylor",
+      "version": "1.17 - 1.19"
+    },
+    {
+      "title": "Spiderman Addon",
+      "img": "https://mcpedl.org/wp-content/uploads/2020/06/fotospider-350x250-c-default.jpg",
+      "description": "Download Spiderman mod for Minecraft PE: become one of the most famous superheroes from the Marvel universe. ",
+      "modurl": "https://mcpedl.org/uploads_files/08-06-2020/Spidermanaddon.mcaddon",
+      "modurl_2": "https://mcpedl.org/uploads_files/08-06-2020/spiderman.mcaddon",
+      "author": "Brandon Taylor",
+      "version": "1.17 - 1.19"
+    }
+
+
+
+  ]
+
+}
