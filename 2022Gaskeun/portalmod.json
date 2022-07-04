@@ -1,0 +1,82 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "APPLOVIN-M",
+		"main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+		"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712x",
+		"main_native_for_admob_applovin": "ca-app-pub-3940256099942544/2247696110x",
+		"backup_ads_banner": "6c4a887d6aed766e",
+		"backup_ads_intertitial": "fc5437769b1e9211",
+		"backup_native_for_admob_applovin": "a31f11b7481e5476",
+		"interval_intertitial": 1,
+		"initialize_sdk": "107355779",
+		"initialize_sdk_backup_ads": "",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"matikan_iklan": "0",
+		"link_redirect": "https://"
+
+
+	}],
+	"files": [{
+    "title": "Diamond Portal Mod",
+    "img": "https://mcpe-planet.com/wp-content/uploads/2021/01/preview-37-360x640-c-default.jpg",
+    "description": "Download the Diamond Portal mod for Minecraft PE: make your world even more valuable.\n Portal Mods\n\nAlthough portals are considered to be gateways between different points in space, this portal does not teleport you to any other location or dimension.",
+    "modurl": "https://mcpe-planet.com/wp-content/uploads/2021/01/DiamondPortal.zip",
+    "modurl_2": "https://mcpe-planet.com/wp-content/uploads/2021/01/PortalsPlus.zip",
+    "author": "Unknown",
+    "version": "1.16 - 1.19.2"
+  },
+    {
+      "title": "Teleport Mod",
+      "img": "https://mcpe-planet.com/wp-content/uploads/2022/03/teleports.mcaddon",
+      "description": "Download Teleport Mod for Minecraft PE, and go to any place in the world easily!\n\nTeleports\n\nThis add-on will help Minecraft PE players to make the gameplay easier by adding new blocks. Thanks to them, Steve can travel a long distance in seconds, saving time and not wasting additional resources.",
+      "modurl": "https://mcpe-planet.com/wp-content/uploads/2022/03/teleports.mcaddon",
+      "modurl_2": "https://mcpe-planet.com/wp-content/uploads/2022/03/teleporting-belt.mcaddon",
+      "author": "Unknown",
+      "version": "1.16 - 1.19"
+    },
+    {
+      "title": "Dimension Mod",
+      "img": "https://mcpedl.org/wp-content/uploads/2022/03/endgame-thor-mod-minecraft-pe-350x250-c-default.jpg",
+      "description": "Download  Dimension Mod for Minecraft PE: build portals, travel to new territories, meet unique mobs and find resources!\n\nExperienced players know there is an opportunity to travel to different dimensions in Minecraft PE. Usually, they use portals for this. Mods developers offer users to go not only to the Nether and the End but also to completely new places.",
+      "modurl": "https://mcpe-planet.com/wp-content/uploads/2022/03/sky-dimension-mod.mcpack",
+      "modurl_2": "https://mcpe-planet.com/wp-content/uploads/2022/03/sky-dimension-textura.mcpack",
+      "author": "Brandon Taylor",
+      "version": "1.17 - 1.19"
+    },
+    {
+      "title": "Portal 2 Mod",
+      "img": "https://mcpebox.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/11/portal12.jpg",
+      "description": "Portal 2 Mod is a wide and complex mod which was created by Desno365. It is about features in Minecraft PE.\n\nThis mod provides you with many new features which as found in the popular first-person puzzle-platform Portal games. \n\nYou will have many new items and weapons. Such as Guns, Turrets, Jumper. All of them has different features. For example, Guns Portal to set the port, a GravityGun which can be used for both blocks and The Wood & Stone PortalGun used to set the portal. Two portals can be set and used to walk through to get shifted from one point to another.",
+      "modurl": "https://download2390.mediafire.com/3bujwa4nx72g/1oa7s9ycb9udrr9/Portal_2_Mod_r015_Desno365.modpkg",
+      "modurl_2": "",
+      "author": "Desno365",
+      "version": "1.17 - 1.19"
+    },
+    {
+      "title": "Portal Gun Add-on",
+      "img": "https://mcpebox.com/wp-content/uploads/2021/07/portal-gun-addon_17.png?v=1626281444",
+      "description": "With this add-on a portal gun item will be added in your world. The portal gun is quite easy to craft.",
+      "modurl": "https://download2389.mediafire.com/mdtx9hpxlrxg/tccfi7ojmfi4qx2/Portal+Gun+Addon+v8.4.1.mcaddon",
+      "modurl_2": "",
+      "author": "Desno365",
+      "version": "1.17 - 1.19"
+    }, {
+      "title": "Nether Portal Mod",
+      "img": "https://mcpebox.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2019/11/nether.png",
+      "description": "This mod adds a new portal to the game. That is the Nether Portal. This portal is different from other normal portals in Minecraft PE. It works almost the same way as the original feature in Minecraft PC.",
+      "modurl": "https://mcpedl.org/uploads_files/31-03-2022/infinity-flight-superman.mcaddon",
+      "modurl_2": "",
+      "author": "Brandon Taylor",
+      "version": "1.17 - 1.19"
+    }
+
+
+  ]
+
+}
