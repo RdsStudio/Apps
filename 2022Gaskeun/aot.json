@@ -420,10 +420,10 @@
   [
     {
       "id":1,
-      "name_map":"AOT Maps MCPE",
+      "map_name":"AOT Maps MCPE",
       "map_url":"https://archive.org/download/addmapaot/map1.zip",
-      "view_map":"https://modandskinmcpe.github.io/easycraftdev/aot/map.png",
-      "des_map":"https://modandskinmcpe.github.io/easycraftdev/aot/map.html"
+      "map_image":"https://modandskinmcpe.github.io/easycraftdev/aot/map.png",
+      "map_desc":"https://modandskinmcpe.github.io/easycraftdev/aot/map.html"
     }
   ]
 }
