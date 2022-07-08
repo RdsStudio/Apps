@@ -1,1 +1,14 @@
-{"packagename":"com.musicapps.uli","admobbanner":"ca-app-pub-3940256099942544\/6300978111","admobinter":"ca-app-pub-3940256099942544\/1033173712","admobnative":"ca-app-pub-3940256099942544~3347511713","applovinbanner":"b195f8dd8ded45fe847ad89ed1d016da","applovininter":"252412d5e9364a05ab77d9396346d73d","applovinnative":"252412d5e9364a05ab77d9396346d73d","interval":"1","appupdate":"","admobads":1,"statusapp":1,"resource_url":""}
+{
+	"packagename": "com.musicapps.uli",
+	"admob_banner": "ca-app-pub-3940256099942544\/6300978111",
+	"admob_inter": "ca-app-pub-3940256099942544\/1033173712",
+	"admob_native": "ca-app-pub-3940256099942544~3347511713",
+	"applovin_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+	"applovin_inter": "252412d5e9364a05ab77d9396346d73d",
+	"applovin_native": "252412d5e9364a05ab77d9396346d73d",
+	"interval": "1",
+	"appupdate": "",
+	"admobads": 1,
+	"statusapp": 1,
+	"resource_url": ""
+}
