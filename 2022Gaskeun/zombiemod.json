@@ -23,126 +23,125 @@
 
 	}],
 	"files": [{
-			{
-      "title": "Fruits Frenzy addon",
-      "img": "https://fmcpe.com/uploads/posts/2020-10/1601548636_fruits-smoothies-3.jpg",
-      "description": "Create a refreshing and nutritious drink from fresh fruits that will boost your abilities. Fruit Frenzy addon introduces a couple of new things into the Minecraft PE - fruits, blender, fruits seller, and smoothies. Smoothies are not made to replace the food, it's rather an alternative to potions for it is granting a time lasting effects for your character.\n\nPlease download and install \"Fruits Frenzy Resources\" too after this post to play this addon smoothly\n\nMake sure to enable \"Experimental Gameplay\"",
-      "modurl": "https://mcforge.club/zombie/fruit-frenzy-b.mcpack",
-      "modurl_2": "",
-      "author": "Creator: AzzyMC",
-      "version": "Support Version 1.16"
-    },
-    {
+			"title": "Fruits Frenzy addon",
+			"img": "https://fmcpe.com/uploads/posts/2020-10/1601548636_fruits-smoothies-3.jpg",
+			"description": "Create a refreshing and nutritious drink from fresh fruits that will boost your abilities. Fruit Frenzy addon introduces a couple of new things into the Minecraft PE - fruits, blender, fruits seller, and smoothies. Smoothies are not made to replace the food, it's rather an alternative to potions for it is granting a time lasting effects for your character.\n\nPlease download and install \"Fruits Frenzy Resources\" too after this post to play this addon smoothly\n\nMake sure to enable \"Experimental Gameplay\"",
+			"modurl": "https://mcforge.club/zombie/fruit-frenzy-b.mcpack",
+			"modurl_2": "",
+			"author": "Creator: AzzyMC",
+			"version": "Support Version 1.16"
+		},
+		{
 
-      "title": "Fruits Frenzy Resources",
-      "img": "https://fmcpe.com/uploads/posts/2020-10/1601548636_fruits-smoothies-3.jpg",
-      "description": "Create a refreshing and nutritious drink from fresh fruits that will boost your abilities. Fruit Frenzy addon introduces a couple of new things into the Minecraft PE - fruits, blender, fruits seller, and smoothies. Smoothies are not made to replace the food, it's rather an alternative to potions for it is granting a time lasting effects for your character.\n\nMake sure to enable \"Experimental Gameplay\"",
-      "modurl": "https://mcforge.club/zombie/fruit-frenzy-r.mcpack",
-      "modurl_2": "",
-      "author": "Creator: AzzyMC",
-      "version": "Support Version 1.16"
-    },
-    {
-      "title": "World Z",
-      "img": "https://fmcpe.com/uploads/posts/2020-07/1594479598_zombpocalypse.jpg",
-      "description": "War Z is a zombie apocalypse kind of addon that gives you guns and hordes of zombies to shoot. That kind of experience is always fun - it makes the game more dynamic in terms of survival. Everything you need for survival will be scattered upon the world in loot boxes, open them to find weapons, meds, and food.\n\nPlease download and install \"World Z Resources\" too after this post to play this addon smoothly\n\nMake sure to enable \"Experimental Gameplay\"",
-      "modurl": "https://mcforge.club/zombie/project_walker_b.mcpack",
-      "modurl_2": "",
-      "author": "Credit : Mano Galo",
-      "version": "Support Version 1.16"
-    },
-    {
-      "title": "World Z Resources",
-      "img": "https://fmcpe.com/uploads/posts/2020-07/1594479647_zombpocalypse-1.jpg",
-      "description": "War Z is a zombie apocalypse kind of addon that gives you guns and hordes of zombies to shoot. That kind of experience is always fun - it makes the game more dynamic in terms of survival. Everything you need for survival will be scattered upon the world in loot boxes, open them to find weapons, meds, and food.\n\nMake sure to enable \"Experimental Gameplay\"",
-      "modurl": "https://mcforge.club/zombie/project_walker_r.mcpack",
-      "modurl_2": "",
-      "author": "Credit : Mano Galo",
-      "version": "Support Version 1.16"
-    },
+			"title": "Fruits Frenzy Resources",
+			"img": "https://fmcpe.com/uploads/posts/2020-10/1601548636_fruits-smoothies-3.jpg",
+			"description": "Create a refreshing and nutritious drink from fresh fruits that will boost your abilities. Fruit Frenzy addon introduces a couple of new things into the Minecraft PE - fruits, blender, fruits seller, and smoothies. Smoothies are not made to replace the food, it's rather an alternative to potions for it is granting a time lasting effects for your character.\n\nMake sure to enable \"Experimental Gameplay\"",
+			"modurl": "https://mcforge.club/zombie/fruit-frenzy-r.mcpack",
+			"modurl_2": "",
+			"author": "Creator: AzzyMC",
+			"version": "Support Version 1.16"
+		},
+		{
+			"title": "World Z",
+			"img": "https://fmcpe.com/uploads/posts/2020-07/1594479598_zombpocalypse.jpg",
+			"description": "War Z is a zombie apocalypse kind of addon that gives you guns and hordes of zombies to shoot. That kind of experience is always fun - it makes the game more dynamic in terms of survival. Everything you need for survival will be scattered upon the world in loot boxes, open them to find weapons, meds, and food.\n\nPlease download and install \"World Z Resources\" too after this post to play this addon smoothly\n\nMake sure to enable \"Experimental Gameplay\"",
+			"modurl": "https://mcforge.club/zombie/project_walker_b.mcpack",
+			"modurl_2": "",
+			"author": "Credit : Mano Galo",
+			"version": "Support Version 1.16"
+		},
+		{
+			"title": "World Z Resources",
+			"img": "https://fmcpe.com/uploads/posts/2020-07/1594479647_zombpocalypse-1.jpg",
+			"description": "War Z is a zombie apocalypse kind of addon that gives you guns and hordes of zombies to shoot. That kind of experience is always fun - it makes the game more dynamic in terms of survival. Everything you need for survival will be scattered upon the world in loot boxes, open them to find weapons, meds, and food.\n\nMake sure to enable \"Experimental Gameplay\"",
+			"modurl": "https://mcforge.club/zombie/project_walker_r.mcpack",
+			"modurl_2": "",
+			"author": "Credit : Mano Galo",
+			"version": "Support Version 1.16"
+		},
 
-    {
-      "title": "Mobs Leash",
-      "img": "https://fmcpe.com/uploads/posts/2020-09/1599029341_mobs-leash.jpg",
-      "description": "The addon allows you to use the leash on all mobs in Minecraft PE. A leash is a useful item that allows you to lead mobs into the places you want them to be. The most use of it comes in the process of organizing animal or mob farms. The new and improved leash allows you to attach it to marine and airborne creatures as well. The potential of this addon is mind-blowing, just imagine leashing a few creepers and lead them to your friend's house for a surprise.\n\nPlease download and install \"Mobs Leash Resources\" too after this post to play this addon smoothly\n\nMake sure to enable \"Experimental Gameplay\"",
-      "modurl": "https://mcforge.club/zombie/bp-leash-all-mobs-1_16.mcpack",
-      "modurl_2": "",
-      "author": "Credits: HERRIE'S OLD ACC",
-      "version": "Support Version 1.16"
-    },
-    {
-      "title": "Mobs Leash Resources",
-      "img": "https://fmcpe.com/uploads/posts/2020-09/1599029366_mobs-leash-1.jpg",
-      "description": "The addon allows you to use the leash on all mobs in Minecraft PE. A leash is a useful item that allows you to lead mobs into the places you want them to be. The most use of it comes in the process of organizing animal or mob farms. The new and improved leash allows you to attach it to marine and airborne creatures as well. The potential of this addon is mind-blowing, just imagine leashing a few creepers and lead them to your friend's house for a surprise.\n\nMake sure to enable \"Experimental Gameplay\"",
-      "modurl": "https://mcforge.club/zombie/rp-leash-all-mobs-1_16.mcpack",
-      "modurl_2": "",
-      "author": "Credits: HERRIE'S OLD ACC",
-      "version": "Support Version 1.16"
-    },
-    {
-      "title": "Left 4 Craft",
-      "img": "https://fmcpe.com/uploads/posts/2020-07/1594755784_left4craft.jpg",
-      "description": "Left 4 Craft is a Minecraft adaptation of the popular cooperative game called Left 4 Dead. The addon features new types of zombies that are more dangerous to fight with than regular ones. Some zombies have a very brutal design and sounds that can scare some of you.\n\nPlease download and install \"Left 4 Craft Resources\" too after this post to play this addon smoothly\n\nMake sure to enable \"Experimental Gameplay\"",
-      "modurl": "https://mcforge.club/zombie/left-4-craft-behaviorpack-v3_1.mcpack",
-      "modurl_2": "",
-      "author": "Credits: ArathNidoGamer",
-      "version": "Support Version 1.16"
-    },
-    {
-      "title": "Left 4 Craft Resources",
-      "img": "https://fmcpe.com/uploads/posts/2020-07/1594755774_left4craft-3.jpg",
-      "description": "Left 4 Craft is a Minecraft adaptation of the popular cooperative game called Left 4 Dead. The addon features new types of zombies that are more dangerous to fight with than regular ones. Some zombies have a very brutal design and sounds that can scare some of you.\n\nMake sure to enable \"Experimental Gameplay\"",
-      "modurl": "https://mcforge.club/zombie/left-4-craft-texturepack-v3_1.mcpack",
-      "modurl_2": "",
-      "author": "Credits: ArathNidoGamer",
-      "version": "Support Version 1.16"
-    },
+		{
+			"title": "Mobs Leash",
+			"img": "https://fmcpe.com/uploads/posts/2020-09/1599029341_mobs-leash.jpg",
+			"description": "The addon allows you to use the leash on all mobs in Minecraft PE. A leash is a useful item that allows you to lead mobs into the places you want them to be. The most use of it comes in the process of organizing animal or mob farms. The new and improved leash allows you to attach it to marine and airborne creatures as well. The potential of this addon is mind-blowing, just imagine leashing a few creepers and lead them to your friend's house for a surprise.\n\nPlease download and install \"Mobs Leash Resources\" too after this post to play this addon smoothly\n\nMake sure to enable \"Experimental Gameplay\"",
+			"modurl": "https://mcforge.club/zombie/bp-leash-all-mobs-1_16.mcpack",
+			"modurl_2": "",
+			"author": "Credits: HERRIE'S OLD ACC",
+			"version": "Support Version 1.16"
+		},
+		{
+			"title": "Mobs Leash Resources",
+			"img": "https://fmcpe.com/uploads/posts/2020-09/1599029366_mobs-leash-1.jpg",
+			"description": "The addon allows you to use the leash on all mobs in Minecraft PE. A leash is a useful item that allows you to lead mobs into the places you want them to be. The most use of it comes in the process of organizing animal or mob farms. The new and improved leash allows you to attach it to marine and airborne creatures as well. The potential of this addon is mind-blowing, just imagine leashing a few creepers and lead them to your friend's house for a surprise.\n\nMake sure to enable \"Experimental Gameplay\"",
+			"modurl": "https://mcforge.club/zombie/rp-leash-all-mobs-1_16.mcpack",
+			"modurl_2": "",
+			"author": "Credits: HERRIE'S OLD ACC",
+			"version": "Support Version 1.16"
+		},
+		{
+			"title": "Left 4 Craft",
+			"img": "https://fmcpe.com/uploads/posts/2020-07/1594755784_left4craft.jpg",
+			"description": "Left 4 Craft is a Minecraft adaptation of the popular cooperative game called Left 4 Dead. The addon features new types of zombies that are more dangerous to fight with than regular ones. Some zombies have a very brutal design and sounds that can scare some of you.\n\nPlease download and install \"Left 4 Craft Resources\" too after this post to play this addon smoothly\n\nMake sure to enable \"Experimental Gameplay\"",
+			"modurl": "https://mcforge.club/zombie/left-4-craft-behaviorpack-v3_1.mcpack",
+			"modurl_2": "",
+			"author": "Credits: ArathNidoGamer",
+			"version": "Support Version 1.16"
+		},
+		{
+			"title": "Left 4 Craft Resources",
+			"img": "https://fmcpe.com/uploads/posts/2020-07/1594755774_left4craft-3.jpg",
+			"description": "Left 4 Craft is a Minecraft adaptation of the popular cooperative game called Left 4 Dead. The addon features new types of zombies that are more dangerous to fight with than regular ones. Some zombies have a very brutal design and sounds that can scare some of you.\n\nMake sure to enable \"Experimental Gameplay\"",
+			"modurl": "https://mcforge.club/zombie/left-4-craft-texturepack-v3_1.mcpack",
+			"modurl_2": "",
+			"author": "Credits: ArathNidoGamer",
+			"version": "Support Version 1.16"
+		},
 
-    {
-      "title": "Apocalyptic city map",
-      "img": "https://fmcpe.com/uploads/posts/2020-06/1593546005_zombie-apocalypse-1.jpg",
-      "description": "The world has come to its end, and the city you're living - was taken by zombies. What should you do in that situation? Resist the zombies, grab any weapon you can find and kill them all. Your final challenge will be to defeat the Ender Dragon. The loot is scattered around all over the city in the chests. Of course, the first place you should visit is the police department.\n\nAfter you gathered enough gear and resources, you should build an Ender portal. The map is meant to be played in Adventure mode, which means that it has limitations in terms of building stuff. Find the apartment in one of the skyscrapers with signs in it - that is the only place you're allowed to build a portal.",
-      "modurl": "https://mcforge.club/zombie/zombie-apocalypse.mcworld",
-      "modurl_2": "",
-      "author": "Credits: Jarno",
-      "version": "Support Version 1.16"
-    },
-    {
-      "title": "Last day on Earth map",
-      "img": "https://fmcpe.com/uploads/posts/2017-11/1509884027_last-day-on-earth-map.jpg",
-      "description": "This map is inspired by a mobile game called the Last day on Earth, where you supposed to survive in the post-apocalyptic world. The story behind the map is simple: your plane had crashed in the dangerous zone populated by zombies and now you need to explore the area, find useful items and repair the vehicle, that will take you out of here. The map is heavily modded, it means you can expect to discover weird creatures, mechanisms, and guns.",
-      "modurl": "https://mcforge.club/zombie/last-day-on-earth-legacy-version.mcworld",
-      "modurl_2": "",
-      "author": "Credits: umerkk164",
-      "version": "Support Version 1.16"
-    },
-    {
-      "title": "Morph Mod",
-      "img": "https://fmcpe.com/uploads/posts/2016-10/1475677702_morph-mod-pe.jpg",
-      "description": "This mod allows you to turn yourself almost into every mob in the game just with one tap. To make this possible, you will need to get Identity Absorber from the Creative inventory and then use it to tap on some mob you want to turn into. Of course you will need to turn on a third-person view to see the changes. Morph addon for Minecraft PE 1.16.1 is an easy way to turn pranks on your friends.\n\nPlease download and install \"Morph Mod Resources\" too after this post to play this addon smoothly\n\nMake sure to enable \"Experimental Gameplay\"",
-      "modurl": "https://mcforge.club/zombie/morph-0_4-b.mcpack",
-      "modurl_2": "",
-      "author": "Credits: Fraxx01",
-      "version": "Support Version 1.16"
-    },
-    {
-      "title": "Morph Mod Resources",
-      "img": "https://fmcpe.com/uploads/posts/2016-10/1475677702_morph-mod-pe.jpg",
-      "description": "This mod allows you to turn yourself almost into every mob in the game just with one tap. To make this possible, you will need to get Identity Absorber from the Creative inventory and then use it to tap on some mob you want to turn into. Of course you will need to turn on a third-person view to see the changes. Morph addon for Minecraft PE 1.16.1 is an easy way to turn pranks on your friends.\n\nMake sure to enable \"Experimental Gameplay\"",
-      "modurl": "https://mcforge.club/zombie/morph-0_4-r.mcpack",
-      "modurl_2": "",
-      "author": "Credits: Fraxx01",
-      "version": "Support Version 1.16"
-    },
-    {
-      "title": "SCP Foundation addon",
-      "img": "https://fmcpe.com/uploads/posts/2020-03/1583843136_scp-foundation-6.jpg",
-      "description": "SCP Foundation is a fictional organization that tracks and studying supernatural creatures and activities. You may that it's a Wikipedia for fictional creatures of the abnormal nature. Content on the website contributed by its users, SCP Foundation responsible only for storing information about entities, locations, and objects that violate natural law. Based on the information about the creatures many of them have been transferred into Minecraft PE.",
-      "modurl": "https://mcforge.club/zombie/scp-foundation-addon-v2_1.mcaddon",
-      "modurl_2": "",
-      "author": "Credits: BendyTheDemon18",
-      "version": "Support Version 1.14.60"
-    }
+		{
+			"title": "Apocalyptic city map",
+			"img": "https://fmcpe.com/uploads/posts/2020-06/1593546005_zombie-apocalypse-1.jpg",
+			"description": "The world has come to its end, and the city you're living - was taken by zombies. What should you do in that situation? Resist the zombies, grab any weapon you can find and kill them all. Your final challenge will be to defeat the Ender Dragon. The loot is scattered around all over the city in the chests. Of course, the first place you should visit is the police department.\n\nAfter you gathered enough gear and resources, you should build an Ender portal. The map is meant to be played in Adventure mode, which means that it has limitations in terms of building stuff. Find the apartment in one of the skyscrapers with signs in it - that is the only place you're allowed to build a portal.",
+			"modurl": "https://mcforge.club/zombie/zombie-apocalypse.mcworld",
+			"modurl_2": "",
+			"author": "Credits: Jarno",
+			"version": "Support Version 1.16"
+		},
+		{
+			"title": "Last day on Earth map",
+			"img": "https://fmcpe.com/uploads/posts/2017-11/1509884027_last-day-on-earth-map.jpg",
+			"description": "This map is inspired by a mobile game called the Last day on Earth, where you supposed to survive in the post-apocalyptic world. The story behind the map is simple: your plane had crashed in the dangerous zone populated by zombies and now you need to explore the area, find useful items and repair the vehicle, that will take you out of here. The map is heavily modded, it means you can expect to discover weird creatures, mechanisms, and guns.",
+			"modurl": "https://mcforge.club/zombie/last-day-on-earth-legacy-version.mcworld",
+			"modurl_2": "",
+			"author": "Credits: umerkk164",
+			"version": "Support Version 1.16"
+		},
+		{
+			"title": "Morph Mod",
+			"img": "https://fmcpe.com/uploads/posts/2016-10/1475677702_morph-mod-pe.jpg",
+			"description": "This mod allows you to turn yourself almost into every mob in the game just with one tap. To make this possible, you will need to get Identity Absorber from the Creative inventory and then use it to tap on some mob you want to turn into. Of course you will need to turn on a third-person view to see the changes. Morph addon for Minecraft PE 1.16.1 is an easy way to turn pranks on your friends.\n\nPlease download and install \"Morph Mod Resources\" too after this post to play this addon smoothly\n\nMake sure to enable \"Experimental Gameplay\"",
+			"modurl": "https://mcforge.club/zombie/morph-0_4-b.mcpack",
+			"modurl_2": "",
+			"author": "Credits: Fraxx01",
+			"version": "Support Version 1.16"
+		},
+		{
+			"title": "Morph Mod Resources",
+			"img": "https://fmcpe.com/uploads/posts/2016-10/1475677702_morph-mod-pe.jpg",
+			"description": "This mod allows you to turn yourself almost into every mob in the game just with one tap. To make this possible, you will need to get Identity Absorber from the Creative inventory and then use it to tap on some mob you want to turn into. Of course you will need to turn on a third-person view to see the changes. Morph addon for Minecraft PE 1.16.1 is an easy way to turn pranks on your friends.\n\nMake sure to enable \"Experimental Gameplay\"",
+			"modurl": "https://mcforge.club/zombie/morph-0_4-r.mcpack",
+			"modurl_2": "",
+			"author": "Credits: Fraxx01",
+			"version": "Support Version 1.16"
+		},
+		{
+			"title": "SCP Foundation addon",
+			"img": "https://fmcpe.com/uploads/posts/2020-03/1583843136_scp-foundation-6.jpg",
+			"description": "SCP Foundation is a fictional organization that tracks and studying supernatural creatures and activities. You may that it's a Wikipedia for fictional creatures of the abnormal nature. Content on the website contributed by its users, SCP Foundation responsible only for storing information about entities, locations, and objects that violate natural law. Based on the information about the creatures many of them have been transferred into Minecraft PE.",
+			"modurl": "https://mcforge.club/zombie/scp-foundation-addon-v2_1.mcaddon",
+			"modurl_2": "",
+			"author": "Credits: BendyTheDemon18",
+			"version": "Support Version 1.14.60"
+		}
 
 
 	]
