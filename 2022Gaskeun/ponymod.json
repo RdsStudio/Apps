@@ -1,0 +1,57 @@
+{
+	"Ads": [{
+		"select_main_ads": "ADMOB",
+		"select_backup_ads": "APPLOVIN-M",
+		"main_ads_banner": "",
+		"main_ads_intertitial": "",
+		"main_native_for_admob_applovin": "",
+		"backup_ads_banner": "6c4a887d6aed76xx",
+		"backup_ads_intertitial": "fc5437769b1e92xx",
+		"backup_native_for_admob_applovin": "a31f11b748xx",
+		"interval_intertitial": 1,
+		"initialize_sdk": "107355779",
+		"initialize_sdk_backup_ads": "",
+		"high_paying_keyword_1": "",
+		"high_paying_keyword_2": "",
+		"high_paying_keyword_3": "",
+		"high_paying_keyword_4": "",
+		"high_paying_keyword_5": "",
+		"status_app": "0",
+		"matikan_iklan": "0",
+		"link_redirect": "https://"
+
+
+	}],
+	"files": [{
+    
+"title": "Pony Mod",
+    "description": "Do you want more ponies in your life? Well, this is the Minecraft mod for you! This mod turns you, other players, and even mobs into little pastel-colored horses! ",
+    "img": "https://mcforge.club/pony/screen0.jpg",
+    "modurl": "https://mcforge.club/pony/Ponycraft.mcpack",
+    "modurl_2": "",
+    "author": "Creator :",
+    "version": "Supports 1.14.30/1.13.1/1.12.1"
+  },
+    {
+
+      "title": "Unicorns and Ponies Add-on",
+      "description": "And not just Unicorns and butterflies, there’s Alacorns and Pegasus! Pegasuses?!? Pegasi?? Who knows!! They’re horses that have wings! What else could possibly matter. AND they come in a crazy variety of colors. With sparkling things going everywhere. Make sure you wear sunglasses.",
+      "img": "https://mcforge.club/pony/uniscreen0.jpg",
+      "modurl": "https://mcforge.club/pony/unicorn.mcaddon",
+      "modurl_2": "",
+      "author": "Creator :",
+      "version": "Supports 1.14.30/1.13.1/1.12.1"
+    },
+    {
+      "title": "Cenozoic Craft addon",
+      "description": "The Cenozoic era is known for being abundant in ancient animal species, some of which lived up to modern times.\n\nMake sure to enable Experimental gameplay in settings",
+      "img": "https://mcforge.club/pony/cenoscreen0.jpg",
+      "modurl": "https://mcforge.club/pony/cenozoiccraft_titanoboa_update.mcaddon",
+      "modurl_2": "",
+      "author": "Creator: Raptorman67",
+      "version": "Support  1.16.40"
+
+    }
+            ]
+
+}
