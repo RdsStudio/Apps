@@ -1,0 +1,39 @@
+{ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-1193630436456964/3794007216",
+      "main_ads_intertitial":"ca-app-pub-1193630436456964/7541680536",
+      "main_native_for_admob_applovin":"ca-app-pub-1193630436456964/6841722829",
+      "backup_native_for_admob_applovin":"ca-app-pub-1193630436456964/6841722829",
+      "backup_ads_banner":"b01736aef8eee5c0",
+      "backup_ads_intertitial":"74f7d8eab0dbbe38",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+ 
+    }
+  ],
+ "DATA":
+  [
+    {
+      "title":"Truck Canter Ayam Racing Full Anim",
+      "image":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/gambar/Truck%20Canter%20Ayam%20Racing%20Full%20Anim.jpg",
+      "link_mods":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/mod/7.%20CANTER%20AYAM%20RACING%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/livery/Truck%20Canter%20Ayam%20Racing%20Full%20Anim.png"
+    },
+    {
+      "title":"Canter Bangunan",
+      "image":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/gambar/canter%20bangunan.jpg",
+      "link_mods":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/mod/Canter%20Bangunan%20Muatan%20Semen.bussidmod",
+      "link_livery":""
+    }
+  ]
+}
