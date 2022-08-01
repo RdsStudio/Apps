@@ -2,12 +2,12 @@
 	"Ads": [{
 		"select_main_ads": "ADMOB",
 		"select_backup_ads": "APPLOVIN-M",
-		"main_ads_banner": "",
-		"main_ads_intertitial": "",
-		"main_native_for_admob_applovin": "",
-		"backup_ads_banner": "6c4a887d6aed76xx",
-		"backup_ads_intertitial": "fc5437769b1e92xx",
-		"backup_native_for_admob_applovin": "a31f11b748xx",
+		"main_ads_banner": "ca-app-pub-2381139037051995/5188439155",
+		"main_ads_intertitial": "ca-app-pub-2381139037051995/1193353828",
+		"main_native_for_admob_applovin": "ca-app-pub-2381139037051995/4996867464",
+		"backup_ads_banner": "28124b23d8d058c8",
+		"backup_ads_intertitial": "ee6e463f75741203",
+		"backup_native_for_admob_applovin": "9a00732bf9b4e5bb",
 		"interval_intertitial": 1,
 		"initialize_sdk": "107355779",
 		"initialize_sdk_backup_ads": "",
@@ -22,7 +22,46 @@
 
 
 	}],
-	"files": [{
+	"files": [
+		{
+
+      "title": "Unicorns + Unicorn Horn Swords! Add-on",
+      "description": "I made this because I noticed there were not any unicorn add-ons on MCPEDL and thought you might like it so here we are. :)\n\nThis Addon has a sword that gives buffs and unicorns that replaces the mule. There is another item called the Unicorn Horn Shard too which is used to craft the sword.",
+      "img": "https://my.mcpedl.com/storage/addons/1640/images/unicorns--unicorn-horn-swords_3.png",
+      "modurl": "http://download1501.mediafire.com/hnz9umhmctgg/uiy7y7auju1kn7w/UnicornBh%2BRs.zip",
+      "modurl_2": "",
+      "author": "Creator :",
+      "version": "Supports 1.14.30/1.13.1/1.12.1"
+    },{
+
+      "title": "Flying Unicorn Addon",
+      "description": "Have you always wished unicorns were in minecraft? Well with this addon it replaces horses with flying unicorns! It has different variants and when you ride them you can fly.",
+      "img": "https://my.mcpedl.com/storage/addons/5803/images/flying-unicorn-addon_3.png",
+      "modurl": "http://download1585.mediafire.com/o8y3rmiqtpog/cy8w0lear0811ua/Unicorns.mcaddon",
+      "modurl_2": "",
+      "author": "Creator :",
+      "version": "Supports 1.14.30/1.13.1/1.12.1"
+    },{
+
+      "title": "Unicorn Addon",
+      "description": "This add-on changes the average horse wandering around the world to give it a horn. which turns it into what? that's right a unicorn. these magical creatures act exactly like the horse you have in your stable but look a tad bit different to make them more unique.\n\nThis addon changes the average horse to give it a beautiful horn. the addon will not change behavior or function and is only for appearance. the Unicorn replaces the horse and don't let the unedited spawn egg fool you it still works I'm just a noob at making mods and don't know how to edit it lol. Once tamed you can put a saddle on it and ride around just like on a normal horse except that the saddle isn't visible on the unicorn because of its unicorn magic and they also have too much of a reputation and being seen with an ugly brown saddle isn't good for anyone's reputation. I hope to update this addon soon but can not promise anything or give a specific update day due to the fact that I am working on other addons and personal stuff and that I am going away for all of August. ",
+      "img": "https://api.mcpedl.com/storage/submissions/115542/images/unicorn_3.png",
+      "modurl": "https://api.mcpedl.com/api/download/275927/?r=eyJpdiI6Ikx6c0FsVEdvVmtWS25hOUZsYVQ5Rmc9PSIsInZhbHVlIjoiSjdnWXo5YmNQZ212YVRuZVFFVW41M1ZPSDZRNmtOSEl3bVNhdy9wSEpDQ3VhOHhUVGg4emx0cDBMbUZhaXRReEc1UHlDUkxGcTVyWmU1ckpZTU5qSHppNklMUmhpTFRrS0pxdm1zZm45ZGw0TExMSGdGakw4bmxjWXNxMDYzRUZNTlJaM3FSTWRvekl2R1QrT0V6TE9BL0VjQVA2bG0zOGY5R2QrdzhBbGhCZHlGS1djbEh5OEVGN005aG80R09TUzZ3RnJta2hlSmZWVm5qN2hkNG91Yll6cElpcE9TWHJMcnJyeEs0QUN2NjVRMU13VW50Y1hjYnRqc2l2VUY4RUxqOTdNY3Zpdk9MbzlJTTRJVU82cjJFUkdTcjQ0aDFnaGI4aXNOUzl4L2N1UWVyV2t1cTVQaDdwb2ZxSVpSWjNpMWRGRC9oT2t4by9LZ1dWeldNK1FZb0EweVZ5S2o3YlAwV2xXTnBMSkQrK3hFcVowZkRSZ3VtSTF5YzNoVGNmMVUvNG1tdXBNVmZoY2FBSTZUZXNvR1RoWHNXVndmRDh6M1kweXcvdWhuNUJjYllkemUrNlo1UWZJSkdyK3Boc1E1ajhoTFU3cGY3cll2ckRLbVBtNCtCRHU3b0hqeFo2WWZEMUR3elAxVXhvQlhFVTI4bWJBREFYS0p1cHRuMFBuQzhKNEtLRWlDWVdzT1o4cDd0VnpuWHVCcHRkQWxlMmdnT1hTVzgvK3dzaVhjQXBuYmFxamJET0wwMStOVkdQcXgydkIrSjg1T3hld0hzcWEySEQ1RGQydUx0V2laZGJZNldxU1A5VjJndlVGam1nNTF6V2ZRL2FtaCtYblBaT1VobTV1NXlKQnFzaGVScFRtc2FPRjJJZU5ZOE0vcEpjdEtxTytFQURhOERoTXJ4T0IvREoxZU4yTGVxakRrYUFJYnRDdWZOanJzamQ5OXpsd3pvWldOaTc5RkNVeURSeTVJVDhSZ2NyU2llTEZoVGNBeTZrUGZNU2lFUWxHdmhWbzVjMmRuZitYbnBmVkhPWldOcCtnSXRrM2ZlMGtTM0NJUlZtbzJEa0d2Y01WdVJNWmNZNDFjQkhhNXdxWmk3ZUVXcEVzemRremcrNTZGTFZFUFVQUVEzSGFuUEQ4Ty8zNU1Wb21uSSsvZ0ZmaCtpcHo4R2FJUGZyS244N2VHdHMiLCJtYWMiOiI3MjE0M2ZjYjFjNTJkNmI0ODU2NDYzZjRmODJjZTlmNTI0MjMzZDk1YzVkZTBmMzA1OTk0NGRlZDc4NGIwOGZkIn0=&ft=982187e205917eee24f3db81cdde1165&bd=pwoxao8pst",
+      "modurl_2": "",
+      "author": "Creator :",
+      "version": "Supports 1.14.30/1.13.1/1.12.1"
+    },{
+
+      "title": "Unicorns and Butterflies Add-on!!",
+      "description": "And not just Unicorns and butterflies, there's Alacorns and Pegasus! Pegasuses?!? Pegasi?? Who knows!! They're horses that have wings! What else could possibly matter. AND they come in a crazy variety of colors. With sparkling things going everywhere. Make sure you wear sunglasses.",
+      "img": "https://my.mcpedl.com/storage/addons/1774/images/unicorns-addon_3.jpg",
+      "modurl": "http://download831.mediafire.com/60y94c8nubxg/vv88yybm10s8gg5/unicorn.v4.mcaddon",
+      "modurl_2": "",
+      "author": "Creator :",
+      "version": "Supports 1.14.30/1.13.1/1.12.1"
+    },
+		
+		{
     
 "title": "Pony Mod",
     "description": "Do you want more ponies in your life? Well, this is the Minecraft mod for you! This mod turns you, other players, and even mobs into little pastel-colored horses! ",
@@ -36,8 +75,8 @@
 
       "title": "Unicorns and Ponies Add-on",
       "description": "And not just Unicorns and butterflies, there’s Alacorns and Pegasus! Pegasuses?!? Pegasi?? Who knows!! They’re horses that have wings! What else could possibly matter. AND they come in a crazy variety of colors. With sparkling things going everywhere. Make sure you wear sunglasses.",
-      "img": "https://mcforge.club/pony/uniscreen0.jpg",
-      "modurl": "https://mcforge.club/pony/unicorn.mcaddon",
+      "img": "https://my.mcpedl.com/storage/addons/1774/images/unicorns-addon_3.jpg",
+      "modurl": "http://download831.mediafire.com/60y94c8nubxg/vv88yybm10s8gg5/unicorn.v4.mcaddon",
       "modurl_2": "",
       "author": "Creator :",
       "version": "Supports 1.14.30/1.13.1/1.12.1"
@@ -45,11 +84,21 @@
     {
       "title": "Cenozoic Craft addon",
       "description": "The Cenozoic era is known for being abundant in ancient animal species, some of which lived up to modern times.\n\nMake sure to enable Experimental gameplay in settings",
-      "img": "https://mcforge.club/pony/cenoscreen0.jpg",
-      "modurl": "https://mcforge.club/pony/cenozoiccraft_titanoboa_update.mcaddon",
+      "img": "https://api.mcpedl.com/storage/submissions/97027/images/cenozoic-craft-addon_2.png",
+      "modurl": "https://download2388.mediafire.com/n9wsd98ml1ng/t25ymvx1udcuvka/CC+V1.0.mcaddon",
       "modurl_2": "",
       "author": "Creator: Raptorman67",
-      "version": "Support  1.16.40"
+      "version": "Support  1.16"
+
+    },
+    {
+      "title": "My Little Pony Addon",
+      "description": "Are you looking for an addon with ponies, this addon can help you it adds ponies, unicorns, pegasus and alicorns, this addon will still have Updates with each one better than the other.",
+      "img": "https://api.mcpedl.com/storage/submissions/148288/images/my-little-pony-addon_2.png",
+      "modurl": "https://download2266.mediafire.com/fx0x9bwi614g/m3kqub97f285a5a/MINE+LITTLE+PONY+V4+OFFICIAL.mcaddon",
+      "modurl_2": "",
+      "author": "Creator: Y4NK_G4M3R",
+      "version": "1.16"
 
     }
             ]
