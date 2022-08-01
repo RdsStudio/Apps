@@ -2,12 +2,12 @@
 	"Ads": [{
 		"select_main_ads": "ADMOB",
 		"select_backup_ads": "APPLOVIN-M",
-		"main_ads_banner": "",
-		"main_ads_intertitial": "",
-		"main_native_for_admob_applovin": "",
-		"backup_ads_banner": "6c4a887d6aed7",
-		"backup_ads_intertitial": "fc5437769b1e9",
-		"backup_native_for_admob_applovin": "a31f11b7481e",
+		"main_ads_banner": "ca-app-pub-2381139037051995/5735234068",
+		"main_ads_intertitial": "ca-app-pub-2381139037051995/8795677528",
+		"main_native_for_admob_applovin": "ca-app-pub-2381139037051995/4557883766",
+		"backup_ads_banner": "8707b91b63c87293",
+		"backup_ads_intertitial": "04bf46ac124d9eab",
+		"backup_native_for_admob_applovin": "f9b4078638b1cce1",
 		"interval_intertitial": 1,
 		"initialize_sdk": "107355779",
 		"initialize_sdk_backup_ads": "",
@@ -26,27 +26,27 @@
 			"title": "Horror Creatures Addon",
       "description": "The most vicious horror creatures are now in your Minecraft PE world. This addon adds four hostile creatures that will be hunting on a player. It reminds a bit of Creepypasta addon, but this realization of the monsters is better.\n\nAlien - a specie of an unknown race, an extremely bloodthirsty creature from deep space. Spawns in desert biome.\n\nSiren Head - yet another realization of the terrifying creatures with speakers on its head, learn about it more. Spawns in Mega Taiga biome. \n\nRake - is a creepypasta monster that terrorizes villages mainly. Spawns in Taiga biome.\n\nWendigo - is a mythological monster, and he is thirsty for human flesh. Spawns in Cold Taiga biome.\n\nOtachi 4, Clover, Big Siren, Wendigo Omega, Cartoon cat, Kanivore monster, Hellhound, Frostman, and Werewolf have been added in the newest update.\n\nInstallation:\n\nMake sure to enable \"Experimental Gameplay\"",
       "img": "https://fmcpe.com/uploads/posts/2020-07/1595001625_horror-movie-2.jpg",
-      "modurl": "https://mcforge.club/horror/t_w.mcaddon",
+      "modurl": "https://fmcpe.com/index.php?do=download&id=1097",
       "modurl_2": "",
       "author": "Credits: MrVolt",
       "version": "Support 1.16.20"
     },
     {
 
-      "title": "Creepypasta Addon",
+      "title": "Creepypasta Addon V3",
       "description": "If you like creepypastas - this addon may be just for you, as it adds the most famous monsters into MCPE. Not all characters will be hostile, mainly because not every one of them has an appropriate behavior. Part of the characters you probably already know - Jeff the killer, Jane the Killer, Slenderman, Squidward, Seed Eater, Strider, Eyeless Jack, and The Rake. The addon would be ideal for horror maps, but it needs some polish done. Rake - is the only mob that will be aggressive towards everyone and everything.\n\nInstallation:\n\nMake sure to enable \"Experimental Gameplay\"",
       "img": "https://fmcpe.com/uploads/posts/2020-07/1594641628_creepypasta-2.jpg",
-      "modurl": "https://mcforge.club/horror/creepypastav2.mcaddon",
+      "modurl": "https://fmcpe.com/index.php?do=download&id=1631n",
       "modurl_2": "",
       "author": "Credits: Z3R0TH3H3R0",
-      "version": "Support 1.16.10"
+      "version": "Support 1.17.10"
     },
     {
       "title": "FNAF Universe",
       "description": "Five Nights at Freddy's - is an extremely popular horror game series, where you have to deal with possessed animatronics. You're playing as a night guard that was hired to watch for some local pizza restaurant. In the next couple of days, you will discover that you're not the only living creature out there, and you have to survive for the next five days. As for this particular add-on, called FNAF Universe, it will add mobs from the original games - known as animatronics.\n\nYou can't do much with animatronics, except killing them. As for I know, they won't spawn naturally and will not drop any loot. The addon is advised to the fans of the FNAF universe, though. The models of the monsters are well made, and there are almost all of them, from the whole game-series.\n\nPlease install \"FNAF Universe Texture Pack\" too.",
       "img": "https://fmcpe.com/uploads/posts/2020-01/1578214403_fnaf-addon-2.jpg",
-      "modurl": "https://mcforge.club/horror/fnaf-b.mcaddon",
-      "modurl_2": "",
+      "modurl": "https://fmcpe.com/index.php?do=download&id=850",
+      "modurl_2": "https://modcraft.su/poload/fnaf-r-4_3-new-voices.mcpack",
       "author": "Credits: ADAMTAYLOR08",
       "version": "Support 1.14.60"
     },
@@ -67,6 +67,36 @@
       "modurl_2": "",
       "author": "Creator: Gab_The_Crafter",
       "version": "Support Version  1.16"
+
+    },
+    {
+      "title": "Siren Head addon for Minecraft PE 1.16.201",
+      "description": "Siren Head addon adds a fictional creature into Minecraft PE that's supposed to scare you. The monster was created by an artist Trevor Henderson - it's a humanoid creature of abnormal size, that has two sirens on its head. Siren Head replays the records of a friend's voice to lure the victim. You'll be able to fight the Siren Head in MCPE using this addon.",
+      "img": "https://fmcpe.com/uploads/posts/2020-06/1592231636_siren-head-1.jpg",
+      "modurl": "https://fmcpe.com/index.php?do=download&id=1221",
+      "modurl_2": "https://fmcpe.com/index.php?do=download&id=958",
+      "author": "Creator: BendyTheDemon18",
+      "version": "Support Version  1.16"
+
+    },
+    {
+      "title": "Vampire Craft addon 1.19",
+      "description": "Become a powerful vampire, a nocturnal creature thirsty for blood in Minecraft PE. But beware, not everyone is happy about the whole vampire situation, and they go for a hunt. Use your supernatural powers to fight the vampire hunters and become a ruler of the Minecraft world.",
+      "img": "https://fmcpe.com/uploads/posts/2021-02/1612428038_vampire-4.jpg",
+      "modurl": "https://fmcpe.com/index.php?do=download&id=2468",
+      "modurl_2": "https://modcraft.su/poload/Vampire%20Craft%201.6.3%20RES.mcpack",
+      "author": "Creator: pedro_denovoZ",
+      "version": "Support Version  1.19"
+
+    },
+    {
+      "title": "Vampire Craft addon 1.18.12",
+      "description": "Become a powerful vampire, a nocturnal creature thirsty for blood in Minecraft PE. But beware, not everyone is happy about the whole vampire situation, and they go for a hunt. Use your supernatural powers to fight the vampire hunters and become a ruler of the Minecraft world.",
+      "img": "https://fmcpe.com/uploads/posts/2021-02/1612428038_vampire-4.jpg",
+      "modurl": "https://fmcpe.com/index.php?do=download&id=2079",
+      "modurl_2": "",
+      "author": "Creator: pedro_denovoZ",
+      "version": "1.18.12"
 
     }
 
