@@ -26,7 +26,7 @@
     {
       "id": 1,
       "title": "Lucky Block Ores",
-      "image": "http://addons.mcpe.world/lucky-block-ores-addon/s01.jpg",
+      "image": "http://addons.mcpe.world/lucky-block-ores-addon/s04.jpg",
       "description": "*To use this add-on, please turn on all Experiments options in the world setting\\n\\nLucky block ores is a new addon than adds 8 new variants  oof lucky blocks, the lucky armor, the lucky sword, the lucky rod and more. This is a beta version than has bugs and errors. \\n\\nLucky block\\nThis is the most normal variant and drops basic things as sticks, planks and food\\n\\nGreen lucky block\\nThe green variant drops construction  bblocks chainmail armor and tools\\n\\nBlue lucky block\\nThe blue lucky block drops archery tools, armor and swords\\n\\nDark blue lucky block\\nThis lucky block is perfectly to speedrunner it drops beds, obsidian, ender  pearls and eyes.\\n\\nPurple lucky block\\nThis lucky block drops tools, armor obsidian, conatruction blocks and more\\n\\nPink lucky block\\nThe pink  lucky block drops ender eyes and peals, diamond armor and tools, obsidian.\\n\\nRed lucky block\\nIt drops minerals, enchant table , books, concrete and obsidian\\n\\nOrange lucky block\\nIt drops blocks, redstone items, fodd and more.\\n\\nTurquoise lucky block\\nIt drops minerals, food, armors, and basic items\\n\\nDesert lucky block\\nThis lucky drops is adaptes to the desert biome and drops items of the same biome\\n\\nJungle lucky block\\nAddapted to the jungle biome drops wood, leaves, básica armors and more\\n\\nNether lucky block\\nIt drops necessary items to tour adventure in the nether dimension\\n\\nEnd lucky block\\nThe end lucky block drops items of the sale dimension and more\\n\\nAether lucky block\\nActually an idea because it not drops special items of the moded dimension only vanilla items\\n\\nDark lucky block\\nIt drops blocks, armors and the the new shadow items\\n\\nRainbow lucky block\\nThis is the hardest lucky block variant drops netherite, diamond, iron, tools, armor and the lucky items\\n\\nThe lucky armor\\nThis armor is stronger than netherite and is totally enchantable\\n\\nAlso you can obtain the shadow armor and sword in the dark lucky block\\n\\nTo get it you craft the armor with lucky ingots or can get in rainbow lucky block\\n\\nAlso you can get the lucky rod\\n\\n# How to install\\n\\n• Download and install the McAddon\\n• Activate both behavior and resource pack in your world settings\\n• Turn on all Experiments options in the world setting\\n",
       "url": "http://mcpe.foxcode.org/lucky-block-ores-addon/lucky-block-ores-beta-0-24.mcaddon",
       "author": "Aleg199546",
@@ -52,27 +52,30 @@
     },
     {
       "id": 4,
-      "title": "Lucky Block Race",
+      "title": "UPDATE! Lucky Block Race",
       "image": "https://my.mcpedl.com/storage/worlds/3338/images/lucky-block-race_3.png",
       "description": "Lucky Block Race is a classic racing minigame with lucky blocks. Where you can play with 2 or up to 4 players. The game is that each player will have to advance on their respective track, while destroying the lucky blocks that will be on the way. Remember that by destroying a block of luck you will give random things that can give you good things like bad. Also in the end you can fight with your friends, since this map includes a small pvp arena. \n\nThe map is made with red stone and commands. And you also have the option to restart the map so you can play as many times as you want.\n\n Inspired by the Effect99 map\n\n@Effectoo\nCreador:\nTwitter: @Andiuber\nTwitter: @gamediego84\nTeam Cubitos MC",
-      "url": "https://mcforge.club/lucky/Lucky_Blocks_Race_v2.mcworld",
+      "url": "https://download2357.mediafire.com/kmae2zfa3h5g/vra58b0ks2rre45/Lucky+Blocks+Race+v3.2.mcworld",
       "author": "Team Cubitos MC",
-      "version": "Support Version 1.14, 1.15 (beta)"
+      "version": "Tested 1.19"
     },
     {
       "id": 5,
       "title": "King Creeper’s Lucky Blocks",
       "image": "https://my.mcpedl.com/storage/addons/4274/images/king-creepers-lucky-blocks_2.png",
-      "description": "Try your luck with King Creeper’s Lucky Blocks! From treasure loot to trash, everything depends on your luck! Works in the new 1.16 update and has no bugs so far. This is a first release so I’m open to suggestions on drop rates, loot and other stuff. Until then, go ahead and check out this add-on!\n\nBe sure to turn on EXPERIMENTAL GAMEPLAY to avoid bugs.\n\nThis is my version of the famous Lucky Block. This version works for 1.16 because instead of making it an actual block, it’s an entity! You can place it down, punch it, and get loot. Don’t forget to turn on EXPERIMENTAL GAMEPLAY!\n\nLucky Blocks drop random loot, and can range from rare treasures and items to trash items you wouldn’t really need, it all depends on how lucky you are.\n\nTo get a Lucky Block, look around you for a gilded creeper. Gilded creepers are neutral utility mobs that will trade with players, and also attack monsters. It is strong and will attack you if you accidentally hit it, so be careful. Gilded creepers spawn on the surface the same way animals do, you’ll know when they’re nearby when you see a message pop up on the top left.",
-      "url": "https://mcforge.club/lucky/King Creepers Lucky Blocks.mcaddon",
+      "description": "Try your luck with King Creeper’s Lucky Blocks! From treasure loot to trash, everything depends on your luck! Works in the new 1.16 update and has no bugs so far. This is a first release so I’m open to suggestions on drop rates, loot and other stuff. Until then, go ahead and check out this add-on!\n\nBe sure to turn on EXPERIMENTAL GAMEPLAY to avoid bugs.\n\nThis is my version of the famous Lucky Block. This version works for 1.16 because instead of making it an actual block, it’s an entity! You can place it down, punch it, and get loot. Don’t forget to turn on EXPERIMENTAL GAMEPLAY!\n\nLucky Blocks drop random loot, and can range from rare treasures and items to trash items you wouldn’t really need, it all depends on how lucky you are.\n\nTo get a Lucky Block, look around you for a gilded creeper. Gilded creepers are neutral utility mobs that will trade with players, and also attack monsters. It is strong and will attack you if you accidentally hit it, so be careful. Gilded creepers spawn on the surface the same way animals do, you’ll know when they’re nearby when you see a message pop up on the top left.\
+      nBe sure to turn on EXPERIMENTAL GAMEPLAY to avoid bugs.
+      \n\nThis is my version of the famous Lucky Block. This version works for 1.16 because instead of making it an actual block, it's an entity! You can place it down, punch it, and get loot. Don't forget to turn on EXPERIMENTAL GAMEPLAY!",
+      "url": "https://download850.mediafire.com/745sj2y9b6qg/k2ba1x4k7sg7osa/king-creepers-lucky-blocks.mcaddon",
       "author": "King Creeper Studios",
-      "version": "Support Version 1.16"
+      "version": "Tested 1.16"
     },
     {
       "id": 6,
-      "title": "Lucky Blocks Muricraft Studios",
+      "title": "UPDATE! Lucky Blocks Muricraft Studios",
       "image": "https://my.mcpedl.com/storage/worlds/8321/images/lucky-block-race_2.png",
-      "description": "What they’ve been asking for for so long, a Lucky Block plugin that generates structures, mobs, drops, potion effects and much more, plus not only was one lucky block added, but six more blocks.\n\nAdded 6 more blocks, the unfortunate block that breaking it most of the time bad things will happen, the Good Luck block that almost always good things will happen and three more blocks like:\n\nLucky Structures, a block that only generates structures.\nLucky Drops, a block that only generates drops.\nWithered lucky block\n\nIn addition, the fountain is fully functional, to make it work you only have to throw an object into the water.\nTo get a good luck block, you must throw an experience bottle at a lucky block.\nTo get an unlucky Block, lightning must hit a Lucky Block.\n\n-Instalalation:\n\nIt must be played in experimental mode.\n-It can be played in multiplayer without problems.",
+      "description": "What they’ve been asking for for so long, a Lucky Block plugin that generates structures, mobs, drops, potion effects and much more, plus not only was one lucky block added, but six more blocks.\n\nAdded 6 more blocks, the unfortunate block that breaking it most of the time bad things will happen, the Good Luck block that almost always good things will happen and three more blocks like:\n\nLucky Structures, a block that only generates structures.\nLucky Drops, a block that only generates drops.\nWithered lucky block\n\nIn addition, the fountain is fully functional, to make it work you only have to throw an object into the water.\nTo get a good luck block, you must throw an experience bottle at a lucky block.\nTo get an unlucky Block, lightning must hit a Lucky Block.\n\n-Instalalation:\n\nIt must be played in experimental mode.\n-It can be played in multiplayer without problems.
+      \n\n Installation: \n\n-Activate the option "Holiday Creator Features" for the correct functioning of the addon.",
       "url": "https://dl.mcpedl.com/worlds/8321/6Lucky-Block-Race.mcworld",
       "author": "Effect99MC",
       "version": "Support Version 1.14, 1.16"
@@ -82,9 +85,9 @@
       "title": "Lucky Blocks Effect99MC",
       "image": "https://my.mcpedl.com/storage/addons/2829/images/lucky-blocks_2.png",
       "description": "What they’ve been asking for for so long, a Lucky Block plugin that generates structures, mobs, drops, potion effects and much more, plus not only was one lucky block added, but six more blocks.\n\nAdded 6 more blocks, the unfortunate block that breaking it most of the time bad things will happen, the Good Luck block that almost always good things will happen and three more blocks like:\n\nLucky Structures, a block that only generates structures.\nLucky Drops, a block that only generates drops.\nWithered lucky block\n\nIn addition, the fountain is fully functional, to make it work you only have to throw an object into the water.\nTo get a good luck block, you must throw an experience bottle at a lucky block.\nTo get an unlucky Block, lightning must hit a Lucky Block.\n\n-Instalalation:\n\nIt must be played in experimental mode.\n-It can be played in multiplayer without problems.",
-      "url": "https://mcforge.club/lucky/Luckyblock-Add-On-V2-4.mcaddon",
+      "url": "https://download2261.mediafire.com/hot2izm2slrg/viy3qtuzkzl4nsb/LuckyBlockV3.3.0.mcaddon",
       "author": "Effect99MC",
-      "version": "Support Version 1.16"
+      "version": "Tested 1.17, 1.18"
     },
     {
       "id": 8,
@@ -97,21 +100,21 @@
     }, 
     {
       "id": 9,
-      "title": "Lucky Blocks",
+      "title": "Update! Lucky Blocks",
       "image": "https://my.mcpedl.com/storage/addons/2721/images/lucky-blocks_5.png",
-      "description": "This addon adds 3 lucky blocks to the game, which can be opened by breaking them. There are a total of 58 different things that can occur from breaking the lucky blocks.\n\nLucky Blocks \nNormal Lucky Block – all effects\nLucky Lucky Block – only positive effects\nUnlucky Block – only negative effects\nWhere you can play with 2 or up to 4 players. \n\nThe effects can range from massive destruction to giving you good loot. I recommend only using these when you are far away from your base. Using silk touch will allow you to pick up the lucky blocks without opening them.\n\nInstallation: Enable Experimental Mode For Underground Spawning",
-      "url": "https://mcforge.club/lucky/LuckyBlocks.mcaddon",
+      "description": "This addon adds 3 lucky blocks to the game, which can be opened by breaking them. There are a total of 58 different things that can occur from breaking the lucky blocks.\n\nLucky Blocks \nNormal Lucky Block – all effects\nLucky Lucky Block – only positive effects\nUnlucky Block – only negative effects\nWhere you can play with 2 or up to 4 players. \n\nThe effects can range from massive destruction to giving you good loot. I recommend only using these when you are far away from your base. Using silk touch will allow you to pick up the lucky blocks without opening them.\n\nInstallation: Enable Experimental Mode For Underground Spawning.\n\nInstallation:\n\n Enable Experimental Mode For Underground Spawning",
+      "url": "https://download2326.mediafire.com/e3hn8zlz6ieg/8psvw294gygmyy6/LuckyBlocks.mcaddon",
       "author": "iEmotionless",
-      "version": "Support Version 1.16"
+      "version": "Tested 1.18.30"
     },
     {
       "id": 10,
-      "title": "Rainbow Lucky Block ",
+      "title": "Rainbow Lucky Block UPDATE!",
       "image": "https://my.mcpedl.com/storage/addons/5263/images/rainbow-lucky-block_28.png",
-      "description": "This Lucky block Addon adds new swords, enemies, structures, bosses like Herobrine and much more. By breaking the Rainbow Lucky block, more than 300 different things can come out, among them magic swords with special abilities, magic orbs, new foods, and many other items. \n\n–Rainbow Lucky block\n-The original Lucky Block was also added so you can create the Rainbow Lucky Block, and of course it totally works too.\n\nStructures\nThe rainbow lucky block adds various structures such as the giant chest, desert temple, magic temples with special functions, giant potion bottles, villager’s house and more that you will have to discover yourself.",
-      "url": "https://mcforge.club/lucky/LuckyBlockRainbow.V1.0.mcaddon",
+      "description": "This Lucky block Addon adds new swords, enemies, structures, bosses like Herobrine and much more. By breaking the Rainbow Lucky block, more than 300 different things can come out, among them magic swords with special abilities, magic orbs, new foods, and many other items. \n\n–Rainbow Lucky block\n-The original Lucky Block was also added so you can create the Rainbow Lucky Block, and of course it totally works too.\n\nStructures\nThe rainbow lucky block adds various structures such as the giant chest, desert temple, magic temples with special functions, giant potion bottles, villager’s house and more that you will have to discover yourself.\n\nInstallation:\n\n-Activate the options "Holiday Creator Features" and "Creation of Custom Biomes" for the correct functioning of the addon.",
+      "url": "https://download2326.mediafire.com/e3hn8zlz6ieg/8psvw294gygmyy6/LuckyBlocks.mcaddon",
       "author": "Effect99MC",
-      "version": "Support Version 1.16"
+      "version": "Tested 1.16, 1.17"
     },
     {
       "id": 11,
@@ -124,30 +127,48 @@
     },
     {
       "id": 12,
-      "title": "Elingo’s Lucky Block Add-On",
+      "title": "Resource Pack - Elingo’s Lucky Block Add-On (New Update!)",
       "image": "https://my.mcpedl.com/storage/addons/5028/images/elingos-lucky-block-addon--116_2.png",
-      "description": "I’ve worked really hard on this addon and hope you all enjoy it. and I’d love to see some suggestions or feedback\n\nAt the moment the lucky blocks don’t spawn mobs or structures, but I’ll try to include that in the addon as well\n\nand I also will be trying to update this addon regularly\n\nYou can also find some of the Lucky Blocks underground like ores.\n\nInstalation: !!!Turn Experimental Gameplay on!!!",
-      "url": "https://mcforge.club/lucky/LuckyBlockV2.mcaddon",
+      "description": "This is Resource Pack - I’ve worked really hard on this addon and hope you all enjoy it. and I’d love to see some suggestions or feedback\n\nAt the moment the lucky blocks don’t spawn mobs or structures, but I’ll try to include that in the addon as well\n\nand I also will be trying to update this addon regularly\n\nYou can also find some of the Lucky Blocks underground like ores.\n\nInstalation: !!!Turn Experimental Gameplay on!!!",
+      "url": "https://download2272.mediafire.com/npbxuav9nqpg/b1v0cxl7ra72xrz/luckyblock-res.mcpack",
       "author": "Captain_Elingo",
-      "version": "Support Version 1.16"
+      "version": "Tested 1.16, 1.17, 1.18, 1.19"
     },
     {
       "id": 13,
+      "title": "Behaviour Pack - Elingo’s Lucky Block Add-On (New Update!)",
+      "image": "https://my.mcpedl.com/storage/addons/5028/images/elingos-lucky-block-addon--116_2.png",
+      "description": "This is Behaviour Pack - I’ve worked really hard on this addon and hope you all enjoy it. and I’d love to see some suggestions or feedback\n\nAt the moment the lucky blocks don’t spawn mobs or structures, but I’ll try to include that in the addon as well\n\nand I also will be trying to update this addon regularly\n\nYou can also find some of the Lucky Blocks underground like ores.\n\nInstalation: !!!Turn Experimental Gameplay on!!!",
+      "url": "https://download2266.mediafire.com/te5epxhna2ng/8dp16wxddkboat8/luckyblock-beh.mcpack",
+      "author": "Captain_Elingo",
+      "version": "Tested 1.16, 1.17, 1.18, 1.19"
+    },
+    {
+      "id": 14,
       "title": "Astral Lucky Blocks",
       "image": "https://my.mcpedl.com/storage/addons/4842/images/astral-lucky-blocks_4.png",
       "description": "This addon adds the astral lucky block which adds new weapons, blocks, enemies and many more. There are a total of around 300 different things that can come up when breaking this block. The original Lucky Block was also added so you can create the Astral Lucky Block and of course it works too.\n\nStructures\n\nThe Astral Lucky Block adds many very interesting structures such as Skelatron’s starship containing enemies and a boss, the inhabited cloud that is inhabited by a villager, the mushroom house, the mini portal at the end, the fountain of wishes. and many more.\n\nInstalation : !!!Turn Experimental Gameplay on!!!",
-      "url": "https://mcforge.club/lucky/AstralLuckyBlocksV1.1.mcaddon",
+      "url": "https://download2388.mediafire.com/hi0yl147hgeg/qegh21mw5op5ags/AstralLuckyBlocksV1.1.mcaddon",
+      "author": "Effect99MC",
+      "version": "Tested 1.16"
+    },
+    {
+      "id": 15,
+      "title": "Lucky Blocks Effect99MC",
+      "image": "https://my.mcpedl.com/storage/addons/4842/images/astral-lucky-blocks_4.png",
+      "description": "This addon adds the astral lucky block which adds new weapons, blocks, enemies and many more. There are a total of around 300 different things that can come up when breaking this block. The original Lucky Block was also added so you can create the Astral Lucky Block and of course it works too.\n\nStructures\n\nThe Astral Lucky Block adds many very interesting structures such as Skelatron’s starship containing enemies and a boss, the inhabited cloud that is inhabited by a villager, the mushroom house, the mini portal at the end, the fountain of wishes. and many more.\n\nInstalation : !!!Turn Experimental Gameplay on!!!",
+      "url": "https://download2388.mediafire.com/hi0yl147hgeg/qegh21mw5op5ags/AstralLuckyBlocksV1.1.mcaddon",
       "author": "Effect99MC",
       "version": "Support Version 1.16"
     },
     {
-      "id": 14,
-      "title": "Lucky Blocks Effect99MC",
-      "image": "https://my.mcpedl.com/storage/addons/4842/images/astral-lucky-blocks_4.png",
-      "description": "This addon adds the astral lucky block which adds new weapons, blocks, enemies and many more. There are a total of around 300 different things that can come up when breaking this block. The original Lucky Block was also added so you can create the Astral Lucky Block and of course it works too.\n\nStructures\n\nThe Astral Lucky Block adds many very interesting structures such as Skelatron’s starship containing enemies and a boss, the inhabited cloud that is inhabited by a villager, the mushroom house, the mini portal at the end, the fountain of wishes. and many more.\n\nInstalation : !!!Turn Experimental Gameplay on!!!",
-      "url": "https://mcforge.club/lucky/AstralLuckyBlocksV1.1.mcaddon",
-      "author": "Effect99MC",
-      "version": "Support Version 1.16"
+      "id": 16,
+      "title": "Lucky Block Entity",
+      "image": "https://mcpeaddons.com/wp-content/uploads/2021/10/3.jpg",
+      "description": "Lucky Block Entity is an addon that adds new lucky blocks but in the form of a very cute entity. With which you can get random things for your survival world\n\nIn your world, you can find these entities on the surface of any biome where there is grass, once you manage to find this new entity, you can hit it up to 2 times with your hand and it will drop random objects. With a third hit, this entity will die and will be able to drop an object again, drop advanced objects, generate structures, generate entities, or simply become an angry block of luck.\n\nInstallation:\n\nIt is necessary to activate for the correct use of this content (Active: Holiday Creator Features)",
+      "url": "https://www.mediafire.com/file/f7sg6t1gg0ht4sz/Lucky_Block_Entity.mcaddon/file",
+      "author": "Team Cubitos",
+      "version": "Tested 1.16, 1.17"
     }
   ]
 }
