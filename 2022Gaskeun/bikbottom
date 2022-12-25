@@ -1,0 +1,85 @@
+{
+	"Ads": [{
+		"statusapp": "1",
+		"ad_status": "on",
+		"adnetwork": "ADMOB",
+		"appupdate": "com.modaddon.mcpeblock",
+		"admob_banner": "",
+		"admob_inter": "",
+		"admob_native": "",
+		"admob_app_open_ad_unit_id": "",
+		"applovin_banner": "",
+		"applovin_inter": "",
+		"applovin_native": "",
+		"fan_banner": "",
+		"fan_inter": "",
+		"fan_native": "",
+		"interval": 2,
+		"date_time": "2022-12-05 16:21:37"
+	}],
+
+	"Mod": [{
+			"id": 1,
+			"title": "Bikini Bottom for Minecraft",
+			"image": "https://mcpedl.org/wp-content/uploads/2020/06/fotopreview2-11-350x250-c-default.webp",
+			"description": "Bikini Bottom is a rather peaceful and lovely town from Sponge Bob: Square Pants animated series. It is the very place where our friend Spongy lived.\n\nNow, you can experience the underwater metropolis freely — dozens of various buildings from living apartments to malls and police stations.",
+			"url": "https://mcpedl.org/uploads_files/13-06-2020/spongebobbikini.mcworld",
+			"author": "Brandon Taylor",
+			"version": "1.17"
+		},
+		{
+			"id": 2,
+			"title": "M4ster Chief380 Skin Pack",
+			"image": "https://my.mcpedl.com/storage/skinpacks/2210/images/m4ster-chief380-skin-pack_2.png",
+			"description": "The first skin is the original Master Chief skin then the second is a custom on i made for my friend (the one he uses all the time) which is Master Chief in a suit.For the next skin it is Master Chief with muscles and after that we have Master Chief as a god then we have Master Chief with a Santa hat for Christmas. The next one has a turtle shell on him and the next one is Master Chief with a Steve face.",
+			"url": "https://dl.mcpedl.com/skinpacks/2210/M4ster-Chief380-Skin-Pack.mcpack",
+			"author": "REALDAJUAN",
+			"version": "1.14, 1.15(beta), 1.16"
+		},
+		{
+			"id": 3,
+			"title": "Bikini Bottom SpongeBob Creation",
+			"image": "https://mcpedl.com/wp-content/uploads/2016/06/spongebob-bikini-bottom-2-720x340.jpg",
+			"description": "Bikini Bottom is the city and main setting for the SpongeBob SquarePants animated TV series. This map includes everything from SpongeBob’s own pineapple house to the Bikini Bottom Mall. If you’ve ever watched it on TV then we can guarantee you will find many similarities to this Minecraft Pocket Edition map.",
+			"url": "https://archive.org/download/spongebobbikini/spongebobbikini.mcworld",
+			"author": "TheUndercoverCactus",
+			"version": "1.16"
+		},
+		{
+			"id": 4,
+			"title": "Spongebob Addon",
+			"image": "https://my.mcpedl.com/storage/addons/1757/images/spongebob-addon_7.jpg",
+			"description": "This addon transforms the villager mobs into SpongeBob characters. Play and enjoy your addon by playing it with a map! Soon we will add more characters such as Gary and the others.",
+			"url": "https://archive.org/download/spongebob-addon/SpongebobAddonUpdated.mcpack",
+			"author": "ClickToGame",
+			"version": "1.16"
+		},
+		{
+			"id": 5,
+			"title": "SpongeBob skin pack",
+			"image": "https://mcpedl.com/wp-content/uploads/2016/12/spongebob-pig-1.jpg",
+			"description": "Go to Bikini Bottom along with this skin pack. It allows you to become one of the characters of that cartoon by getting a high-quality 3D model. But before installing them, pay attention to the beautiful replica of the Bikini Bottom city where the map maker will put a lot of effort to maintain the scale and recreate the correct appearance of each house.",
+			"url": "https://archive.org/download/sponge-bob-skins/SpongeBobSkins.mcpack",
+			"author": "SpectorAnime",
+			"version": "1.16"
+		},
+		{
+			"id": 6,
+			"title": "Spongebob Texture Pack for Minecraft PE ",
+			"image": "https://my.mcpedl.com/storage/worlds/8321/images/lucky-block-race_2.png",
+			"description": "Who lives at the bottom of the ocean? This Spongebob Square Pants texture pack is sure to appeal to cartoon fans, it will add incredible beauty to the sky in Minecraft PE.\n\nThe author of the textures was inspired by the insanely popular cartoon series with this cute hero, which has been around for many years. This funny character has caught the hearts of many people around the world, so it’s not at all surprising that various modifications have been released.",
+			"url": "https://mcpedl.org/uploads_files/30-06-2022/spongebob-textures.mcpack",
+			"author": "SpectorAnime",
+			"version": "1.16.0 – 1.19.51"
+		},
+		{
+			"id": 7,
+			"title": "Spongebob Map for Minecraft PE ",
+			"image": "https://my.mcpedl.com/storage/addons/2829/images/lucky-blocks_2.png",
+			"description": "Download Spongebob Map for Minecraft PE: go into the world of everyone’s favorite hero of the cartoon of the same name; Enjoy the beauty of the city and pleasant company.\n\nAn amazing yellow SpongeBob is a favorite hero of this wonderful cartoon. The authors of the SpongeBob Map are also no exception. They create Minecraft PE worlds with great love and attention in which the main character is this cute yellow sponge in square pants.",
+			"url": "https://mcpedl.org/uploads_files/24-02-2022/spongebob-find-the-botton.mcworld",
+			"author": "Brandon Taylor",
+			"version": "1.17, 1.18"
+		}
+	]
+}
