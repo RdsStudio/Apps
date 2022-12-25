@@ -1,0 +1,157 @@
+{
+	"Ads": [{
+		"statusapp": "1",
+		"ad_status": "on",
+		"adnetwork": "ADMOB",
+		"appupdate": "com.modaddon.mcpeblock",
+		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+		"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native": "ca-app-pub-3940256099942544/2247696110",
+		"admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
+		"applovin_banner": "6c4a887d6aed766e",
+		"applovin_inter": "fc5437769b1e9211",
+		"applovin_native": "a31f11b7481e5476",
+		"fan_banner": "6c4a887d6aed766e",
+		"fan_inter": "fc5437769b1e9211",
+		"fan_native": "a31f11b7481e5476",
+		"interval": 2,
+		"date_time": "2022-12-05 16:21:37"
+	}],
+
+	"Mod": [{
+			"id": 1,
+			"title": "Aston Martin Car Addon",
+			"image": "http://my.mcpedl.com/storage/addons/925/images/minecraft-style-aston-martin-car_2.png",
+			"description": "Do you like cars? Then make sure to download this add-on as it includes several cool Aston Martin cars! Enjoy.\n\n This add-on is a new car (Aston Martin) with the style of Minecraft, it can be obtained in creative inventar, has a speed of 0.51, and brings different color variants.\n\n Color Variations black with red White with blue Red with yellow light blue with blue green green with green\n\n Created by: @Wartave\n\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/car/Minecraft%20Style%20Aston%20Martin%20One%5Baddon%5D.mcaddon",
+			"author": "@Wartave",
+			"version": "1.16 - 1.18"
+		},
+		{
+			"id": 2,
+			"title": "BMW 135i Addon",
+			"image": "https://my.mcpedl.com/storage/addons/1042/images/bmw-135i-addon_2.png",
+			"description": "The BMW 135i is a sports car coupe that is capable of reaching 160mph and accelerates from 0 to 60 mph in 5.3 seconds now you can have it in Minecraft for free this car can transport up to 4 people.\n\n This addon adds to the BMW in blue is one of the fastest cars for several people has a capacity for 4 people if you need to travel far through their cities and transport 4 passengers.\n\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/car/BMW%20135i%20Addon%20by%20Team%20Infinite%20Minds.mcaddon",
+			"author": "JediGamerPlayz",
+			"version": "1.17.0.3"
+		},
+		{
+			"id": 3,
+			"title": "Camaro ZL1 Addon",
+			"image": "https://my.mcpedl.com/storage/addons/302/images/camaro-zl1-addon_12.png",
+			"description": "Do you want to drive around the world of your favorite sport car game? Addon Camaro ZL1 will replace the witch of the world of Minecraft on the new luxury sports car Chevrolet Camaro ZL1! This is a real beast among cars, as it is able to reach its speed of up to 181 miles per hour. But in the world of Minecraft Bedrock, it will not be so fast, but still very cool car! In general, if you want to add a bit of luxury to Minecraft Bedrock, this addition will be just the same way!\n\n This addon adds to the camaro zl1 that it is a muscle car with a V8 engine that reaches a maximum speed of 180 mph.\n\n Creators:Fernan Addons and Team Infinite Minds\n\n How does it work? the camaro chevrolet can now drive in your minecraft worlds and you can also make races with it with your friends. If you are looking for something to move this is a fast car to move in your worlds.\n\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/car/Camaro%20ZL1%20Addon_packed.mcaddon",
+			"author": "Fernan Addons and Team Infinite Minds",
+			"version": "1.17 - 1.19"
+		},
+		{
+			"id": 4,
+			"title": "Chrysler Voyager Addon",
+			"image": "https://my.mcpedl.com/storage/addons/1019/images/chrysler-voyager-addon_3.png",
+			"description": "After installing the Chrysler Voyager addon, a new car will appear in your world – Chrysler Voyager. This is the famous Minivan that was produced in the 90s. It has a speed of 110 mph. But the coolest thing is that it accommodates up to seven passengers in the cabin.\n\n Now, when you are going with friends, you will have a comfortable transport to move around the cubic world. And you don’t have to make many cars! We believe that for hanging out with friends, this is the best car!\n\n There are five color options: red white, black, green, blue.\n\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/car/chrysler-voyager-addon.mcaddon",
+			"author": "Mad Monkey",
+			"version": "1.16 - 1.18"
+		},
+		{
+			"id": 5,
+			"title": "Elegant Bus Addon",
+			"image": "https://my.mcpedl.com/storage/addons/1201/images/elegant-bus-addon_2.png",
+			"description": "Ever wanted to drive a bus?Well, let minecraft be your Bus Simulator! :)\n This addon adds a new transport vehicle and it is a bus.\n\n The bus will serve as transportation on our survival maps or decoration to use on your maps. The texture of the bus is very beautiful and elegant in blue, it also has sounds that will make you feel like in a real life bus.\n\n Creators: Gamediego84\n\n How to use? In order to get the bus, all you have to do is enter the inventory in creative mode and choose the spawn of: “Elegant Bus” or execute the command:\n\n / summon bus:elegant\n\n To drive the bus just approach the driver’s cabin and click on the option to ride, and you’re ready to drive it. Remember that you can take up to 4 friends on the bus, you can also store items in the inventory included, to take your things from one place to another.\n\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/car/Elegant%20Bus%20v2.mcaddon",
+			"author": "Gamediego84",
+			"version": "1.16 - 1.18"
+		},
+		{
+			"id": 6,
+			"title": "Lamborghini Gallardo Addon",
+			"image": "http://mcpedl.com/wp-content/uploads/2018/12/lambo-2-e1546005493634.jpg",
+			"description": "Lamborghini Gallardo Addon'\n\n The Lamborghini Gallardo Addon is a vehicle add-ons which adds 9 differently colored Lamborghini Gallardo cars to your game. The Gallardo is an extremely expensive car which only the richest diamond miners can afford. Are you one of them?!\n\n How does it work? This add-on implements a bunch of brand-new Lamborghini Gallardo luxurious sports cars to Minecraft. You can drive it similarly to riding a horse, so it’s very easy to control.\n\n It exists in 9 different colors so you can be sure to find a color that you will enjoy.\n\n Features ; -It does not replace any entity -It’s the fastest you’ll find in Minecraft -Drives like an easy horse to drive -It is available in different colors\n\n Available Colors ; -Red -Yellow -Blue -Cyan -Black -Purple -Orange -White -Green",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/car/Lamborghini%20Gallardo%20Mod%20by%20Fernan.mcaddon",
+			"author": "",
+			"version": "1.16 - 1.18"
+		},
+		{
+			"id": 8,
+			"title": "Lamborghini Murcielago Addon",
+			"image": "https://my.mcpedl.com/storage/addons/836/images/lamborghini-murcielago-addon_3.png",
+			"description": "Would you like to become the owner of a new luxury sports car in the world of Minecraft? This addon adds to the game a stunning sports car Lamborghini Murcielago! Such a car in the Minecraft Bedrock is able to reach speeds of up to 220 miles per hour.\n\n In addition, it is available immediately in several colors (yellow, red, blue, green, orange), so you can immediately choose your favorite colors and arrange fun races with your friends around the world of Minecraft Bedrock!\n\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/car/lamborghini-murcielago-addon.mcaddon",
+			"author": "Rizzz",
+			"version": "1.16 - 1.18"
+		},
+		{
+			"id": 7,
+			"title": "Lightning Mcqueen Addon",
+			"image": "https://my.mcpedl.com/storage/worlds/8966/images/among-us-map-addon_2.png",
+			"description": "This addon adds to the racing car of the movie of cars that is the lightning mcqueen he moves only through the worlds of minecraft and you can ride it but he controls himself and moves only where he wants.\n\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/car/Lightning%20Mcqueen%20Addon.mcaddon",
+			"author": "",
+			"version": "1.16 - 1.18"
+		},
+		{
+			"id": 9,
+			"title": "MotorCraft",
+			"image": "https://1.bp.blogspot.com/-rHAUzptUh-w/XVSCkA-gNRI/AAAAAAAADAA/4fk2N8_S4LonrGO2cjbEBwGCRiOjceXqgCLcBGAs/s1600/Minecraft%2B14_08_2019%2B04_48_41%2Bp.%2Bm..png",
+			"description": "This addon adds 6 new vehicles to the game\n the motorcycle was added. With these vehicles you can explore your worlds faster. Soon more vehicles will be added.\n\n This addon is created by ROBERTGAMER69 in collaboration with the TEAM INFINITE MINDS.\n\n If you find the error you can make them know by twitter @ ROBERTGAMER69\n\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/car/MotorCraft%20v4.mcaddon",
+			"author": "iEmotionless",
+			"version": "1.18.30"
+		},
+		{
+			"id": 10,
+			"title": "Pagani Zonda Car Addon",
+			"image": "http://my.mcpedl.com/storage/addons/934/images/minecraft-style-pagani-zonda-car--addon_11.png",
+			"description": "This addon adds a new car to minecraft bedrock, inspired by pagani zonda, now for minecraft, you can get the key to appear the cars from the creative inventory. And Enjoy.\n\n This addon adds a new car to minecraft bedrock, inspired by pagani zonda, now for minecraft, you can get the key to appear the cars from the creative inventory. There are eight color variants: Grey, White, Black, Orange, Blue.\n\n Created by: @Wartave\n\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/car/Minecraft%20Style%20Pagani%20Zonda%5Bmcaddon%5D%20.mcaddon",
+			"author": "Toramtyces",
+			"version": "1.16, 1.18"
+		},
+		{
+			"id": 11,
+			"title": "Patriot Addon",
+			"image": "https://minecrafthub.com/image/screenshot/49327_5a7f7961d6c06.png",
+			"description": "With this Add-on adds a vehicle called patriot, it is an all-terrain vehicle. There are different colors of the patriot one is beige and a green color military type.\n\n There are two versions: for the forest and desert terrain, you can drive both since the addon replaces spiders. Take the key (traditionally its a carrot on a stick) and sit on the drivers seat. The patriot is able to withstand falls from a great height and opponent strikes and also from the outside there is a trunk for carrying things.\n\n The patriot replaces spiders and cave spiders.\n\n To drive:\n\n MCPE: You must approach the patriot and keep the vehicle prized. MCWIN10: You must approach the patriot and right click the vehicle. Driving:\n\n To drive you need to have some keys (fishing rod with carrot) and move the camera so that it goes in different directions.\n\n Store Things:\n\n You can keep your things in the patriot with if it were a chest.\n\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/car/Patriot%20Addon.mcpack",
+			"author": "Anuibus",
+			"version": "1.16, 1.18"
+		},
+		{
+			"id": 12,
+			"title": "SCG 300s Car Addon",
+			"image": "https://my.mcpedl.com/storage/addons/1598/images/minecraft-style-scg-300s-caraddon_2.png",
+			"description": "This addon adds a new car to minecraft bedrock, inspired by SCG 300S car, now for minecraft, you can get the key to appear the cars from the creative inventory. And Enjoy.\n\n This addon adds a new car to minecraft bedrock, inspired by SCG 300S car, now for minecraft, you can get the key to appear the cars from the creative inventory. There are eight color variants: Red, White, Orange.\n\n Each player dreams that a new way of movement will appear in Minecraft PE. Unfortunately, even a horse does not give sufficient speed to move quickly from one place to another. But we have a solution! To do this, you need the SCG 300s car addon.\n\n This addon will add a machine to the cubic world, which will help to conquer the MCPE world faster! The car has custom textures and voice acting, which makes it unique! To get a car – go into creative mode and find the key.\n\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/car/Minecraft%20Style%20Scg%20300s%20car%5BMCADDON%5D.mcaddon",
+			"author": "Captain_Elingo",
+			"version": "1.16, 1.17, 1.18, 1.19"
+		},
+		{
+			"id": 13,
+			"title": "Sofa Car Addon",
+			"image": "http://mcpedl.com/wp-content/uploads/2018/08/sofa-car-3.jpg",
+			"description": "This add-on adds the Sofa Car to your game. It’s the perfect vehicle for the (lazy) Minecrafter as it adds a sofa on wheels. It’s a very convenient and fast way to get around! It’s driveable by one person and you can dye it into any of the 16 different colors (using dyes). This add-on is available in four different languages: English – GB, US, German and Czech. It was inspired by “flying sofas” from the Wall-E film, but wheels were added to it.\n\n Creator: Nogard\n\n Feeling lazy today? It’s OK! Now you can be a lazy couch potato while playing Minecraft. The Sofa Car is really a dream coming true for most of us.\n\n iOS / Android: Long press on the vehicle and press Drive\n\n General Features ; -Replaces Sheep -Driveable by 1 person -Can be colored with any dye (only the textile material, not the button/wheels) -Custom sounds",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/car/Sofa%20Car%20Addon.mcaddon",
+			"author": "Nogard",
+			"version": "1.16, 1.17, 1.18, 1.19"
+		},
+		{
+			"id": 14,
+			"title": "Vauxhall Carlton Mod",
+			"image": "https://my.mcpedl.com/storage/addons/907/images/vauxhall-carlton_4.png",
+			"description": "The, Carlton is a great European sedan that comes in a variety of trim levels: from a regular worker to a store on wheels. Mod Vauxhall Carlton will allow you to evaluate such a vehicle in the world of Minecraft! This is one of my favorite sedans, I have long wanted to see it in the cartoon block style of the world of Minecraft Bedrok. This addition implements the game several such machines. I hope you also appreciate the wide range of configurations of this car in Minecraft Bedrock!\n\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/car/Vauxhall%20Carlton%20Mod.mapack",
+			"author": "Effect99MC",
+			"version": "1.16"
+		},
+		{
+			"id": 15,
+			"title": "Volkswagen Beetle Addon",
+			"image": "http://my.mcpedl.com/storage/addons/931/images/volkswagen-beetle_2.png",
+			"description": "Addon Volkswagen Beetle adds an old car in several variations. This car was produced from the mid-twentieth century and continues to be produced until now. True, he has undergone many modifications and design decisions. In MCPE is one of the first versions of this car. Addon Volkswagen Beetle will allow you to comfortably move around in the game.\n\n Moreover, attention in Minecraft Bedrok Edition you provided. Unfortunately you cannot drive fast. But with the comfort of MCPE – easily. Volkswagen has a great model and gorgeous textures. So you can test this mod yourself in your favorite MCPE.\n\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/car/vw-beetle-addon.mcaddon",
+			"author": "Effect99MC",
+			"version": "1.16 - 1.18"
+		}
+	]
+}
