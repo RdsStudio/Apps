@@ -1,0 +1,281 @@
+{
+	"Ads": [{
+		"statusapp": "1",
+		"ad_status": "on",
+		"adnetwork": "ADMOB",
+		"appupdate": "com.modaddon.mcpeblock",
+		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+		"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native": "ca-app-pub-3940256099942544/2247696110",
+		"admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
+		"applovin_banner": "6c4a887d6aed766e",
+		"applovin_inter": "fc5437769b1e9211",
+		"applovin_native": "a31f11b7481e5476",
+		"fan_banner": "6c4a887d6aed766e",
+		"fan_inter": "fc5437769b1e9211",
+		"fan_native": "a31f11b7481e5476",
+		"interval": 2,
+		"date_time": "2022-12-05 16:21:37"
+	}],
+
+	"Mod": [{
+			"id": 1,
+			"title": "Tea Shader",
+			"image": "https://mcpeaddons.com/wp-content/uploads/2022/03/tea-shader-14.jpg",
+			"description": "Tea shader improves the lighting and graphical aspects of the game without compromising the game’s performance, making it a highly recommended shader for low-end devices. This shader is made for pvr and mali GPUs with poor lighting and rendering.",
+			"url": "https://drive.google.com/uc?export=download&id=1iOAgVgqFe-anR1RS6D4OxeWN7ef3K7fI",
+			"author": "JexCrafter ",
+			"version": "1.18 - 1.19"
+		},
+		{
+			"id": 2,
+			"title": "Spectrum Shader V2.0 Renewed!",
+			"image": "https://mcpeaddons.com/wp-content/uploads/2022/04/ios.0-Renewed-Only-AndroidiOS-14.jpg",
+			"description": "Features:\n\nColoration of the world\nLighting coloring\nBeautiful and realistic sky\nShadow (below block)\nRealistic waters\nWater wave\nUnderwater caustic and waves Shaking leaves and plants\nReflection of the sun in the water and some surfaces (Day / Night)\nFog like in the nether and end\nAbove all and more importantly low end Gb 1.0 ram E",
+			"url": "https://drive.google.com/uc?export=download&id=1Z2p0lp57N37miHHDETWimdixpLTgw417",
+			"author": "TheAlexander",
+			"version": "1.18 - 1.19"
+		},
+		{
+			"id": 3,
+			"title": "FCPE Shader",
+			"image": "https://mcpeaddons.com/wp-content/uploads/2022/09/fcpe-shader-6.jpg",
+			"description": "In order to make Minecraft appear more vibrant and appealing, the FCPE shader alters the vanilla texture pack to provide more saturated colors to the textures. Likewise, it includes a new sky and ocean. providing the water a clearer, more appealing appearance. enhancing the beauty of the daytime sky and making the night sky more attractive.\n\nFEATURES:\nNew colorful vanilla textures.\nNew water\nNew eviroment color (saturated)",
+			"url": "https://storage.googleapis.com/dl.mcpeaddons.com/2022/Septemper/FCPE_Shader%20%5BRender%20dragon%5D.mcpack",
+			"author": "Animartin",
+			"version": "1.18 - 1.19"
+		},
+		{
+			"id": 4,
+			"title": "Yummysheep Shader (Render Dragon support!)",
+			"image": "https://mcpeaddons.com/wp-content/uploads/2022/10/yummysheep-shader-1-1.jpg",
+			"description": "Yummysheep Shader – A shader created by a group of fans of Minecraft bedrock. The Shader altered the sky, flora, seas, and other elements. A thorough explanation will be provided below. We anticipate that the addon will enhance your Minecraft gameplay. Everything will appear more realistic with the use of this shader.\n\nInstallation\nPlease avoid using other shaders at the same time or maybe crash.\nYou can use other Textures and this shader at the same time.",
+			"url": "https://storage.googleapis.com/dl.mcpeaddons.com/2022/October/YummySheep_Shader_Modpack_v1.0.1.2.mcpack",
+			"author": "Yummysheep",
+			"version": "1.19+"
+		},
+		{
+			"id": 5,
+			"title": "Yummysheep Shader (Render Dragon support!)",
+			"image": "https://mcpeaddons.com/wp-content/uploads/2022/10/yummysheep-shader-1-1.jpg",
+			"description": "Yummysheep Shader – A shader created by a group of fans of Minecraft bedrock. The Shader altered the sky, flora, seas, and other elements. A thorough explanation will be provided below. We anticipate that the addon will enhance your Minecraft gameplay. Everything will appear more realistic with the use of this shader.\n\nInstallation\nPlease avoid using other shaders at the same time or maybe crash.\nYou can use other Textures and this shader at the same time.",
+			"url": "https://storage.googleapis.com/dl.mcpeaddons.com/2022/October/YummySheep_Shader_Modpack_v1.0.1.2.mcpack",
+			"author": "Yummysheep",
+			"version": "1.19+"
+		}, {
+			"id": 6,
+			"title": "Dark Shader Render Dragon",
+			"image": "https://mcpeaddons.com/wp-content/uploads/2022/10/dark-dhader-renderdragon-7.jpg",
+			"description": "Hey guy’s what’s going on? Today I present you a shader for Renderdragon- Dark Shader Render Dragon which supports 1.19+ wild update and Support Android and the name of the Shader is Dark Shader Renderdragon. Well it’s still in development in updates i will try to make shader more relastic i am sure  you’re gonna enjoy this shader with new wild update.So now let me present you some picture of how the shader looks.",
+			"url": "https://storage.googleapis.com/dl.mcpeaddons.com/2022/October/DSRD1.6.mcpack",
+			"author": "Krimineee (krishant Srivastava)",
+			"version": "1.19+"
+		}, {
+			"id": 7,
+			"title": "Ultra Realistic With Connected Textures",
+			"image": "https://my.mcpedl.com/storage/texturepacks/2228/images/ultra-realistic-with-connected-textures_19.png",
+			"description": "This is a ultra realistic texture pack that includes some connected textures. I was inspired by Umsoeas ray tracing texture pack that he uses in his videos and i wanted it for myself. I saw that there werent any connected texture packs for mcpe so i made one.",
+			"url": "http://download2390.mediafire.com/1ko1juilu8sg/qb0hb6s4zxo4n2l/azapz+ultra+realistic+with+connected+blocks.mcpack.zip",
+			"author": "Azapz",
+			"version": "1.17 - 1.18"
+		},
+		{
+			"id": 8,
+			"title": "Patrix resource pack",
+			"image": "https://www.texturepack.net/wp-content/uploads/2020/12/2020-04-08_21.22.55.jpg",
+			"description": "The Patrix resource pack is the best resource pack you can get for Minecraft. At least, if it’s a medieval, rustic or photorealistic experience you’re going for. This is a bold claim, but once you see this texture pack action, it’s a hard statement to refute.",
+			"url": "https://download2325.mediafire.com/b3t4c4yxargg/dn8246p9fx1jol9/rp_test_map_1.18.zip",
+			"author": "Azapz",
+			"version": "1.18"
+		},
+		{
+			"id": 9,
+			"title": "AAK 1024x HD PE v3 (The Mega Update!)",
+			"image": "https://api.mcpedl.com/storage/submissions/133771/images/aak-1024x-hd-pe-28_2.png",
+			"description": "AAK 1024x HD pe  is an v3 realistic texture pack for Minecraft pocket edition which is  HD and looks like rtx and java edition texture packs. It is a very good and one of the best texture packs for mcpe without any lag.\n\nThis is a texture pack which is ultra realistic and this texture pack is better than other texture packs.",
+			"url": "https://download969.mediafire.com/gsy69u1jx75g/667vchdjczqdeqw/AAK+1024x+HD+pe+V3%28low%29.mcpack",
+			"author": "Arham Ahmed Khan(Danger Virat) ",
+			"version": "1.17 - 1.18"
+		},
+		{
+			"id": 10,
+			"title": "LB Photo Realism Reload Texture Pack",
+			"image": "https://texture-packs.com/wp-content/uploads/2021/07/LB-Photo-Realism-for-Minecraft.jpg",
+			"description": "LB Photo Realism Reload is one of the most detailed Minecraft Texture Packs you can download. Because of the overwhelming textures it is one of the best Minecraft Texture Packs. As the name suggests, everything is extremely realistic. For example, the pack is based on the real look of dirt, sand or leaves. Sometimes you will feel like you are playing extreme realistic videogame, which is rather unusual for our beloved sandbox game.",
+			"url": "https://download2332.mediafire.com/7y6pspvicukg/uqto3dingikfmlt/LBPR+Bedrock+1.18.1.mcpack",
+			"author": "",
+			"version": "1.17 - 1.18"
+		},
+		{
+			"id": 11,
+			"title": "RealSource MCPE",
+			"image": "https://realsourcepack.com/wp-content/uploads/2022/01/Screenshot_2022-01-05-00-06-50-650_com.mojang.minecraftpe-710x375.jpg",
+			"description": "This texture pack adds a mind-boggling, realistic look to the game. The pack is available in four different resolutions, so even players playing on a low-end phone can apply this pack to the game. They can decide which resolution pack would suit them best without the lag effect annoying them in-game.\n\nAll the blocks, armor, weapons and even food items appear authentic and lifelike. This texture pack imbues a dynamic and spirited look to the game.",
+			"url": "https://download2324.mediafire.com/0hk4h8rdguxg/cuxov5ab5ezlg7s/RealSourceMCPEpack_1.1.1_mobile_BASIC.mcpack",
+			"author": "",
+			"version": "1.17 - 1.18"
+		},
+		{
+			"id": 12,
+			"title": "REAL LIFE TEXTURES (PRO)",
+			"image": "https://my.mcpedl.com/storage/texturepacks/60/images/energy-shaders_3.png",
+			"description": "Energy Shaders makes your world look much better. With better lights, shadows, fog and much more. You should just download it and try it our for yourself. It`s totally free!",
+			"url": "https://multicompra.online/json/mods/realistictextures/energy.mcpack",
+			"author": "Nanatuki",
+			"version": "1.16"
+		},
+		{
+			"id": 13,
+			"title": "ChunkBounds Shaders",
+			"image": "http://mcpedl.com/wp-content/uploads/2018/12/chunkbounds-3.jpg",
+			"description": "This pack shows the bounds of every chunk in your world. The chunks are outlined by red markers, so they are very easy to spot, and especially so when it is nighttime. Finding the exact positioning of chunks in Minecraft: Bedrock Edition can be quite tricky, but with this pack it’s so much easier. It works for both Android.\n\nSimple resource pack, which shows you the boundaries of all chunks. Every Chunk is 16 blocks in the x and the z Direction. Useful on some Servers where you have to claim chunks to build on.\n\nInstallation:\n-Download Resources .McPack\n-Start Minecraft\n-Settings &gt; Global Resources &gt; Apply the resource pack\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/shader/ChunksBoundsShaders%20v.1.0.3.mcpack",
+			"author": "Nanatuki",
+			"version": "1.16"
+		},
+		{
+			"id": 14,
+			"title": "Simple Shader",
+			"image": "http://mcpedl.com/wp-content/uploads/2017/01/sspe-11-5-1-1.jpg",
+			"description": "Simple Shader is a lightweight shader pack which is the perfect solution for anyone who have got a low-end device and haven’t been able to use any of the other shader packs. \n\n It’s a much more simple pack which still got some of the essential features (such as more realistic skies) to make Minecraft much more beautiful and faithfully realistic.",
+			"url": "https://dl.mcpedl.com/texturepacks/67/SimpleShader.mcpack?ft=982187e205917eee24f3db81cdde1165&bd=pwoxao8pst",
+			"author": "Nanatuki",
+			"version": "1.16 - 1.19"
+		},
+		{
+			"id": 15,
+			"title": "Natural Mystic Shaders",
+			"image": "https://my.mcpedl.com/storage/texturepacks/40/images/5c50e4d604e97.jpeg",
+			"description": "Natural Mystic Shaders is a shader pack for Minecraft Bedrock aiming to be as realistic as possible. It will change many aspects of your game, some which includes shadows, torch light, sunlight, moonlight and other.",
+			"url": "https://github.com/depressed-pho/natural-mystic-shaders/releases/download/natural-mystic-shaders-1.9.0/natural-mystic-shaders-1.9.0.mcpack",
+			"author": "PHO",
+			"version": "1.16 - 1.19"
+		},
+		{
+			"id": 16,
+			"title": "REALISTIC CUBEMAP",
+			"image": "http://mcpedl.com/wp-content/uploads/2017/10/realistic-cubemap-4.jpg",
+			"description": "This is a resource pack which replaces the existing cubemap image objects with more realistic images in order to create a more Earth-like skybox. As this is something we’ve never seen done before (at least for the Bedrock Engine) it does appear to be a new game feature.",
+			"url": "https://multicompra.online/json/mods/realistictextures/tint.mcpack",
+			"author": "Nanatuki",
+			"version": "1.16"
+		},
+		{
+			"id": 17,
+			"title": "EB Shader",
+			"image": "https://my.mcpedl.com/storage/texturepacks/967/images/3637564e6e1afaaf6c236b21adcb9f11.png",
+			"description": "EB shader or Enhanced Biomes shader was the shader that I have made and used in my previous addon Enhanced Biomes. I have made this page to showcase this shader because im not able to do so in my previous work, so you can now have a wider look on this shader. This Shader is for Minecraft (Android / iOS). If you want to check the Enhanced Biomes addon, the link is at the bottom part of this page.\n\n-This are the features of the EB Shader\n-Beautiful realistic sky,\n-Shadows,\n-Crystal clear water,\n-Crystal clear water,\n-Moving leaves and grass,and Fog\nEtc....\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/shader/EB%20Shader.mcpack",
+			"author": "Nanatuki",
+			"version": "1.16"
+		},
+		{
+			"id": 18,
+			"title": "Enhanced Biomes",
+			"image": "https://my.mcpedl.com/storage/worlds/6144/images/enhanced-biomes-survival_3.png",
+			"description": "Do you feel the same that the default minecraft is biomes and shader are too boring and too plain, well this is the add-on for you, this add-on is a combination of enhanced biome pack and a shader that it is complemented with.\n\n-There are now more natural generated tall grass.\n-Deserts have more cactus but not too many just enough.\n-More seagrass.\n-The Birch Forest does now have an abundant number of Birch trees and amazing hills.\n-Savannah have more Acacia trees and lots of tall grass.\n-Taiga Biome now have various trees and some additional small hills.\n-The extreme hills now generates more magnificent terrain.\n-The shader complemented with the nether world.\n-The Swamp Land now grows acacia trees and became more darker because of the shader.\n-Here is a village in a Taiga Biome that is very well generated.\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/shader/Enhanced_Biomes.mcaddon",
+			"author": "Nanatuki",
+			"version": "1.16"
+		},
+		{
+			"id": 19,
+			"title": "Enhanced Vanilla Shader",
+			"image": "http://mcpedl.com/wp-content/uploads/2018/01/enhanced-vanilla-2-2.jpg",
+			"description": "A Lightweight Minecraft Bedrock Shader for IOS and Android. From the Developer of Simple Shader and SS10.\n\nThis shader only adds lighting improvements and shadows to keep it as lag free as possible.\n\nThis shader was created to improve the torch light and shadows for Minecraft Bedrock Edition. Even though it is a rather small change it does create an entire new vibe and authenticity for the in-game graphics. If you are looking for a bit more realism, but still want to keep the original Minecraft look, then the Enhanced Vanilla Shader pack is a perfect option.\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/shader/EnhancedVanilla.mcpack",
+			"author": "Nanatuki",
+			"version": "1.16"
+		},
+		{
+			"id": 20,
+			"title": "ESBE 2G Shader",
+			"image": "https://my.mcpedl.com/storage/texturepacks/569/images/4af599fdf293802b2951a1e85a333f4a.png",
+			"description": "ESBE_2G is a shader pack for Bedrock platforms makes your world more beautiful works on both mobile and pc.\nYou dont have to preparation powerful device (iPhone 5s is enough to). Enjoy your beautiful world!\nFeatures\n-Lightweight depiction\n-Tone map using NTSC weighted average method\n-waving leaves and water reflection depiction\n-Sparkling stars, Enhanced dusk\n-Beautiful clouds and aurora\n-Brightness varies depending on the direction\n-Compatible with both Mobile and PC(Win10)\n-No useless code\n-FOV 70c brightness 50 recommended\nSupported Platforms:\nAndroid(doesnt work on some devices)\nInstallation ;\nandroid: double-click the .mcpack after download\n",
+			"url": "https://mcpe-planet.com/wp-content/uploads/2022/03/esbe-2g.mcpack",
+			"author": "Nanatuki",
+			"version": "1.16-1.19"
+		},
+		{
+			"id": 21,
+			"title": "TINT SHADER",
+			"image": "http://mcpedl.com/wp-content/uploads/2018/07/northern-lights-2.jpg",
+			"description": "Tint Shader is adds beautiful new skies, shadows and lighting to Minecraft: Bedrock Edition. Due to certain limitations it’s currently only available for Windows 10 (PC) users. \n\n During the night the sky is lit up by amazing northern lights. Not only does these shaders make the world more realistic but it also adds another whole new quality of exploration to the game as everything is more beautiful to explore.",
+			"url": "https://multicompra.online/json/mods/realistictextures/tint.mcpack",
+			"author": "Nanatuki",
+			"version": "1.16"
+		},
+		{
+			"id": 22,
+			"title": "Fog Remover Shader",
+			"image": "https://my.mcpedl.com/storage/texturepacks/953/images/fog-remover-110x--114x_3.png",
+			"description": "This is a shader which removes the render distance fog. The fog is basically a way to stitch graphics in the long distance by making the last rendered chunks look more blurry. However, with this shader all chunks will have the same graphical look – no matter the distance.\n\nThis is how a world terrain looks with a high render distance using this shader pack.\nThe missing fog is much more obvious when lowering the render distance.\nChangelog\nI made this mod last year but it got patched so this is the updated version. The mod now has less files and I changed the dx11 folder name to hlsl. The same method is used in this version.\n\nImportant line:\nfogColor.a = clamp((len – FOG_CONTROL.x) / (FOG_CONTROL.y – FOG_CONTROL.x), 0.0, 0.0);\nBefore:\nfogColor.a = clamp((len – FOG_CONTROL.x) / (FOG_CONTROL.y – FOG_CONTROL.x), 0.0, 1.0);\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/shader/Fog%20Remover%20v2%20(Shader).mcpack",
+			"author": "Nanatuki",
+			"version": "1.16"
+		},
+		{
+			"id": 23,
+			"title": "Move Shaders",
+			"image": "https://my.mcpedl.com/storage/texturepacks/416/images/move-shaders_5.png",
+			"description": "Surely you are bored with leaves, grass, and everything in Minecraft (Android/iOS), you definitely want leaves, grass, and everything in Minecraft (Android/iOS to move / wave and you want to use shaders in Minecraft (Android/iOS) but you have a weak device with these shaders there can install these shaders in Minecraft (Android/iOS) And where can this make leaves, grass, and flowers in moving Minecraft (Android/iOS).\n\nHow to install :\n-Download the shader and open it using MCPE.\n-Go to the game setting and activate it.\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/shader/Move%20Shaders%20v1.0.0.mcpack",
+			"author": "Nanatuki",
+			"version": "1.16"
+		},
+		{
+			"id": 24,
+			"title": "Natural Mystic Shaders",
+			"image": "https://my.mcpedl.com/storage/texturepacks/40/images/5c50e4d604e97.jpeg",
+			"description": "Natural Mystic Shaders is a shader pack for Minecraft Bedrock aiming to be as realistic as possible. It will change many aspects of your game, some which includes shadows, torch light, sunlight, moonlight and other.\n\nFeatures:\n-Shadows\n-Non-blocky clouds\n-Waves for water and leaves (but not plants)\n-Camera-angle dependent transparency and specular light for water\n-Improved torch light with flickering effect\n-Sunlight and moonlight colors with night time desaturation\n-Desaturation under a bad weather condition\n-Exposure adjustment, contrast filter, and tone mapping\nt",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/shader/natural-mystic-shaders-1.7.0.mcpack",
+			"author": "Nanatuki",
+			"version": "1.16"
+		},
+		{
+			"id": 25,
+			"title": "Parallax Shaders",
+			"image": "https://mcpecube.com/uploads/posts/2019-09/1568926504_parallax-shaders.jpg",
+			"description": "Parallax shaders is a project that aims to bring the most dynamic and realistic shaders bedrock edition has seen. Many shaders are too dark or too washed out and that ends with parallax shaders. It introduces techniques that bring us the closest to static ray tracing through rigorous testing.\n\nThis shaders was built from the ground up in DirectX with minor use of OpenGL which means Full Xbox support. All screenshots below were captured on Xbox One, I have not tested this on other devices.\n\nFeatures:\nRealistic lighting based on weather and time of day\nRealistic water animations, color, and transparency\nRealistic shadows and illumination\nHD shadow casting\nLight sources realistically illuminate surrounding blocks\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/shader/Parallax%20Shaders.mcpack",
+			"author": "Nanatuki",
+			"version": "1.16"
+		},
+		{
+			"id": 26,
+			"title": "Simple Shader",
+			"image": "http://mcpedl.com/wp-content/uploads/2017/01/simple-shader-16-0-3.jpg",
+			"description": "Simple Shader is a lightweight shader pack which is the perfect solution for anyone who have got a low-end device and have not been able to use any of the other shader packs. It is a much more simple pack which still got some of the essential features (such as more realistic skies) to make Minecraft much more beautiful and faithfully realistic.\n",
+			"url": "https://mcpe-planet.com/wp-content/uploads/2022/03/simple-shader.mcpack",
+			"author": "Nanatuki",
+			"version": "1.16"
+		},
+		{
+			"id": 27,
+			"title": "SSPE shaders",
+			"image": "https://imcpe.best/uploads/posts/2021-10/1634964929_sspe-lightweight-2.jpg",
+			"description": "SSPE shaders will improve visual effects in Minecraft PE to make a game look better. Things that were changed much lightning, water, and lava, plants swaying in the wind. Basically, you can expect to receive all of the default set of improvements that other shader packs have to offer.\n\nThis shader will work only on Android and iOS devices, Win 10 users must download a separate version. You also can not use them with a custom texture pack.\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/shader/sspe15_4.mcpack",
+			"author": "Nanatuki",
+			"version": "1.16"
+		},
+		{
+			"id": 28,
+			"title": "UltraMax Shader",
+			"image": "https://my.mcpedl.com/storage/texturepacks/137/images/ultramax-shader_42.png",
+			"description": "A shader pack that subtly change the way you look at Minecraft.\n\nThis shader pack is aimed to improve some of the basic lighting and visual projections by introducing a very unique way of rendering it in its own way. Colors are more vibrant, surroundings are more atmospheric, and even the overall gameplay.\n\nHave a shader nice and pretty, basic makes unique.\nProudly presented to you by Ultra Shader Foundation.\nIdentifying Compatibility:\n-To identify whether or not this shader is compatible with your device, check your character skin in the home menu:\n-If the character is invisible, that means this shader pack is incompatible with your device. In some rare cases, you may have the character render properly but the rest of your world seems out of place. From here, proceeding the use of this shader pack is at the user is risk…\n-Meanwhile, Have a look at some screenshots I captured here.\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/shader/UltraMax%20Shader%201.0.9%20(Black).mcpack",
+			"author": "Nanatuki",
+			"version": "1.16"
+		},
+		{
+			"id": 29,
+			"title": "UltraMin Shader",
+			"image": "https://my.mcpedl.com/storage/texturepacks/760/images/ultramin-shader_2.png",
+			"description": "This is not UltraMax Shader. The shader that you are looking for is in a different post.\n\nUltraMin Shader is a variation of UltraMax Shader aimed to give you an ultra lightweight and extremely close to vanilla based visuals, the original intention of UltraLite Shader. In fact, this shader is planned to be the continuation of the now obsolete and superseded UltraLite and Ultra10 Shader.\n\nUltraMin Shader, while maintaining fair performance, is designed to be as compatible as possible now that UltraMax Shader is losing compatibillity in every update. Apart from that, UltraMin Shader will serves as UltraMax Shader’s experimental shader.\n\n-Vanilla style looks.\n-One cool feature this shader pack has.\n-Torch lights dependant to sky light exposure.\n",
+			"url": "https://sparkme.ams3.cdn.digitaloceanspaces.com/modpe-studio/shader/UltraMin%20Shader%201.0.1.mcpack",
+			"author": "Nanatuki",
+			"version": "1.16"
+		}
+	]
+}
