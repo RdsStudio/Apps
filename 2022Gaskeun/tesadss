@@ -1,0 +1,166 @@
+{
+	"Ads": [{
+		"statusapp": "1",
+		"ad_status": "on",
+		"adnetwork": "ADMOB",
+		"appupdate": "com.modaddon.mcpeblock",
+		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+		"admob_inter": "ca-app-pub-3940256099942544/1033173712",
+		"admob_native": "ca-app-pub-3940256099942544/2247696110",
+		"admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
+		"applovin_banner": "6c4a887d6aed766e",
+		"applovin_inter": "fc5437769b1e9211",
+		"applovin_native": "a31f11b7481e5476",
+		"fan_banner": "6c4a887d6aed766e",
+		"fan_inter": "fc5437769b1e9211",
+		"fan_native": "a31f11b7481e5476",
+		"interval": 2,
+		"date_time": "2022-12-05 16:21:37"
+	}],
+
+	"Mod": [{
+			"id": 1,
+			"title": "Among Us Totems V1.0.1: UPDATE!",
+			"image": "https://my.mcpedl.com/storage/addons/7141/images/among-us-totems-addon_4.png",
+			"description": "Have you ever played Among Us before? If you have, then this addon is for you. It adds Crewmate and Impostor Totems into the game! So, don't be sus. Have a look at the Totems and find out what they do!",
+			"url": "https://www.dropbox.com/s/8m70o0oykjtxoih/Among_Us_Totems_V1.0.1.mcaddon?dl=1",
+			"author": "JediGamerPlayz",
+			"version": "1.16"
+		},
+		{
+			"id": 2,
+			"title": "Among Us Totems V1.0: The Airship & Submerged",
+			"image": "https://my.mcpedl.com/storage/addons/7141/images/among-us-totems-addon_4.png",
+			"description": "Have you ever played Among Us before? If you have, then this addon is for you. It adds Crewmate and Impostor Totems into the game! So, don't be sus. Have a look at the Totems and find out what they do!",
+			"url": "https://dl.mcpedl.com/addons/7141/Among-Us-Totems-V1.mcaddon",
+			"author": "JediGamerPlayz",
+			"version": "1.17.0.3"
+		},
+		{
+			"id": 3,
+			"title": "Among Us Texture Pack",
+			"image": "https://mcpe-planet.com/wp-content/uploads/2022/03/photo_2022-03-21_10-50-55-200x200-c-default.jpg",
+			"description": "The incredibly popular game Among Us has an uncomplicated storyline, but at the same time, it has gained huge popularity among users. In the course of the plot, a certain number of players should find a bloodthirsty traitor.",
+			"url": "https://mcpe-planet.com/wp-content/uploads/2022/03/Among-Us-Armor.mcpack",
+			"author": "Effect99",
+			"version": "1.17 - 1.19"
+		},
+		{
+			"id": 4,
+			"title": "Among Us Skinpack",
+			"image": "https://my.mcpedl.com/storage/skinpacks/2374/images/among-us-skinpack-regular_4.png",
+			"description": "Among Us, the popular game that everyone is playing, do you want to embody the characters of Among Us in Minecraft? What are you waiting for?  Download this skinpack and be the impostor or a crewmate.",
+			"url": "https://www.dropbox.com/s/fotg0c2e0vg01qo/Among-Us-Skinpack.mcpack?dl=1",
+			"author": "Mad Monkey",
+			"version": "1.16 - 1.18"
+		},
+		{
+			"id": 5,
+			"title": "Among Us Map",
+			"image": "http://mcforge.club/amon/among-us-map-addon_2.png",
+			"description": "Among us has become really popular lately. So we decided to create a map and addon from it. Thats right its 2 in a price of 1! So Download it now to add it to your minecraft game and have a first person experience. To revert back simply use /function remove. For play this map please install addons, resources and behavior that creator are ESG TEAM  ItzGamerBonez  ItzSkelebonez  Tiny Bonez  Bjorn  ItsKingEric.\\n Because the creator not allow to put direct link to download this mod you can go to this link: https://mcpedl.com/among-us-map-addon/",
+			"url": "https://www.dropbox.com/s/plky4adkhfnx017/AmongUsMap.mcworld?dl=1",
+			"author": "ESG TEAM  ItzGamerBonez  ItzSkelebonez  Tiny Bonez  Bjorn  ItsKingEric",
+			"version": "1.16"
+		},
+		{
+			"id": 6,
+			"title": "Among Us Resources Pack",
+			"image": "https://",
+			"description": "It adds all 12 available colored player characters from the game that you could transform into you can get it from the creative inventory. Because the creator not allow to put direct link to download this mod you can go to this link: https://mcpedl.com/among-us-map-addon/",
+			"url": "https://www.dropbox.com/s/pvsuzxm6bsxroo7/Among%20us%20%5BR%5D.mcpack?dl=1",
+			"author": "ESG TEAM  ItzGamerBonez  ItzSkelebonez  Tiny Bonez  Bjorn  ItsKingEric",
+			"version": "1.16"
+		},
+		{
+			"id": 8,
+			"title": "Super Modern House 2 (World) Add-on",
+			"image": "https://relaxing.media/addons/Special-Modern-House/picture2.png",
+			"description": "This map is equipped with many large modern buildings, some are made of redstone, and some are made ordinary.",
+			"url": "https://relaxing.media/addons/Special-Modern-House/Special-Modern-House.mcworld",
+			"author": "Rizzz",
+			"version": "1.16 - 1.18"
+		},
+		{
+			"id": 7,
+			"title": "Among Us Behavior Pack",
+			"image": "https://my.mcpedl.com/storage/worlds/8966/images/among-us-map-addon_2.png",
+			"description": "It adds all 12 available colored player characters from the game that you could transform into you can get it from the creative inventory. Because the creator not allow to put direct link to download this mod you can go to this link: https://mcpedl.com/among-us-map-addon/",
+			"url": "https://www.dropbox.com/s/uygqife1wl4rajd/Among-Us-%5BB%5Dv2.mcpack?dl=1",
+			"author": "ESG TEAM  ItzGamerBonez  ItzSkelebonez  Tiny Bonez  Bjorn  ItsKingEric",
+			"version": "1.16"
+		},
+		{
+			"id": 9,
+			"title": "Among Us Addons",
+			"image": "https://my.mcpedl.com/storage/worlds/8966/images/among-us-map-addon_2.png",
+			"description": "This the addon file for Amoung Us It adds all 12 available colored player characters from the game that you could transform into you can get it from the creative inventory.",
+			"url": "https://www.dropbox.com/s/6cm8tn2yxchk21k/Among%20Us%20Addonv2.mcaddon?dl=1",
+			"author": "iEmotionless",
+			"version": "1.18.30"
+		},
+		{
+			"id": 10,
+			"title": "Among Us TR",
+			"image": "https://my.mcpedl.com/storage/worlds/8929/images/among-us-tr_2.png",
+			"description": "The great game that has jumped to fame over the last few days, now comes to Minecraft Bedrock Edition! This map has all the features needed for the Impostor to fool his fellow players. \n\n Among Us TR has all the features of the original game. There is an impostor among the crew.  The work of the crew is to fix different problems of a spaceship to save itself from death, the solutions are simple and fast. They would have no problem if it weren’t for an impostor, whose job is to sabotage the bring of others and finish them off. \n\n How do you win? \n\n The game is very simple and is based on the game Among Us. The crewmembers win if they find out who the impostor is and throw him off the ship, or if they finish all their activities. The impostor wins if the crewmembers do not manage to fix their sabotage in time or if they finish with the crewmembers. \n\n Start\n\n  A minimum of 4 players is recommended to start the game, if not, some things will not work properly or the game experience may not be the desired one. Before starting a game each player must choose a color to identify themselves when reporting a body or for voting. Once everyone has chosen their color you can start the game by clicking on the button on the wooden block.",
+			"url": "https://www.dropbox.com/s/ys7b22vlwaw6qht/Among%20Us%20TR.mcworld?dl=1",
+			"author": "Toramtyces",
+			"version": "1.16, 1.17"
+		},
+		{
+			"id": 11,
+			"title": "Among Us Part 1 UPDATE",
+			"image": "http://mcforge.club/amon/among-us-map-part-1_3.png",
+			"description": "This is part 1 of An Among us map me and my friend built together for fun.  We spent a long time on it and we are not done, meaning there are no tasks or sabotaging yet.  Note you do get the diamond when pressing start just don’t throw it down or you’ll be stuck in the incomplete sabotaging room.",
+			"url": "https://www.dropbox.com/s/sudt8ult1sjwabo/Among-Us_1601087007.mcworld?dl=1",
+			"author": "Anuibus",
+			"version": "1.16"
+		},
+		{
+			"id": 12,
+			"title": "Resource Pack - Elingo’s Lucky Block Add-On (New Update!)",
+			"image": "https://my.mcpedl.com/storage/addons/5028/images/elingos-lucky-block-addon--116_2.png",
+			"description": "This is Resource Pack - I’ve worked really hard on this addon and hope you all enjoy it. and I’d love to see some suggestions or feedback\n\nAt the moment the lucky blocks don’t spawn mobs or structures, but I’ll try to include that in the addon as well\n\nand I also will be trying to update this addon regularly\n\nYou can also find some of the Lucky Blocks underground like ores.\n\nInstalation: !!!Turn Experimental Gameplay on!!!",
+			"url": "https://download2272.mediafire.com/npbxuav9nqpg/b1v0cxl7ra72xrz/luckyblock-res.mcpack",
+			"author": "Captain_Elingo",
+			"version": "1.16, 1.17, 1.18, 1.19"
+		},
+		{
+			"id": 13,
+			"title": "Among Us Craft",
+			"image": "https://my.mcpedl.com/storage/worlds/8996/images/among-us-craft_4.png",
+			"description": "Enjoying the grate game among us. Love destroying your friendships as well as others but also love the blocky world of Minecraft. Well here is the world of among us in Minecraft for all you amazing gamers to play.",
+			"url": "https://www.dropbox.com/s/jop00a58i4i06q9/among%20us%20update1.mcworld?dl=1",
+			"author": "justintdml",
+			"version": "1.16, 1.17, 1.18, 1.19"
+		},
+		{
+			"id": 14,
+			"title": "Astral Lucky Blocks",
+			"image": "https://my.mcpedl.com/storage/addons/4842/images/astral-lucky-blocks_4.png",
+			"description": "This addon adds the astral lucky block which adds new weapons, blocks, enemies and many more. There are a total of around 300 different things that can come up when breaking this block. The original Lucky Block was also added so you can create the Astral Lucky Block and of course it works too.\n\nStructures\n\nThe Astral Lucky Block adds many very interesting structures such as Skelatron’s starship containing enemies and a boss, the inhabited cloud that is inhabited by a villager, the mushroom house, the mini portal at the end, the fountain of wishes. and many more.\n\nInstalation : !!!Turn Experimental Gameplay on!!!",
+			"url": "https://download2388.mediafire.com/hi0yl147hgeg/qegh21mw5op5ags/AstralLuckyBlocksV1.1.mcaddon",
+			"author": "Effect99MC",
+			"version": "1.16"
+		},
+		{
+			"id": 15,
+			"title": "Lucky Blocks Effect99MC",
+			"image": "https://my.mcpedl.com/storage/addons/4842/images/astral-lucky-blocks_4.png",
+			"description": "This addon adds the astral lucky block which adds new weapons, blocks, enemies and many more. There are a total of around 300 different things that can come up when breaking this block. The original Lucky Block was also added so you can create the Astral Lucky Block and of course it works too.\n\nStructures\n\nThe Astral Lucky Block adds many very interesting structures such as Skelatron’s starship containing enemies and a boss, the inhabited cloud that is inhabited by a villager, the mushroom house, the mini portal at the end, the fountain of wishes. and many more.\n\nInstalation : !!!Turn Experimental Gameplay on!!!",
+			"url": "https://download2388.mediafire.com/hi0yl147hgeg/qegh21mw5op5ags/AstralLuckyBlocksV1.1.mcaddon",
+			"author": "Effect99MC",
+			"version": "1.16"
+		},
+		{
+			"id": 16,
+			"title": "Lucky Block Entity",
+			"image": "https://mcpeaddons.com/wp-content/uploads/2021/10/3.jpg",
+			"description": "Lucky Block Entity is an addon that adds new lucky blocks but in the form of a very cute entity. With which you can get random things for your survival world\n\nIn your world, you can find these entities on the surface of any biome where there is grass, once you manage to find this new entity, you can hit it up to 2 times with your hand and it will drop random objects. With a third hit, this entity will die and will be able to drop an object again, drop advanced objects, generate structures, generate entities, or simply become an angry block of luck.\n\nInstallation:\n\nIt is necessary to activate for the correct use of this content (Active: Holiday Creator Features)",
+			"url": "https://www.mediafire.com/file/f7sg6t1gg0ht4sz/Lucky_Block_Entity.mcaddon/file",
+			"author": "Team Cubitos",
+			"version": "1.16, 1.17"
+		}
+	]
+}
