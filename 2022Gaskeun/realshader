@@ -1,7 +1,7 @@
 {
 	"Ads": [{
 		"statusapp": "1",
-		"ad_status": "off",
+		"ad_status": "on",
 		"adnetwork": "ADMOB",
 		"appupdate": "com.modaddon.mcpeblock",
 		"admob_banner": "ca-app-pub-2381139037051995/6361085878",
