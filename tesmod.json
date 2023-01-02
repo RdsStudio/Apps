@@ -1,5 +1,4 @@
-{
-	"Mod": [{
+ [{
 		"id": "60d4083c5090e2413cd90ede",
 		"author": "Giovany DEV",
 		"text": "Try now for a different experience in Minecraft.This Add-On has an entity called \"Flan\", you can tame him, heal him, he follows you and he can sit. And the most important features, he will attack zombies, skeletons and spiders as default, if you tame him he will attack any mob that wanna attack you.This is my fist Add-On, be patient and let me know about your suggestions on my Twitter: @Giovany_MX or Giovany DEV.\n\nThe Add-On that gives you a new best friend, I developed this Add-On by thinking on my own pet. I tried to capture the essence of the cuteness of my pet and the loyalty that pets has with them owners.\n\n• Your Flan will protect you anytime of every single entity.\n• You can heal your Flan with a little bit of sugar.\n• Taming is the same, you can tame him with sugar.\n• He can wait you by sitting while you exploe a huge mine.\n• He has the same probability of spawn as sheeps does.\n• Also you can leash him.\n\nhttps://twitter.com/Giovany_MX/status/1405762470833049609\n\nhttps://twitter.com/Giovany_MX/status/1405760412310663179\n\nhttps://twitter.com/Giovany_MX/status/1405762045706870784\n\n# How to install\n\n• Download and install the McAddon\n• Activate both behavior and resource pack in your world settings\n",
@@ -60,5 +59,6 @@
 		"thumbnailCompleted": true,
 		"fxOffline": false,
 		"fxSelected": false
-	}]
-}
+	}
+ ]
+
