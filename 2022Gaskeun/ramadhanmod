@@ -2,6 +2,7 @@
 	"Ads": [{
 		"statusapp": "1",
 		"ad_status": "off",
+		"link_redirect": "",
 		"adnetwork": "ADMOB",
 		"appupdate": "com.modaddon.mcpeblock",
 		"admob_banner": "",
