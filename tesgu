@@ -34,20 +34,20 @@
 				"image_link": "https://www.google.com",
 				"text": "Text Description disini",
 				"isNative": false,
-				"background": "#00FF00"
+				"background": "#003f31"
 			},
 			{
 				"title": "Title 2",
 				"image": "https://usercontent1.hubstatic.com/8037694.jpg",
 				"color": "#EEEEEE",
-				"text_size": "25",
+				"text_size": "40",
 				"isLink": true,
-				"link_title": "Get Coins",
+				"link_title": "Get Get Sdgsdg",
 				"setLink": "https://",
 				"image_link": "https://",
 				"text": "2 Text Description disini ",
 				"isNative": false,
-				"background": "#00FF00"
+				"background": "#c68d2e"
 			},
 			      {
 				"title": "Dead Space Android",
@@ -55,7 +55,7 @@
 				"color": "#FFFFFF",
 				"text_size": "25",
 				"isLink": false,
-				"link_title": "",
+				"link_title": "Dapatkan Sekarang",
 				"setLink": "",
 				"image_link": "",
 				"text": "Dark Meadow : The Pact",
