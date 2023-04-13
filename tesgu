@@ -1,0 +1,43 @@
+{
+	"GuideData": {
+		"AdsController": {
+			"NetworkAds": "admob",
+			"admobBanner": "",
+			"admobInter": "",
+			"NativeAdmob": "",
+			"mopubBanner": "",
+			"mopubInter": "",
+			"mopubNative": "",
+			"imageBanner": false,
+			"imageBannerImg": "",
+			"imageBannerURL": ""
+		},
+		"items": [{
+				"title": "Title 1",
+				"image": "https",
+				"color": "#000000",
+				"text_size": "25",
+				"isLink": true,
+				"link_title": "Get Coins",
+				"setLink": "https://",
+				"image_link": "https://",
+				"text": "Text Description disini",
+				"isNative": false,
+				"background": "#00FF00"
+			},
+			{
+				"title": "Title 2",
+				"image": "https",
+				"color": "#EEEEEE",
+				"text_size": "25",
+				"isLink": true,
+				"link_title": "Get Coins",
+				"setLink": "https://",
+				"image_link": "https://",
+				"text": "2 Text Description disini ",
+				"isNative": false,
+				"background": "#00FF00"
+			}
+		]
+	}
+}
