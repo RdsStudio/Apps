@@ -1,0 +1,45 @@
+{
+  "Steps": [{
+    "title": "Having Issues 1",
+    "text": "Having Issues? 1: As the name suggests, this is useful for users experiencing some difficulties. As soon as you click, the link will connect you to teteplay customer care chat messenger where you can chat with customer care.",
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2118130/header.jpg?t=1666996991"
+  },
+    {
+      "title": "Having Issues 2",
+      "text": "Having Issues? 2: As the name suggests, this is useful for users experiencing some difficulties. As soon as you click, the link will connect you to teteplay customer care chat messenger where you can chat with customer care.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2118130/header.jpg?t=1666996991"
+    },
+    {
+      "title": "Having Issues 3",
+      "text": "Having Issues? 3: As the name suggests, this is useful for users experiencing some difficulties. As soon as you click, the link will connect you to teteplay customer care chat messenger where you can chat with customer care.",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2118130/header.jpg?t=1666996991"
+    }
+  ],
+  "Config": [{
+    "Active_Ad": "admob",
+    "privacy_url": "https://www.google.com/",
+    "pub_store_url": "https://play.google.com/store/apps/developer?id=The+Pokemon+Company",
+    "max_inter": "A1",
+    "max_banner": "A2",
+    "max_native": "A3",
+    "fb_inter": "YOUR_PLACEMENT_ID",
+    "fb_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "fb_native": "YOUR_PLACEMENT_ID",
+    "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+    "admob_native": "ca-app-pub-3940256099942544/2247696110",
+    "yandex_inter": "R-M-DEMO-interstitial",
+    "yandex_banner": "R-M-DEMO-300x250",
+    "UnityGameId": "4992863",
+    "unity_banner": "Banner_Android",
+    "unity_inter": "Interstitial_Android",
+    "skip_steps": false,
+    "skip_guide": false
+  }],
+  "Redirect": [{
+    "img": "https://agence-marketing-digital.xyz/smarttotors/viperplay/redirect.jpg",
+    "text_btn": "install now",
+    "url_to_redirect": "https://play.google.com/store/apps/details?id=com.tobabajg.futbol_libre_tutor",
+    "showRedirectActivity": false
+  }]
+}
