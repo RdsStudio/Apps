@@ -11,6 +11,8 @@
       "statusapp": "1",
       "ad_status":"on",
       "link_redirect": "",
+      "appupdate": "",
+      "bannerOwn": "1",
 
       "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
@@ -166,58 +168,23 @@
   ], "Apps": [
     {
       
-      "title": "Lorem 1",
-      "image": "https://wallpaper.dog/large/20487356.jpg",
-      "url": "https://wallpaper.dog/large/20487356.jpg"
+      "title": "Gorila Tag Mods",
+      "image": "https://play-lh.googleusercontent.com/Sq2fd4Ju0XGIh7WmgwkWfA0cNkBC17tCNnRl7oXA-Ghjb-OkYiMHVpVxvSwwtwLUiCY=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.bencraft.benmodaddon"
 
 
       
     },
     { 
-      "title": "Lorem 1",
-      "image": "https://wallpaper.dog/large/20487356.jpg",
-      "url": "https://wallpaper.dog/large/20487356.jpg"
-
-
-      
-    },
-    {
-      
-      "title": "Lorem 1",
-      "image": "https://wallpaper.dog/large/20487356.jpg",
-      "url": "https://wallpaper.dog/large/20487356.jpg"
-
-      
-    }
-    ,{
-       
-      "title": "Lorem 1",
-      "image": "https://wallpaper.dog/large/20487356.jpg",
-      "url": "https://wallpaper.dog/large/20487356.jpg"
-
-
-      
-    },
-    {
-       
-      "title": "Lorem 1",
-      "image": "https://wallpaper.dog/large/20487356.jpg",
-      "url": "https://wallpaper.dog/large/20487356.jpg"
+      "title": "Ramadhan Mod for MCPE",
+      "image": "https://play-lh.googleusercontent.com/hidbuf0_l-TpppY1ogW7ItmBusIDPMRvUFalF11Ja7NJJCZhYAcdheMp0lwD4bwing0=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.scphorroraddon.sirenmodmcpe"
 
     },
-    {
-       
-      "title": "Lorem 1",
-      "image": "https://wallpaper.dog/large/20487356.jpg",
-      "url": "https://wallpaper.dog/large/20487356.jpg"
-
-    },
-    {
-      
-      "title": "Lorem 1",
-      "image": "https://wallpaper.dog/large/20487356.jpg",
-      "url": "https://wallpaper.dog/large/20487356.jpg"
-
+    { 
+      "title": "Skibid Toilet Mods",
+      "image": "https://play-lh.googleusercontent.com/8KV7sZuN7W5hNoHCGoAmKUEnDxY_eENdAeOzwckobINfLSUaMvvGP3xxsOFF1WfaZNRT=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.ponyaddon.unicornmodmcpe"      
     }
   ]
  
