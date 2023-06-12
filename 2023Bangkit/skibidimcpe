@@ -1,0 +1,189 @@
+{ "ADS":
+    {
+  
+       "cpa_image":"yandex",
+      "cpa_title":"yandex",
+      "cpa_sous_title":"yandex",
+      "cpa_url":"yandex",
+      "show_cpa":false,
+      "backupAds":"applovin",
+      "interval": 1,
+      "statusapp": "1",
+      "ad_status":"off",
+      "link_redirect": "",
+
+      "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
+        
+        
+      "banner_type":"admob",
+      "inter_type":"admob",
+      "native_type":"admob",
+      "reward_type":"admob",
+      
+
+      "ironsource_id":"jhd78302",
+      "unity_id":"87320283",
+     
+
+      "banner_yandex":"R-M-2089662-1",
+      "native_yandex":"R-M-2089662-2",
+      "interstitial_yandex":"R-M-2089662-3",
+      "rewarde_yandex":"R-M-2089662-4",
+
+      "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
+       "banner_admob":"ca-app-pub-3940256099942544/630097811x",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+      "interstitial_admob":"ca-app-pub-3940256099942544/10331737x",
+      "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
+
+      "applovin_banner":"6c4a887d6aed766e",
+      "applovin_interstitial":"fc5437769b1e9211",
+      "applovin_reward":"8ea7c0890eb9b6f6",
+      "applovin_native":"64ea2f2ef41edb34",
+
+      "facebook_banner":"IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001",
+      "facebook_interstitial":"IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
+      "facebook_reward":"R-M-DEMO-300x50",
+      "facebook_native":"IMG_16_9_APP_INSTALL#6081906371842532_6081909341842235"
+
+  
+    },
+    "skins": [
+    {
+      "imageUrl": "https://i.ytimg.com/vi/pyKCtiT28h0/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbSHZIfbheHkaklqGIaKmfCeqmig",
+      "title": "Spider Skibidi Toilet",
+      "likeNumbers": "1024 LIKES",
+      "commentNumbers": "33 COMMENTS",
+      "downloadNumbers": "40544 DOWNLOADS",
+      "description": "Spider Skibidi Toilet Mods. here you will find many mods and maps for Skibidi Toilet collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://archive.org/download/spider-skibidi-toilet-ag-1_202306/Spider%20skibidi%20toilet%20AG_1.mcaddon"
+             
+    },
+    {
+      "imageUrl": "https://i.ytimg.com/vi/_7fmE8A5hT4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArwj4U_u9Jz1ykILKERCC-h1kFnA",
+      "title": "Skibidi Toilet",
+      "likeNumbers": "162 LIKES",
+      "commentNumbers": "13 COMMENTS",
+      "downloadNumbers": "20644 DOWNLOADS",
+      "description": "Skibidi Toilet here you will find many mods and maps for Skibidi Toilet collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://archive.org/download/spider-skibidi-toilet-ag-1_202306/skibidi%20toilet%20addon.mcaddon"
+       
+    },
+    {
+      "imageUrl": "https://mcpe-planet.com/wp-content/uploads/2023/06/skibidi-toilet-mod-200x200-c-default.jpg",
+      "title": "Big Skibidi Toilet Mod",
+      "likeNumbers": "143 LIKES",
+      "commentNumbers": "22 COMMENTS",
+      "downloadNumbers": "40544 DOWNLOADS",
+      "description": "Big Skibidi Toilet pack for melon playground. here you will find many mods and maps for Skibidi Toilet collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://mcpe-planet.com/wp-content/uploads/2023/06/skibidi-toilet-mod.mcaddon"
+       
+    }
+    ,{
+      "imageUrl": "https://melmod.com/wp-content/uploads/2023/06/new-Skibidi-toilet.webp",
+      "title": "New Skibidi Toilet",
+      "likeNumbers": "121 LIKES",
+      "commentNumbers": "20 COMMENTS",
+      "downloadNumbers": "16044 DOWNLOADS",
+      "description": "Bikini Bottom mod for melon playground. here you will find many mods and maps for Skibidi Toilet collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://d2.melmod.com/mods/newSkibiditoilet.zip"
+      
+    },
+    {
+      "imageUrl": "https://melmod.com/wp-content/uploads/2023/06/Spider-Skibidi-Toilet.webp",
+      "title": "Spider Skibidi Toilet",
+      "likeNumbers": "52 LIKES",
+      "commentNumbers": "10 COMMENTS",
+      "downloadNumbers": "18744 DOWNLOADS",
+      "description": "Spider Skibidi Toilet for melon playground. here you will find many mods and maps for Skibidi Toilet collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://d2.melmod.com/mods/SpiderSkibidiToilet.zip"
+       
+    },
+    {
+      "imageUrl": "https://melmod.com/wp-content/uploads/2023/06/SPEAKERMAN-vs-MELON-SKIBIDI-TOILET.webp",
+      "title": "SPEAKERMAN vs SKIBIDI TOILET",
+      "likeNumbers": "60 LIKES",
+      "commentNumbers": " 21 COMMENTS",
+      "downloadNumbers": "8069 DOWNLOADS",
+      "description": "SPEAKERMAN vs SKIBIDI TOILET mod for melon playground. here you will find many mods and maps for Skibidi Toilet collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://d2.melmod.com/mods/SPEAKERMANvsMELONSKIBIDITOILET.zip"
+     
+    },
+    {
+      "imageUrl": "https://melmod.com/wp-content/uploads/2023/06/New-skibidi-Toilets-andbStriders-1.jpg",
+      "title": "New Skibidi Toilets and bStriders",
+      "likeNumbers": "38 LIKES",
+      "commentNumbers": "25 COMMENTS",
+      "downloadNumbers": "16830 DOWNLOADS",
+      "description": "New Skibidi Toilets and bStriders mod for melon playground. here you will find many mods and maps for Skibidi Toilet collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://d2.melmod.com/mods/NewskibidiToiletsandbStriders.zip"
+       
+    },
+    {
+      "imageUrl": "https://melmod.com/wp-content/uploads/2023/05/Skibidi-toilet-Army.webp",
+      "title": "Skibidi toilet Army",
+      "likeNumbers": "28 LIKES",
+      "commentNumbers": "9 COMMENTS",
+      "downloadNumbers": "7698 DOWNLOADS",
+      "description": "Skibidi toilet Army mod for melon playground. here you will find many mods and maps for Skibidi Toilet collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://d2.melmod.com/mods/SkibiditoiletArmy2.zip"
+       
+    },
+    {
+      "imageUrl": "https://melmod.com/wp-content/uploads/2023/05/skibidi-toilet-and-cameraman.webp",
+      "title": "Skibidi toilet and cameraman",
+      "likeNumbers": "113 LIKES",
+      "commentNumbers": "8 COMMENTS",
+      "downloadNumbers": "9876 DOWNLOADS",
+      "description": "Skibidi toilet and cameraman for melon playground. here you will find many mods and maps for Skibidi Toilet collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://d2.melmod.com/mods/skibiditoiletandcameraman.zip"
+       
+    },
+    {
+      "imageUrl": "https://melmod.com/wp-content/uploads/2023/05/Skibidi-Toilet.webp",
+      "title": "Skibidi Toilet ModPack",
+      "likeNumbers": "26 LIKES",
+      "commentNumbers": "6 COMMENTS",
+      "downloadNumbers": "9967 DOWNLOADS",
+      "description": "Skibidi Toilet ModPack for melon playground. here you will find many mods and maps for Skibidi Toilet collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://d2.melmod.com/mods/SkibidiToilets.zip"
+       
+    },
+    {
+      "imageUrl": "https://melmod.com/wp-content/uploads/2023/05/Camera-titan-and-new-cameramans.webp",
+      "title": "Camera titan and new camera mans",
+      "likeNumbers": "55 LIKES",
+      "commentNumbers": "13 COMMENTS",
+      "downloadNumbers": "6796 DOWNLOADS",
+      "description": "Camera titan and new camera mans mod for melon playground. here you will find many mods and maps for Skibidi Toilet collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://d2.melmod.com/mods/Cameratitanandnewcameramans2.zip"
+       
+    }
+
+
+  ], "Apps": [
+    {
+      
+      "title": "Gorila Tag Mods",
+      "image": "https://play-lh.googleusercontent.com/Sq2fd4Ju0XGIh7WmgwkWfA0cNkBC17tCNnRl7oXA-Ghjb-OkYiMHVpVxvSwwtwLUiCY=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.bencraft.benmodaddon"
+
+
+      
+    },
+    { 
+      "title": "Ramadhan Mod for MCPE",
+      "image": "https://play-lh.googleusercontent.com/hidbuf0_l-TpppY1ogW7ItmBusIDPMRvUFalF11Ja7NJJCZhYAcdheMp0lwD4bwing0=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.scphorroraddon.sirenmodmcpe"
+
+    },
+    { 
+      "title": "Skibid Toilet Mods",
+      "image": "https://play-lh.googleusercontent.com/8KV7sZuN7W5hNoHCGoAmKUEnDxY_eENdAeOzwckobINfLSUaMvvGP3xxsOFF1WfaZNRT=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.ponyaddon.unicornmodmcpe"      
+    }
+  ]
+ 
+  }
