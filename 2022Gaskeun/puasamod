@@ -1,9 +1,9 @@
 {
 	"Ads": [{
-		"statusapp": "1",
+		"statusapp": "0",
 		"ad_status": "on",
 		"adnetwork": "ADMOB",
-		"appupdate": "com.modaddon.mcpeblock",
+		"appupdate": "com.ponyaddon.unicornmodmcpe",
 		"admob_banner": "ca-app-pub-2381139037051995/5735234068",
 		"admob_inter": "ca-app-pub-2381139037051995/8795677528",
 		"admob_native": "ca-app-pub-2381139037051995/4557883766",
