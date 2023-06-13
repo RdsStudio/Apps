@@ -1,0 +1,120 @@
+{ "ADS":
+    {
+  
+      "cpa_image":"yandex",
+      "cpa_title":"yandex",
+      "cpa_sous_title":"yandex",
+      "cpa_url":"yandex",
+      "show_cpa":false,
+      "backupAds":"applovin",
+      "interval": 1,
+      "statusapp": "1",
+      "ad_status":"off",
+      "link_redirect": "",
+
+      "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
+        
+        
+      "banner_type":"admob",
+      "inter_type":"admob",
+      "native_type":"admob",
+      "reward_type":"admob",
+      
+
+      "ironsource_id":"jhd78302",
+      "unity_id":"87320283",
+     
+
+      "banner_yandex":"R-M-2089662-1",
+      "native_yandex":"R-M-2089662-2",
+      "interstitial_yandex":"R-M-2089662-3",
+      "rewarde_yandex":"R-M-2089662-4",
+
+      "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
+       "banner_admob":"ca-app-pub-3940256099942544/630097811x",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+      "interstitial_admob":"ca-app-pub-3940256099942544/10331737x",
+      "rewarde_admob":"ca-app-pub-3940256099942544/5354046379",
+
+      "applovin_banner":"6c4a887d6aed766e",
+      "applovin_interstitial":"fc5437769b1e9211",
+      "applovin_reward":"8ea7c0890eb9b6f6",
+      "applovin_native":"64ea2f2ef41edb34",
+
+      "facebook_banner":"IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001",
+      "facebook_interstitial":"IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
+      "facebook_reward":"R-M-DEMO-300x50",
+      "facebook_native":"IMG_16_9_APP_INSTALL#6081906371842532_6081909341842235"
+
+  
+    },
+    "skins": [
+    {
+      "imageUrl": "https://drive.google.com/uc?id=1ogl0pTINrceK-Vzt1fGP-3GIynvVXpM7",
+      "title": "Garten Banban Map 1",
+      "likeNumbers": "1024 LIKES",
+      "commentNumbers": "33 COMMENTS",
+      "downloadNumbers": "40544 DOWNLOADS",
+      "description": "Garten Banban Map 2. here you will find many mods and maps for Garten banban collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://drive.google.com/uc?export=download&id=1KzKnA_ILdzO0c7gpd3HSyUomqYVqmkok"
+             
+    },
+    {
+      "imageUrl": "https://drive.google.com/uc?id=1CT3adQVSOFurDmsUa9HkcocuNg1yG74a",
+      "title": "Garten Banban Map 2",
+      "likeNumbers": "162 LIKES",
+      "commentNumbers": "13 COMMENTS",
+      "downloadNumbers": "20644 DOWNLOADS",
+      "description": "Garten Banban Map 2 here you will find many mods and maps for Garten banban collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://drive.google.com/uc?export=download&id=1Aph_AdfZw4NNZ3sP7eD1TjtYwuNM6JJu"
+       
+    },
+    {
+      "imageUrl": "https://drive.google.com/uc?id=10kvMagjiJYVm25imQ1BZK6XBXq-JdCRo",
+      "title": "Garten Banban Map 3",
+      "likeNumbers": "143 LIKES",
+      "commentNumbers": "22 COMMENTS",
+      "downloadNumbers": "40544 DOWNLOADS",
+      "description": "Garten Banban Map 3 here you will find many mods and maps for Garten banban collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://drive.google.com/uc?export=download&id=1Z_uJyeiUwmujdmk1zS5dkwwnGHFx25mZ"
+       
+    },
+    {
+      "imageUrl": "https://drive.google.com/uc?id=1Q0L-F_zMBDyIMbq_oheI9SW9iNAAJ216",
+      "title": "Garten Banban Map 3",
+      "likeNumbers": "143 LIKES",
+      "commentNumbers": "22 COMMENTS",
+      "downloadNumbers": "40544 DOWNLOADS",
+      "description": "Garten Banban Map 4 here you will find many mods and maps for Garten banban collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://drive.google.com/uc?export=download&id=176rQjdwyJEAW1Rm_ur5HljdHWpMZwhsZ"
+       
+    }
+    
+
+
+  ], "Apps": [
+    {
+      
+      "title": "Gorila Tag Mods",
+      "image": "https://play-lh.googleusercontent.com/Sq2fd4Ju0XGIh7WmgwkWfA0cNkBC17tCNnRl7oXA-Ghjb-OkYiMHVpVxvSwwtwLUiCY=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.bencraft.benmodaddon"
+      
+    },
+    { 
+      "title": "Skibidi Toilet",
+      "image": "https://play-lh.googleusercontent.com/8KV7sZuN7W5hNoHCGoAmKUEnDxY_eENdAeOzwckobINfLSUaMvvGP3xxsOFF1WfaZNRT=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.ponyaddon.unicornmodmcpe"
+    },
+    { 
+      "title": "Spider Skibidi Toilet",
+      "image": "https://play-lh.googleusercontent.com/hidbuf0_l-TpppY1ogW7ItmBusIDPMRvUFalF11Ja7NJJCZhYAcdheMp0lwD4bwing0=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.scphorroraddon.sirenmodmcpe"
+
+
+      
+    }
+  ]
+ 
+  }
