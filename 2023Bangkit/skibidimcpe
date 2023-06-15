@@ -5,7 +5,7 @@
       "cpa_title":"yandex",
       "cpa_sous_title":"yandex",
       "cpa_url":"yandex",
-      "show_cpa":false,
+      "show_cpa":true,
       "backupAds":"applovin",
       "interval": 3,
       "statusapp": "1",
