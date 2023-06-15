@@ -8,9 +8,9 @@
       "show_cpa":false,
       "backupAds":"applovin",
       "interval": 1,
-      "statusapp": "1",
-      "ad_status":"off",
-      "link_redirect": "",
+      "statusapp": "0",
+      "ad_status":"on",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.apps_garten_of_banban.euphoricbrothersgames_gartenofbanbanIV",
       "appupdate":"com.timicos.spiderskibidimcpe",
       "bannerOwn": "0",
 
