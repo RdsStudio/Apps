@@ -9,7 +9,7 @@
       "backupAds":"applovin",
       "interval": 2,
       "statusapp": "on",
-      "ad_status":"on",
+      "ad_status":"1",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.apps_garten_of_banban.eupho",
       "appupdate":"com.timicos.spiderskibidimcpe",
       "bannerOwn": "1",
