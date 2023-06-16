@@ -7,7 +7,7 @@
       "cpa_url":"yandex",
       "show_cpa":true,
       "backupAds":"applovin",
-      "interval": 1,
+      "interval": 2,
       "statusapp": "on",
       "ad_status":"on",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.apps_garten_of_banban.eupho",
