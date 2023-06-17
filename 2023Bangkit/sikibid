@@ -7,7 +7,7 @@
       "cpa_url":"yandex",
       "show_cpa":"false",
       "backupAds":"applovin",
-      "interval": 1,
+      "interval": 5,
       "statusapp": "1",
       "ad_status":"off",
       "link_redirect": "",
