@@ -1,0 +1,173 @@
+{ "ADS":
+    {
+  
+      "cpa_image":"yandex",
+      "cpa_title":"yandex",
+      "cpa_sous_title":"yandex",
+      "cpa_url":"yandex",
+      "show_cpa": "false",
+      "backupAds":"applovin",
+      "interval": 2,
+      "statusapp": "on",
+      "ad_status":"of",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.apps_garten_of_banban.eupho",
+      "appupdate":"com.timos.spider",
+      "bannerOwn": "of",
+
+      "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
+      "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
+        
+        
+      "banner_type":"applovin",
+      "inter_type":"admob",
+      "native_type":"admob",
+      "reward_type":"admob",
+      
+
+      "ironsource_id":"jhd78302",
+      "unity_id":"87320283",
+     
+
+      "banner_yandex":"R-M-2089662-1",
+      "native_yandex":"R-M-2089662-2",
+      "interstitial_yandex":"R-M-2089662-3",
+      "rewarde_yandex":"R-M-2089662-4",
+
+      "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
+       "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "rewarde_admob":"ca-app-pub-3940256099942544/5224354917",
+
+      "applovin_banner":"6c4a887d6aed766e",
+      "applovin_interstitial":"fc5437769b1e9211",
+      "applovin_reward":"8ea7c0890eb9b6f6",
+      "applovin_native":"64ea2f2ef41edb34",
+
+      "facebook_banner":"IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001",
+      "facebook_interstitial":"IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
+      "facebook_reward":"R-M-DEMO-300x50",
+      "facebook_native":"IMG_16_9_APP_INSTALL#6081906371842532_6081909341842235"
+
+  
+    },
+    "skins": [
+    {
+      "imageUrl": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/cavalry.png",
+      "title": "Car Sound",
+      "likeNumbers": "1024 LIKES",
+      "commentNumbers": "33 COMMENTS",
+      "downloadNumbers": "40544 DOWNLOADS",
+      "description": "Garten Banban Map 2. here you will find many mods and maps for Garten banban collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://github.com/LuongCuong244/App_Prank_Sounds/blob/main/Sound_Prank/Air_Horn/Sounds/car.mp3?raw=true"
+             
+    },
+    {
+      "imageUrl": "https://raw.githubusercontent.com/LuongCuong244/App_Prank_Sounds/main/Sound_Prank/Air_Horn/Icons/airhorn2.png",
+      "title": "Air Horn",
+      "likeNumbers": "162 LIKES",
+      "commentNumbers": "13 COMMENTS",
+      "downloadNumbers": "20644 DOWNLOADS",
+      "description": "Garten Banban Map 2 here you will find many mods and maps for Garten banban collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://d1fvu3xrca26wk.cloudfront.net/sounds/Airhorn/funny_airhorn_5.mp3"
+       
+    },
+    {
+      "imageUrl": "https://drive.google.com/uc?id=10kvMagjiJYVm25imQ1BZK6XBXq-JdCRo",
+      "title": "Garten Banban Map 3",
+      "likeNumbers": "143 LIKES",
+      "commentNumbers": "22 COMMENTS",
+      "downloadNumbers": "40544 DOWNLOADS",
+      "description": "Garten Banban Map 3 here you will find many mods and maps for Garten banban collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://drive.google.com/uc?export=download&id=1Z_uJyeiUwmujdmk1zS5dkwwnGHFx25mZ"
+       
+    },
+    {
+      "imageUrl": "https://drive.google.com/uc?id=1Q0L-F_zMBDyIMbq_oheI9SW9iNAAJ216",
+      "title": "Garten Banban Map 3",
+      "likeNumbers": "143 LIKES",
+      "commentNumbers": "22 COMMENTS",
+      "downloadNumbers": "40544 DOWNLOADS",
+      "description": "Garten Banban Map 4 here you will find many mods and maps for Garten banban collected in one place. We also provide mods that decorate this game with various external features. Thanks for being with us, we really appreciate it.",
+      "resource": "https://drive.google.com/uc?export=download&id=176rQjdwyJEAW1Rm_ur5HljdHWpMZwhsZ"
+       
+    },
+    {
+      "imageUrl": "https://metaanime.art/glop/images3ddon/garten-of-banban3-scr-2.2.png",
+      "title": "Garten of Banban 3 Addon",
+      "likeNumbers": "149 LIKES",
+      "commentNumbers": "29 COMMENTS",
+      "downloadNumbers": "50310 DOWNLOADS",
+      "description": "Mod Adds characters from the new Garten of Banban 3 game to Minecraft. Fans of Rainbow Friends and Poppy Playtime will love it! Enter Banban's Kindergarten, and you're sure to make some friends. Explore the mysterious establishment and don't lose your life and sanity.\n\n\n*Don't forget to enable Experimental options in the map settings\n\nMobs are available in creative mode in the inventory",
+      "resource": "https://metaanime.art/gartenmapmodmamc34.json/glop/Garten%20of%20BanBan%203.zip"
+       
+    },
+    {
+      "imageUrl": "https://i.ytimg.com/vi/XmBFbdrp7Xs/maxresdefault.jpg",
+      "title": "Garten of Banban 2 Addon",
+      "likeNumbers": "206 LIKES",
+      "commentNumbers": "29 COMMENTS",
+      "downloadNumbers": "70584 DOWNLOADS",
+      "description": "Mod Adds characters from the new Garten of Banban 2 game to Minecraft. Fans of Rainbow Friends and Poppy Playtime will love it! Enter Banban's Kindergarten, and you're sure to make some friends. Explore the mysterious establishment and don't lose your life and sanity.\n\n\n*Don't forget to enable Experimental options in the map settings\n\nMobs are available in creative mode in the inventory",
+      "resource": "https://spanelzii.xyz/0.choadonnnns/gartenofbanban2.zip"
+       
+    },
+    {
+      "imageUrl": "https://i.ytimg.com/vi/XmBFbdrp7Xs/maxresdefault.jpg",
+      "title": "Garten of Banban Addon",
+      "likeNumbers": "193 LIKES",
+      "commentNumbers": "32 COMMENTS",
+      "downloadNumbers": "60284 DOWNLOADS",
+      "description": "Mod Adds characters from the new Garten of Banban 2 game to Minecraft. Fans of Rainbow Friends and Poppy Playtime will love it! Enter Banban's Kindergarten, and you're sure to make some friends. Explore the mysterious establishment and don't lose your life and sanity.\n\n\n*Don't forget to enable Experimental options in the map settings\n\nMobs are available in creative mode in the inventory",
+      "resource": "https://spanelzii.xyz/0.choadonnnns/gartenofbanban.zip"
+    },
+    {
+      "imageUrl": "https://mcpeland.io/uploads/posts/2023-01/choo_cartooncatboss.jpg",
+      "title": "Choo Choo Charles Addon",
+      "likeNumbers": "293 LIKES",
+      "commentNumbers": "228 COMMENTS",
+      "downloadNumbers": "80544 DOWNLOADS",
+      "description": "You've probably played the game Choo Choo Charles but have you ever thought about the game Choo Choo Charles for MINECRAFT? You think that this is some kind of joke, but no, today you can play the game of this franchise even in the world of MINECRAFT. Mod for minecraft with a terrible and unique Choo Choo Charles train.",
+      "resource": "https://spanelzii.xyz/0.choadonnnns/choo_cartooncatboss.zip"
+
+       
+    },
+    {
+      "imageUrl": "https://mcpeland.io/uploads/posts/2022-09/ieh6yhq6g3isd.jpg",
+      "title": "Rainbow Friends Addon",
+      "likeNumbers": "93 LIKES",
+      "commentNumbers": "28 COMMENTS",
+      "downloadNumbers": "20544 DOWNLOADS",
+      "description": "Rainbow Friends is a fun mod for Minecraft. Rainbow friends want to play Minecraft with you. Survive the monsters and don't get caught by the monsters in this mod for Minecraft.\n\n\n* Don't forget to enable Experimental options in the map settings\n\nMobs are available in creative mode in the inventory\n",
+      "resource": "https://spanelzii.xyz/0.choadonnnns/rainbow_buttcraft.zip"
+
+       
+    }
+    
+
+
+  ], "Apps": [
+    {
+      
+      "title": "Gorila Tag Mods",
+      "image": "https://play-lh.googleusercontent.com/Sq2fd4Ju0XGIh7WmgwkWfA0cNkBC17tCNnRl7oXA-Ghjb-OkYiMHVpVxvSwwtwLUiCY=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.bencraft.benmodaddon"
+      
+    },
+    { 
+      "title": "Skibidi Toilet",
+      "image": "https://play-lh.googleusercontent.com/8KV7sZuN7W5hNoHCGoAmKUEnDxY_eENdAeOzwckobINfLSUaMvvGP3xxsOFF1WfaZNRT=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.ponyaddon.unicornmodmcpe"
+    },
+    { 
+      "title": "Spider Skibidi Toilet",
+      "image": "https://play-lh.googleusercontent.com/hidbuf0_l-TpppY1ogW7ItmBusIDPMRvUFalF11Ja7NJJCZhYAcdheMp0lwD4bwing0=w240-h480-rw",
+      "url": "https://play.google.com/store/apps/details?id=com.scphorroraddon.sirenmodmcpe"
+
+
+      
+    }
+  ]
+ 
+  }
