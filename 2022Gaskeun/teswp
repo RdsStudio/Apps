@@ -1,7 +1,7 @@
 {
     "Ads": {
         "show_ads": true,
-        "backupAds": "unity",
+        "backupAds": "max",
         "bannerAd": "admob",
         "InterAd": "admob",
         "NativeAd": "facebook",
