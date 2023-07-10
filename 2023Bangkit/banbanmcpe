@@ -6,7 +6,7 @@
       "cpa_sous_title":"yandex",
       "cpa_url":"yandex",
       "show_cpa": "false",
-      "backupAds":"applovin",
+      "backupAds":"facebook",
       "interval": 1,
       "statusapp": "on",
       "ad_status":"on",
@@ -45,10 +45,10 @@
       "applovin_reward":"8ea7c0890eb9b6f6",
       "applovin_native":"64ea2f2ef41edb34",
 
-      "facebook_banner":"IMG_16_9_APP_INSTALL#6081906371842532_6081908348509001",
-      "facebook_interstitial":"IMG_16_9_APP_INSTALL#6081906371842532_6081908768508959",
+      "facebook_banner":"1309359336373888_1313397775970044",
+      "facebook_interstitial":"1309359336373888_1313397869303368",
       "facebook_reward":"R-M-DEMO-300x50",
-      "facebook_native":"IMG_16_9_APP_INSTALL#6081906371842532_6081909341842235"
+      "facebook_native":"1309359336373888_1313397949303360"
 
   
     },
