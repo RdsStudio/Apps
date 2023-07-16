@@ -11,7 +11,7 @@
 	"InterstitialAd": "admob",
         "NativeAd": "admob",
 	"OpenAds": "admob",
-	"intervalAdsClick": 1,
+	"intervalAdsClick": 5,
 	"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
         "NativeAdmob": "ca-app-pub-3940256099942544/224769611x",
