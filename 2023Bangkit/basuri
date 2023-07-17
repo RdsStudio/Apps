@@ -6,7 +6,7 @@
 	"statusApp": "on",
 	"bannerOwn": "on",
 	"appupdate": "com.mutantzombi",
-	"backupAds": "applovin",
+	"backupAds": "unity",
   	"BannerAd": "admob",
 	"InterstitialAd": "admob",
         "NativeAd": "admob",
