@@ -6,7 +6,7 @@
 	"statusApp": "on",
 	"bannerOwn": "on",
 	"appupdate": "com.mutantzombi",
-	"backupAds": "facebook",
+	"backupAds": "max",
   "BannerAd": "admob",
 	"InterstitialAd": "admob",
         "NativeAd": "admob",
