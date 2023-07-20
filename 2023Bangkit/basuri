@@ -25,8 +25,8 @@
 	"ironsource_appKey": "1011dee21",		
 	"unity_game_id": "4687890",
 	"unity_test": true,
-	"unity_banner": "banner",
-	"unity_interstitial": "video",
+	"unity_banner": "Banner_Android",
+	"unity_interstitial": "Interstitial_Android",
         "ImageBanner": false,
         "ImageBannerImg" : "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
         "ImageBannerURL" : "https://www.google.com"
