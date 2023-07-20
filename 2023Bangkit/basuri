@@ -9,7 +9,7 @@
 	"backupAds": "admob",
   	"BannerAd": "applovin",
 	"InterstitialAd": "unity",
-        "NativeAd": "applovin",
+        "NativeAd": "facebook",
 	"OpenAds": "admob",
 	"intervalAdsClick": 1,
 	"BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
